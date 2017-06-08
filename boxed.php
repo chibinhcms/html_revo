@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Revo - Multi-Purpose Responsive Theme</title>
+<title>Boxed page</title>
 <?php include("boxes/head.php"); ?>
 </head>
 
