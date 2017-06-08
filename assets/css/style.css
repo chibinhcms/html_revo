@@ -1,3 +1,7 @@
+body{font-family:Open Sans, sans-serif;}
+
+.font-ct, h1, h2, h3, .static-menu a.main-menu, .container-megamenu.vertical .vertical-wrapper ul li > a strong, .container-megamenu.vertical .vertical-wrapper ul.megamenu li .sub-menu .content .static-menu .menu ul li a.main-menu, .horizontal ul.megamenu > li > a, .footertitle, .module h3.modtitle span, .breadcrumb li a,  .right-block .caption, .item-title a, .best-seller-custom .item-info, .product-box-desc, .product_page_price .price-new, .list-group-item a{font-family:Raleway, sans-serif;}
+
 /******************************************************************************
 						Home Page Slider
 *******************************************************************************/

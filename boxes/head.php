@@ -6,7 +6,6 @@
 
 <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><![endif]-->
 
-
 <link rel="stylesheet" href="assets/css/bootstrap.min.css">
 <link rel="stylesheet" href="assets/css/font-awesome.min.css">
 <link rel="stylesheet" href="assets/css/lib.css">
@@ -50,18 +49,5 @@
 <script src="assets/js/video_background.js"></script>
 <script src="assets/js/so_megamenu.js"></script>
 
- <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'> 	
- <link href='https://fonts.googleapis.com/css?family=Raleway:600,700' rel='stylesheet' type='text/css'> 	
-	
-
-<style type="text/css">body{font-family:Open Sans, sans-serif;}	</style>
-	
-<style type="text/css">.font-ct, h1, h2, h3, .static-menu a.main-menu, .container-megamenu.vertical .vertical-wrapper ul li > a strong, .container-megamenu.vertical .vertical-wrapper ul.megamenu li .sub-menu .content .static-menu .menu ul li a.main-menu, .horizontal ul.megamenu > li > a, .footertitle, .module h3.modtitle span, .breadcrumb li a,  .right-block .caption, .item-title a, .best-seller-custom .item-info, .product-box-desc, .product_page_price .price-new, .list-group-item a{font-family:Raleway, sans-serif;}	</style>
-
-
-
-
-
-
-
-<link href="http://localhost/so_revo/image/catalog/favicon.png" rel="icon" />
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'> 	
+<link href='https://fonts.googleapis.com/css?family=Raleway:600,700' rel='stylesheet' type='text/css'>
