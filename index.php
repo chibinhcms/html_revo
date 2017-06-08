@@ -19,7 +19,7 @@
                             <div class="block-content">
                                 <div class=" col-reg registered-account">
                                     <div class="block-content">
-                                        <form class="form form-login" action="http://localhost/so_revo/index.php?route=account/login" method="post" id="login-form">
+                                        <form class="form form-login" action="index.php?route=account/login" method="post" id="login-form">
                                             <fieldset class="fieldset login" data-hasrequired="* Required Fields">
                                                 <div class="field email required email-input">
                                                     <div class="control">
@@ -36,8 +36,8 @@
                                                     <div>
                                                                                                                                                                                     <a href="https://accounts.google.com/o/oauth2/auth?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%2Fso_revo%2Findex.php%3Froute%3Dextension%2Fmodule%2Fso_sociallogin%2FGoogleLogin&client_id=68476649471-7a9u6khncknb8lrv8f8cjnubd0gf5d2q.apps.googleusercontent.com&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&access_type=offline&approval_prompt=force" class="btn btn-social-icon btn-sm btn-google-plus"><i class="fa fa-google fa-fw" aria-hidden="true"></i></a>
                                                                                                                                                                                                                                                                                                         <a href="https://www.facebook.com/dialog/oauth?client_id=1369816739757677&redirect_uri=http%3A%2F%2Flocalhost%2Fso_revo%2Findex.php%3Froute%3Dextension%2Fmodule%2Fso_sociallogin%2FFacebookLogin&state=46b0c8ac02aebceefde515e5331ce676&scope=email%2Cuser_birthday%2Cuser_location%2Cuser_hometown" class="btn btn-social-icon btn-sm btn-facebook"><i class="fa fa-facebook fa-fw" aria-hidden="true"></i></a>
-                                                                                                                                                                                                                                                                                                        <a href="http://localhost/so_revo/index.php?route=extension/module/so_sociallogin/TwitterLogin" class="btn btn-social-icon btn-sm btn-twitter"><i class="fa fa-twitter fa-fw" aria-hidden="true"></i></a>
-                                                                                                                                                                                                                                                                                                        <a href="http://localhost/so_revo/index.php?route=extension/module/so_sociallogin/LinkedinLogin" class="btn btn-social-icon btn-sm btn-linkdin"><i class="fa fa-linkedin fa-fw" aria-hidden="true"></i></a>
+                                                                                                                                                                                                                                                                                                        <a href="index.php?route=extension/module/so_sociallogin/TwitterLogin" class="btn btn-social-icon btn-sm btn-twitter"><i class="fa fa-twitter fa-fw" aria-hidden="true"></i></a>
+                                                                                                                                                                                                                                                                                                        <a href="index.php?route=extension/module/so_sociallogin/LinkedinLogin" class="btn btn-social-icon btn-sm btn-linkdin"><i class="fa fa-linkedin fa-fw" aria-hidden="true"></i></a>
                                                                                                                                                                         </div>
                                                 </div>
                                                                                                 <div class="secondary ft-link-p"><a class="action remind" href="<b>Notice</b>: Undefined variable: forgotten in <b>D:\projects\so_revo\system\storage\modification\catalog\view\theme\so-revo\template\common\header.tpl</b> on line <b>283</b>"><span>Forgot Your Password?</span></a></div>
@@ -55,7 +55,7 @@
                                 <li>Faster checkout</li>
                                 <li>Save multiple shipping addresses</li>
                                 <li>View and track orders and more</li>
-                            </ul>                                    <a class="btn-reg-popup" title="Register" href="http://localhost/so_revo/index.php?route=account/register">Create an account</a>
+                            </ul>                                    <a class="btn-reg-popup" title="Register" href="index.php?route=account/register">Create an account</a>
                                 </div>
                                 <div style="clear:both;"></div>
                             </div>
@@ -93,7 +93,7 @@
 		 <div class="so-homeslider sohomeslider-inner-1">
 							<div class="item ">
 					<a href="#" title="Slider 1-1" target="_blank">
-						<img class="responsive" src="http://localhost/so_revo/image/cache/catalog/demo/slideshow/home1/slide1-650x510.jpg"  alt="Slider 1-1" />
+						<img class="responsive" src="image/cache/catalog/demo/slideshow/home1/slide1-650x510.jpg"  alt="Slider 1-1" />
 					</a>
 					<div class="sohomeslider-description">
 												<span class="title-slider image-sl11 pos-left font-ct"> The Shopping List</span>
@@ -108,7 +108,7 @@
 				</div>
 							<div class="item ">
 					<a href="#" title="Slider 1-2" target="_blank">
-						<img class="responsive" src="http://localhost/so_revo/image/cache/catalog/demo/slideshow/home1/slide2-650x510.jpg"  alt="Slider 1-2" />
+						<img class="responsive" src="image/cache/catalog/demo/slideshow/home1/slide2-650x510.jpg"  alt="Slider 1-2" />
 					</a>
 					<div class="sohomeslider-description">
 												<div class="text pos-left text-sl12">
@@ -118,7 +118,7 @@
 				</div>
 							<div class="item ">
 					<a href="#" title="Slider 1-3" target="_blank">
-						<img class="responsive" src="http://localhost/so_revo/image/cache/catalog/demo/slideshow/home1/slide3-650x510.jpg"  alt="Slider 1-3" />
+						<img class="responsive" src="image/cache/catalog/demo/slideshow/home1/slide3-650x510.jpg"  alt="Slider 1-3" />
 					</a>
 					<div class="sohomeslider-description">
 												<span class="title-slider image-sl11 pos-left font-ct"> Iphone 6 plus </span>
@@ -247,13 +247,13 @@
 																	</div>
 					<div class="image">
 					 
-													<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=32" target="_self">
-																	<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/15-300x300.jpg" alt="Fuzan sumamipon" class="img-responsive">
+													<a href="product_detail.php" target="_self">
+																	<img src="image/cache/catalog/demo/product/Fashion/15-300x300.jpg" alt="Fuzan sumamipon" class="img-responsive">
 															</a>
 						 											</div>
 
 					<div class="caption">
-													<h4><a class="font-ct" href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=32" target="_self" title="Fuzan sumamipon" >Fuzan sumamipon</a></h4>
+													<h4><a class="font-ct" href="product_detail.php" target="_self" title="Fuzan sumamipon" >Fuzan sumamipon</a></h4>
 																		<div class="rating">
 																						<span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
 																													<span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
@@ -285,13 +285,13 @@
 																	</div>
 					<div class="image">
 					 
-													<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=74" target="_self">
-																	<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/3-300x300.jpg" alt="Hamburger shoulder" class="img-responsive">
+													<a href="product_detail.php" target="_self">
+																	<img src="image/cache/catalog/demo/product/Fashion/3-300x300.jpg" alt="Hamburger shoulder" class="img-responsive">
 															</a>
 						 											</div>
 
 					<div class="caption">
-													<h4><a class="font-ct" href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=74" target="_self" title="Hamburger shoulder" >Hamburger shoulder</a></h4>
+													<h4><a class="font-ct" href="product_detail.php" target="_self" title="Hamburger shoulder" >Hamburger shoulder</a></h4>
 																		<div class="rating">
 																						<span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
 																													<span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
@@ -324,13 +324,13 @@
 															<span class="bt-sale">
 								-29%									
 								</span>
-																													<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=68" target="_self">
-																			<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/11-300x300.jpg" alt="Drumsti tenderlo" class="img-responsive">
+																													<a href="product_detail.php" target="_self">
+																			<img src="image/cache/catalog/demo/product/Fashion/11-300x300.jpg" alt="Drumsti tenderlo" class="img-responsive">
 																	</a>
 							                         </div>
 
                         <div class="caption">
-                                                        <h4 class="font-ct"><a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=68" target="_self" title="Drumsti tenderlo" >Drumsti tenderlo</a></h4>
+                                                        <h4 class="font-ct"><a href="product_detail.php" target="_self" title="Drumsti tenderlo" >Drumsti tenderlo</a></h4>
                                                                                     <p>rem ipsum dolor sit amet, consetetursadipscing elitr, sed diam nonumy eirmodtempor invidunt ut labore et doloremagna aliquyam erat, sed diam voluptua...</p>
                             							                            <div class="rating">
                                                                 									<span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
@@ -359,13 +359,13 @@
 															<span class="bt-sale">
 								-27%									
 								</span>
-																													<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=94" target="_self">
-																			<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/10-300x300.jpg" alt="Doner spareribs" class="img-responsive">
+																													<a href="product_detail.php" target="_self">
+																			<img src="image/cache/catalog/demo/product/Fashion/10-300x300.jpg" alt="Doner spareribs" class="img-responsive">
 																	</a>
 							                         </div>
 
                         <div class="caption">
-                                                        <h4 class="font-ct"><a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=94" target="_self" title="Doner spareribs" >Doner spareribs</a></h4>
+                                                        <h4 class="font-ct"><a href="product_detail.php" target="_self" title="Doner spareribs" >Doner spareribs</a></h4>
                                                                                     <p>rem ipsum dolor sit amet, consetetursadipscing elitr, sed diam nonumy eirmodtempor invidunt ut labore et doloremagna aliquyam erat, sed diam voluptua...</p>
                             							                            <div class="rating">
                                                                 									<span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
@@ -394,13 +394,13 @@
 															<span class="bt-sale">
 								-29%									
 								</span>
-																													<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=58" target="_self">
-																			<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/9-300x300.jpg" alt="Kenle masenitcute" class="img-responsive">
+																													<a href="product_detail.php" target="_self">
+																			<img src="image/cache/catalog/demo/product/Fashion/9-300x300.jpg" alt="Kenle masenitcute" class="img-responsive">
 																	</a>
 							                         </div>
 
                         <div class="caption">
-                                                        <h4 class="font-ct"><a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=58" target="_self" title="Kenle masenitcute" >Kenle masenitcute</a></h4>
+                                                        <h4 class="font-ct"><a href="product_detail.php" target="_self" title="Kenle masenitcute" >Kenle masenitcute</a></h4>
                                                                                     <p>rem ipsum dolor sit amet, consetetursadipscing elitr, sed diam nonumy eirmodtempor invidunt ut labore et doloremagna aliquyam erat, sed diam voluptua...</p>
                             							                            <div class="rating">
                                                                 									<span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
@@ -429,13 +429,13 @@
 															<span class="bt-sale">
 								-3%									
 								</span>
-																													<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=31" target="_self">
-																			<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/6-300x300.jpg" alt="Idest laborumdol" class="img-responsive">
+																													<a href="product_detail.php" target="_self">
+																			<img src="image/cache/catalog/demo/product/Fashion/6-300x300.jpg" alt="Idest laborumdol" class="img-responsive">
 																	</a>
 							                         </div>
 
                         <div class="caption">
-                                                        <h4 class="font-ct"><a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=31" target="_self" title="Idest laborumdol" >Idest laborumdol</a></h4>
+                                                        <h4 class="font-ct"><a href="product_detail.php" target="_self" title="Idest laborumdol" >Idest laborumdol</a></h4>
                                                                                     <p>rem ipsum dolor sit amet, consetetursadipscing elitr, sed diam nonumy eirmodtempor invidunt ut labore et doloremagna aliquyam erat, sed diam voluptua...</p>
                             							                            <div class="rating">
                                                                 									<span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
@@ -464,13 +464,13 @@
 															<span class="bt-sale">
 								-33%									
 								</span>
-																													<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=41" target="_self">
-																			<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/1-300x300.jpg" alt="Dignissi ducimus" class="img-responsive">
+																													<a href="product_detail.php" target="_self">
+																			<img src="image/cache/catalog/demo/product/Fashion/1-300x300.jpg" alt="Dignissi ducimus" class="img-responsive">
 																	</a>
 							                         </div>
 
                         <div class="caption">
-                                                        <h4 class="font-ct"><a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=41" target="_self" title="Dignissi ducimus" >Dignissi ducimus</a></h4>
+                                                        <h4 class="font-ct"><a href="product_detail.php" target="_self" title="Dignissi ducimus" >Dignissi ducimus</a></h4>
                                                                                     <p>rem ipsum dolor sit amet, consetetursadipscing elitr, sed diam nonumy eirmodtempor invidunt ut labore et doloremagna aliquyam erat, sed diam voluptua...</p>
                             							                            <div class="rating">
                                                                 									<span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
@@ -499,13 +499,13 @@
 															<span class="bt-sale">
 								-66%									
 								</span>
-																													<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=36" target="_self">
-																			<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/13-300x300.jpg" alt="Fbrum quidem" class="img-responsive">
+																													<a href="product_detail.php" target="_self">
+																			<img src="image/cache/catalog/demo/product/Fashion/13-300x300.jpg" alt="Fbrum quidem" class="img-responsive">
 																	</a>
 							                         </div>
 
                         <div class="caption">
-                                                        <h4 class="font-ct"><a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=36" target="_self" title="Fbrum quidem" >Fbrum quidem</a></h4>
+                                                        <h4 class="font-ct"><a href="product_detail.php" target="_self" title="Fbrum quidem" >Fbrum quidem</a></h4>
                                                                                     <p>rem ipsum dolor sit amet, consetetursadipscing elitr, sed diam nonumy eirmodtempor invidunt ut labore et doloremagna aliquyam erat, sed diam voluptua...</p>
                             							                            <div class="rating">
                                                                 									<span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
@@ -760,10 +760,10 @@ jQuery(document).ready(function ($) {  ;
 								<div class="item-image">
 									<div class="item-img-info">
 									
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=68" class="lt-image" target="_self"
+										<a href="product_detail.php" class="lt-image" target="_self"
 										   title="Drumsti tenderlo"  >
-																							<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/11-100x100.jpg" class="img-1" alt="Drumsti tenderlo">
-												<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/3-100x100.jpg" class="img-2" alt="Drumsti tenderlo">
+																							<img src="image/cache/catalog/demo/product/Fashion/11-100x100.jpg" class="img-1" alt="Drumsti tenderlo">
+												<img src="image/cache/catalog/demo/product/Fashion/3-100x100.jpg" class="img-2" alt="Drumsti tenderlo">
 																					</a>
 										
 																			</div>
@@ -779,7 +779,7 @@ jQuery(document).ready(function ($) {  ;
 																										<span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
 																									</div>
 																																											<div class="item-title">
-												<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=68" target="_self"
+												<a href="product_detail.php" target="_self"
 												   title="Drumsti tenderlo"  >
 													Drumsti tenderlo												</a>
 											</div>
@@ -811,10 +811,10 @@ jQuery(document).ready(function ($) {  ;
 								<div class="item-image">
 									<div class="item-img-info">
 									
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=47" class="lt-image" target="_self"
+										<a href="product_detail.php" class="lt-image" target="_self"
 										   title="Denouncing pleasure"  >
-																							<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic2/20-100x100.jpg" class="img-1" alt="Denouncing pleasure">
-												<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic2/21-100x100.jpg" class="img-2" alt="Denouncing pleasure">
+																							<img src="image/cache/catalog/demo/product/Electronic2/20-100x100.jpg" class="img-1" alt="Denouncing pleasure">
+												<img src="image/cache/catalog/demo/product/Electronic2/21-100x100.jpg" class="img-2" alt="Denouncing pleasure">
 																					</a>
 										
 																			</div>
@@ -830,7 +830,7 @@ jQuery(document).ready(function ($) {  ;
 																										<span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
 																									</div>
 																																											<div class="item-title">
-												<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=47" target="_self"
+												<a href="product_detail.php" target="_self"
 												   title="Denouncing pleasure"  >
 													Denouncing pleasure												</a>
 											</div>
@@ -862,10 +862,10 @@ jQuery(document).ready(function ($) {  ;
 								<div class="item-image">
 									<div class="item-img-info">
 									
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=36" class="lt-image" target="_self"
+										<a href="product_detail.php" class="lt-image" target="_self"
 										   title="Fbrum quidem"  >
-																							<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/13-100x100.jpg" class="img-1" alt="Fbrum quidem">
-												<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/9-100x100.jpg" class="img-2" alt="Fbrum quidem">
+																							<img src="image/cache/catalog/demo/product/Fashion/13-100x100.jpg" class="img-1" alt="Fbrum quidem">
+												<img src="image/cache/catalog/demo/product/Fashion/9-100x100.jpg" class="img-2" alt="Fbrum quidem">
 																					</a>
 										
 																			</div>
@@ -881,7 +881,7 @@ jQuery(document).ready(function ($) {  ;
 																										<span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
 																									</div>
 																																											<div class="item-title">
-												<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=36" target="_self"
+												<a href="product_detail.php" target="_self"
 												   title="Fbrum quidem"  >
 													Fbrum quidem												</a>
 											</div>
@@ -913,10 +913,10 @@ jQuery(document).ready(function ($) {  ;
 								<div class="item-image">
 									<div class="item-img-info">
 									
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=72" class="lt-image" target="_self"
+										<a href="product_detail.php" class="lt-image" target="_self"
 										   title="Boudin consequat"  >
-																							<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic/12-100x100.jpg" class="img-1" alt="Boudin consequat">
-												<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic/7-100x100.jpg" class="img-2" alt="Boudin consequat">
+																							<img src="image/cache/catalog/demo/product/Electronic/12-100x100.jpg" class="img-1" alt="Boudin consequat">
+												<img src="image/cache/catalog/demo/product/Electronic/7-100x100.jpg" class="img-2" alt="Boudin consequat">
 																					</a>
 										
 																			</div>
@@ -932,7 +932,7 @@ jQuery(document).ready(function ($) {  ;
 																										<span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
 																									</div>
 																																											<div class="item-title">
-												<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=72" target="_self"
+												<a href="product_detail.php" target="_self"
 												   title="Boudin consequat"  >
 													Boudin consequat												</a>
 											</div>
@@ -966,10 +966,10 @@ jQuery(document).ready(function ($) {  ;
 								<div class="item-image">
 									<div class="item-img-info">
 									
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=172" class="lt-image" target="_self"
+										<a href="product_detail.php" class="lt-image" target="_self"
 										   title="Catlyn snake pilit"  >
-																							<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Sport/22-100x100.jpg" class="img-1" alt="Catlyn snake pilit">
-												<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Sport/21-100x100.jpg" class="img-2" alt="Catlyn snake pilit">
+																							<img src="image/cache/catalog/demo/product/Sport/22-100x100.jpg" class="img-1" alt="Catlyn snake pilit">
+												<img src="image/cache/catalog/demo/product/Sport/21-100x100.jpg" class="img-2" alt="Catlyn snake pilit">
 																					</a>
 										
 																			</div>
@@ -985,7 +985,7 @@ jQuery(document).ready(function ($) {  ;
 																										<span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
 																									</div>
 																																											<div class="item-title">
-												<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=172" target="_self"
+												<a href="product_detail.php" target="_self"
 												   title="Catlyn snake pilit"  >
 													Catlyn snake pilit												</a>
 											</div>
@@ -1017,10 +1017,10 @@ jQuery(document).ready(function ($) {  ;
 								<div class="item-image">
 									<div class="item-img-info">
 									
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=94" class="lt-image" target="_self"
+										<a href="product_detail.php" class="lt-image" target="_self"
 										   title="Doner spareribs"  >
-																							<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/10-100x100.jpg" class="img-1" alt="Doner spareribs">
-												<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/5-100x100.jpg" class="img-2" alt="Doner spareribs">
+																							<img src="image/cache/catalog/demo/product/Fashion/10-100x100.jpg" class="img-1" alt="Doner spareribs">
+												<img src="image/cache/catalog/demo/product/Fashion/5-100x100.jpg" class="img-2" alt="Doner spareribs">
 																					</a>
 										
 																			</div>
@@ -1036,7 +1036,7 @@ jQuery(document).ready(function ($) {  ;
 																										<span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
 																									</div>
 																																											<div class="item-title">
-												<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=94" target="_self"
+												<a href="product_detail.php" target="_self"
 												   title="Doner spareribs"  >
 													Doner spareribs												</a>
 											</div>
@@ -1068,10 +1068,10 @@ jQuery(document).ready(function ($) {  ;
 								<div class="item-image">
 									<div class="item-img-info">
 									
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=156" class="lt-image" target="_self"
+										<a href="product_detail.php" class="lt-image" target="_self"
 										   title="sed quia non nu"  >
-																							<img src="http://localhost/so_revo/image/cache/catalog/demo/product/800/18-100x100.jpg" class="img-1" alt="sed quia non nu">
-												<img src="http://localhost/so_revo/image/cache/catalog/demo/product/800/20.1-100x100.jpg" class="img-2" alt="sed quia non nu">
+																							<img src="image/cache/catalog/demo/product/800/18-100x100.jpg" class="img-1" alt="sed quia non nu">
+												<img src="image/cache/catalog/demo/product/800/20.1-100x100.jpg" class="img-2" alt="sed quia non nu">
 																					</a>
 										
 																			</div>
@@ -1087,7 +1087,7 @@ jQuery(document).ready(function ($) {  ;
 																										<span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
 																									</div>
 																																											<div class="item-title">
-												<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=156" target="_self"
+												<a href="product_detail.php" target="_self"
 												   title="sed quia non nu"  >
 													sed quia non nu												</a>
 											</div>
@@ -1119,10 +1119,10 @@ jQuery(document).ready(function ($) {  ;
 								<div class="item-image">
 									<div class="item-img-info">
 									
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=157" class="lt-image" target="_self"
+										<a href="product_detail.php" class="lt-image" target="_self"
 										   title="tatis et quasi"  >
-																							<img src="http://localhost/so_revo/image/cache/catalog/demo/product/800/19-100x100.jpg" class="img-1" alt="tatis et quasi">
-												<img src="http://localhost/so_revo/image/cache/catalog/demo/product/800/12-100x100.jpg" class="img-2" alt="tatis et quasi">
+																							<img src="image/cache/catalog/demo/product/800/19-100x100.jpg" class="img-1" alt="tatis et quasi">
+												<img src="image/cache/catalog/demo/product/800/12-100x100.jpg" class="img-2" alt="tatis et quasi">
 																					</a>
 										
 																			</div>
@@ -1138,7 +1138,7 @@ jQuery(document).ready(function ($) {  ;
 																										<span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
 																									</div>
 																																											<div class="item-title">
-												<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=157" target="_self"
+												<a href="product_detail.php" target="_self"
 												   title="tatis et quasi"  >
 													tatis et quasi												</a>
 											</div>
@@ -1331,7 +1331,7 @@ jQuery(document).ready(function ($) {  ;
 			<div class="ltabs-tabs-container" data-delay="500"
 				 data-duration="800"
 				 data-effect="none"
-				 data-ajaxurl="http://localhost/so_revo/" data-type_source="1"
+				 data-ajaxurl="" data-type_source="1"
 				 data-type_show="slider" >
 				 
 				<!--Begin Tabs-->
@@ -1368,7 +1368,7 @@ jQuery(document).ready(function ($) {  ;
 						<div>
 							<a href="#" title="" target="_self" >
 								<img class="categories-loadimage" title="" alt=""
-									 src="http://localhost/so_revo/image/cache/catalog/demo/banners/home1/6-196x540.jpg"/>
+									 src="image/cache/catalog/demo/banners/home1/6-196x540.jpg"/>
 							</a>
 						</div>
 					</div>
@@ -1381,16 +1381,16 @@ jQuery(document).ready(function ($) {  ;
 				<div class="item-inner product-thumb product-layout">
 					<div class="product-item-container"> 
 						<div class="left-block so-quickview">
-							<a class="hidden" data-product='68' href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=68" target="_self"></a>
+							<a class="hidden" data-product='68' href="product_detail.php" target="_self"></a>
 															<div class="box-label_skew">
 																	<span class="label-product label-sale">-29%</span>
 																								</div>
 								<div class="product-image-container second_img  ">
 									<a class="lt-image" 
-									   href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=68" target="_self"
+									   href="product_detail.php" target="_self"
 									   title="Drumsti tenderlo">
-																					<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/11-180x180.jpg" class="img-1 img-responsive" alt="Drumsti tenderlo">
-											<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/3-180x180.jpg" class="img-2 img-responsive" alt="Drumsti tenderlo">
+																					<img src="image/cache/catalog/demo/product/Fashion/11-180x180.jpg" class="img-1 img-responsive" alt="Drumsti tenderlo">
+											<img src="image/cache/catalog/demo/product/Fashion/3-180x180.jpg" class="img-2 img-responsive" alt="Drumsti tenderlo">
 																			</a>
 								</div>
 													</div>
@@ -1398,7 +1398,7 @@ jQuery(document).ready(function ($) {  ;
 						<div class="right-block">
 													<div class="caption">
 																	<h4>
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=68" 
+										<a href="product_detail.php" 
 										   title="Drumsti tenderlo" target="_self">
 										   Drumsti tenderlo										</a>
 									</h4>
@@ -1425,15 +1425,15 @@ jQuery(document).ready(function ($) {  ;
 				<div class="item-inner product-thumb product-layout">
 					<div class="product-item-container"> 
 						<div class="left-block so-quickview">
-							<a class="hidden" data-product='48' href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=48" target="_self"></a>
+							<a class="hidden" data-product='48' href="product_detail.php" target="_self"></a>
 															<div class="box-label_skew">
 																								</div>
 								<div class="product-image-container second_img  ">
 									<a class="lt-image" 
-									   href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=48" target="_self"
+									   href="product_detail.php" target="_self"
 									   title="Faucibus rutrum">
-																					<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/12-180x180.jpg" class="img-1 img-responsive" alt="Faucibus rutrum">
-											<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/14-180x180.jpg" class="img-2 img-responsive" alt="Faucibus rutrum">
+																					<img src="image/cache/catalog/demo/product/Fashion/12-180x180.jpg" class="img-1 img-responsive" alt="Faucibus rutrum">
+											<img src="image/cache/catalog/demo/product/Fashion/14-180x180.jpg" class="img-2 img-responsive" alt="Faucibus rutrum">
 																			</a>
 								</div>
 													</div>
@@ -1441,7 +1441,7 @@ jQuery(document).ready(function ($) {  ;
 						<div class="right-block">
 													<div class="caption">
 																	<h4>
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=48" 
+										<a href="product_detail.php" 
 										   title="Faucibus rutrum" target="_self">
 										   Faucibus rutrum										</a>
 									</h4>
@@ -1471,15 +1471,15 @@ jQuery(document).ready(function ($) {  ;
 				<div class="item-inner product-thumb product-layout">
 					<div class="product-item-container"> 
 						<div class="left-block so-quickview">
-							<a class="hidden" data-product='34' href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=34" target="_self"></a>
+							<a class="hidden" data-product='34' href="product_detail.php" target="_self"></a>
 															<div class="box-label_skew">
 																								</div>
 								<div class="product-image-container second_img  ">
 									<a class="lt-image" 
-									   href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=34" target="_self"
+									   href="product_detail.php" target="_self"
 									   title="Fetiam interdum">
-																					<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/14-180x180.jpg" class="img-1 img-responsive" alt="Fetiam interdum">
-											<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/14-180x180.jpg" class="img-2 img-responsive" alt="Fetiam interdum">
+																					<img src="image/cache/catalog/demo/product/Fashion/14-180x180.jpg" class="img-1 img-responsive" alt="Fetiam interdum">
+											<img src="image/cache/catalog/demo/product/Fashion/14-180x180.jpg" class="img-2 img-responsive" alt="Fetiam interdum">
 																			</a>
 								</div>
 													</div>
@@ -1487,7 +1487,7 @@ jQuery(document).ready(function ($) {  ;
 						<div class="right-block">
 													<div class="caption">
 																	<h4>
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=34" 
+										<a href="product_detail.php" 
 										   title="Fetiam interdum" target="_self">
 										   Fetiam interdum										</a>
 									</h4>
@@ -1514,16 +1514,16 @@ jQuery(document).ready(function ($) {  ;
 				<div class="item-inner product-thumb product-layout">
 					<div class="product-item-container"> 
 						<div class="left-block so-quickview">
-							<a class="hidden" data-product='32' href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=32" target="_self"></a>
+							<a class="hidden" data-product='32' href="product_detail.php" target="_self"></a>
 															<div class="box-label_skew">
 																	<span class="label-product label-sale">-36%</span>
 																								</div>
 								<div class="product-image-container second_img  ">
 									<a class="lt-image" 
-									   href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=32" target="_self"
+									   href="product_detail.php" target="_self"
 									   title="Fuzan sumamipon">
-																					<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/15-180x180.jpg" class="img-1 img-responsive" alt="Fuzan sumamipon">
-											<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/6-180x180.jpg" class="img-2 img-responsive" alt="Fuzan sumamipon">
+																					<img src="image/cache/catalog/demo/product/Fashion/15-180x180.jpg" class="img-1 img-responsive" alt="Fuzan sumamipon">
+											<img src="image/cache/catalog/demo/product/Fashion/6-180x180.jpg" class="img-2 img-responsive" alt="Fuzan sumamipon">
 																			</a>
 								</div>
 													</div>
@@ -1531,7 +1531,7 @@ jQuery(document).ready(function ($) {  ;
 						<div class="right-block">
 													<div class="caption">
 																	<h4>
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=32" 
+										<a href="product_detail.php" 
 										   title="Fuzan sumamipon" target="_self">
 										   Fuzan sumamipon										</a>
 									</h4>
@@ -1561,15 +1561,15 @@ jQuery(document).ready(function ($) {  ;
 				<div class="item-inner product-thumb product-layout">
 					<div class="product-item-container"> 
 						<div class="left-block so-quickview">
-							<a class="hidden" data-product='43' href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=43" target="_self"></a>
+							<a class="hidden" data-product='43' href="product_detail.php" target="_self"></a>
 															<div class="box-label_skew">
 																								</div>
 								<div class="product-image-container second_img  ">
 									<a class="lt-image" 
-									   href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=43" target="_self"
+									   href="product_detail.php" target="_self"
 									   title="Goken rumanitren">
-																					<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/2-180x180.jpg" class="img-1 img-responsive" alt="Goken rumanitren">
-											<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/8-180x180.jpg" class="img-2 img-responsive" alt="Goken rumanitren">
+																					<img src="image/cache/catalog/demo/product/Fashion/2-180x180.jpg" class="img-1 img-responsive" alt="Goken rumanitren">
+											<img src="image/cache/catalog/demo/product/Fashion/8-180x180.jpg" class="img-2 img-responsive" alt="Goken rumanitren">
 																			</a>
 								</div>
 													</div>
@@ -1577,7 +1577,7 @@ jQuery(document).ready(function ($) {  ;
 						<div class="right-block">
 													<div class="caption">
 																	<h4>
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=43" 
+										<a href="product_detail.php" 
 										   title="Goken rumanitren" target="_self">
 										   Goken rumanitren										</a>
 									</h4>
@@ -1604,16 +1604,16 @@ jQuery(document).ready(function ($) {  ;
 				<div class="item-inner product-thumb product-layout">
 					<div class="product-item-container"> 
 						<div class="left-block so-quickview">
-							<a class="hidden" data-product='74' href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=74" target="_self"></a>
+							<a class="hidden" data-product='74' href="product_detail.php" target="_self"></a>
 															<div class="box-label_skew">
 																	<span class="label-product label-sale">-15%</span>
 																								</div>
 								<div class="product-image-container second_img  ">
 									<a class="lt-image" 
-									   href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=74" target="_self"
+									   href="product_detail.php" target="_self"
 									   title="Hamburger shoulder">
-																					<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/3-180x180.jpg" class="img-1 img-responsive" alt="Hamburger shoulder">
-											<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/15-180x180.jpg" class="img-2 img-responsive" alt="Hamburger shoulder">
+																					<img src="image/cache/catalog/demo/product/Fashion/3-180x180.jpg" class="img-1 img-responsive" alt="Hamburger shoulder">
+											<img src="image/cache/catalog/demo/product/Fashion/15-180x180.jpg" class="img-2 img-responsive" alt="Hamburger shoulder">
 																			</a>
 								</div>
 													</div>
@@ -1621,7 +1621,7 @@ jQuery(document).ready(function ($) {  ;
 						<div class="right-block">
 													<div class="caption">
 																	<h4>
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=74" 
+										<a href="product_detail.php" 
 										   title="Hamburger shoulder" target="_self">
 										   Hamburger shoulder										</a>
 									</h4>
@@ -1651,16 +1651,16 @@ jQuery(document).ready(function ($) {  ;
 				<div class="item-inner product-thumb product-layout">
 					<div class="product-item-container"> 
 						<div class="left-block so-quickview">
-							<a class="hidden" data-product='45' href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=45" target="_self"></a>
+							<a class="hidden" data-product='45' href="product_detail.php" target="_self"></a>
 															<div class="box-label_skew">
 																	<span class="label-product label-sale">-33%</span>
 																								</div>
 								<div class="product-image-container second_img  ">
 									<a class="lt-image" 
-									   href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=45" target="_self"
+									   href="product_detail.php" target="_self"
 									   title="Hazen dimapolan">
-																					<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/4-180x180.jpg" class="img-1 img-responsive" alt="Hazen dimapolan">
-											<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/2-180x180.jpg" class="img-2 img-responsive" alt="Hazen dimapolan">
+																					<img src="image/cache/catalog/demo/product/Fashion/4-180x180.jpg" class="img-1 img-responsive" alt="Hazen dimapolan">
+											<img src="image/cache/catalog/demo/product/Fashion/2-180x180.jpg" class="img-2 img-responsive" alt="Hazen dimapolan">
 																			</a>
 								</div>
 													</div>
@@ -1668,7 +1668,7 @@ jQuery(document).ready(function ($) {  ;
 						<div class="right-block">
 													<div class="caption">
 																	<h4>
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=45" 
+										<a href="product_detail.php" 
 										   title="Hazen dimapolan" target="_self">
 										   Hazen dimapolan										</a>
 									</h4>
@@ -1695,16 +1695,16 @@ jQuery(document).ready(function ($) {  ;
 				<div class="item-inner product-thumb product-layout">
 					<div class="product-item-container"> 
 						<div class="left-block so-quickview">
-							<a class="hidden" data-product='44' href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=44" target="_self"></a>
+							<a class="hidden" data-product='44' href="product_detail.php" target="_self"></a>
 															<div class="box-label_skew">
 																	<span class="label-product label-sale">-94%</span>
 																								</div>
 								<div class="product-image-container second_img  ">
 									<a class="lt-image" 
-									   href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=44" target="_self"
+									   href="product_detail.php" target="_self"
 									   title="Hazen Zimalan">
-																					<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/5-180x180.jpg" class="img-1 img-responsive" alt="Hazen Zimalan">
-											<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/4-180x180.jpg" class="img-2 img-responsive" alt="Hazen Zimalan">
+																					<img src="image/cache/catalog/demo/product/Fashion/5-180x180.jpg" class="img-1 img-responsive" alt="Hazen Zimalan">
+											<img src="image/cache/catalog/demo/product/Fashion/4-180x180.jpg" class="img-2 img-responsive" alt="Hazen Zimalan">
 																			</a>
 								</div>
 													</div>
@@ -1712,7 +1712,7 @@ jQuery(document).ready(function ($) {  ;
 						<div class="right-block">
 													<div class="caption">
 																	<h4>
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=44" 
+										<a href="product_detail.php" 
 										   title="Hazen Zimalan" target="_self">
 										   Hazen Zimalan										</a>
 									</h4>
@@ -1742,16 +1742,16 @@ jQuery(document).ready(function ($) {  ;
 				<div class="item-inner product-thumb product-layout">
 					<div class="product-item-container"> 
 						<div class="left-block so-quickview">
-							<a class="hidden" data-product='31' href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=31" target="_self"></a>
+							<a class="hidden" data-product='31' href="product_detail.php" target="_self"></a>
 															<div class="box-label_skew">
 																	<span class="label-product label-sale">-3%</span>
 																								</div>
 								<div class="product-image-container second_img  ">
 									<a class="lt-image" 
-									   href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=31" target="_self"
+									   href="product_detail.php" target="_self"
 									   title="Idest laborumdol">
-																					<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/6-180x180.jpg" class="img-1 img-responsive" alt="Idest laborumdol">
-											<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/4-180x180.jpg" class="img-2 img-responsive" alt="Idest laborumdol">
+																					<img src="image/cache/catalog/demo/product/Fashion/6-180x180.jpg" class="img-1 img-responsive" alt="Idest laborumdol">
+											<img src="image/cache/catalog/demo/product/Fashion/4-180x180.jpg" class="img-2 img-responsive" alt="Idest laborumdol">
 																			</a>
 								</div>
 													</div>
@@ -1759,7 +1759,7 @@ jQuery(document).ready(function ($) {  ;
 						<div class="right-block">
 													<div class="caption">
 																	<h4>
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=31" 
+										<a href="product_detail.php" 
 										   title="Idest laborumdol" target="_self">
 										   Idest laborumdol										</a>
 									</h4>
@@ -1786,15 +1786,15 @@ jQuery(document).ready(function ($) {  ;
 				<div class="item-inner product-thumb product-layout">
 					<div class="product-item-container"> 
 						<div class="left-block so-quickview">
-							<a class="hidden" data-product='77' href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=77" target="_self"></a>
+							<a class="hidden" data-product='77' href="product_detail.php" target="_self"></a>
 															<div class="box-label_skew">
 																								</div>
 								<div class="product-image-container second_img  ">
 									<a class="lt-image" 
-									   href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=77" target="_self"
+									   href="product_detail.php" target="_self"
 									   title="Incididunt cowlabore">
-																					<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/7-180x180.jpg" class="img-1 img-responsive" alt="Incididunt cowlabore">
-											<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/15-180x180.jpg" class="img-2 img-responsive" alt="Incididunt cowlabore">
+																					<img src="image/cache/catalog/demo/product/Fashion/7-180x180.jpg" class="img-1 img-responsive" alt="Incididunt cowlabore">
+											<img src="image/cache/catalog/demo/product/Fashion/15-180x180.jpg" class="img-2 img-responsive" alt="Incididunt cowlabore">
 																			</a>
 								</div>
 													</div>
@@ -1802,7 +1802,7 @@ jQuery(document).ready(function ($) {  ;
 						<div class="right-block">
 													<div class="caption">
 																	<h4>
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=77" 
+										<a href="product_detail.php" 
 										   title="Incididunt cowlabore" target="_self">
 										   Incididunt cowlabore										</a>
 									</h4>
@@ -1832,15 +1832,15 @@ jQuery(document).ready(function ($) {  ;
 				<div class="item-inner product-thumb product-layout">
 					<div class="product-item-container"> 
 						<div class="left-block so-quickview">
-							<a class="hidden" data-product='29' href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=29" target="_self"></a>
+							<a class="hidden" data-product='29' href="product_detail.php" target="_self"></a>
 															<div class="box-label_skew">
 																								</div>
 								<div class="product-image-container second_img  ">
 									<a class="lt-image" 
-									   href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=29" target="_self"
+									   href="product_detail.php" target="_self"
 									   title="Indignation anddress">
-																					<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/8-180x180.jpg" class="img-1 img-responsive" alt="Indignation anddress">
-											<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/13-180x180.jpg" class="img-2 img-responsive" alt="Indignation anddress">
+																					<img src="image/cache/catalog/demo/product/Fashion/8-180x180.jpg" class="img-1 img-responsive" alt="Indignation anddress">
+											<img src="image/cache/catalog/demo/product/Fashion/13-180x180.jpg" class="img-2 img-responsive" alt="Indignation anddress">
 																			</a>
 								</div>
 													</div>
@@ -1848,7 +1848,7 @@ jQuery(document).ready(function ($) {  ;
 						<div class="right-block">
 													<div class="caption">
 																	<h4>
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=29" 
+										<a href="product_detail.php" 
 										   title="Indignation anddress" target="_self">
 										   Indignation anddress										</a>
 									</h4>
@@ -1875,16 +1875,16 @@ jQuery(document).ready(function ($) {  ;
 				<div class="item-inner product-thumb product-layout">
 					<div class="product-item-container"> 
 						<div class="left-block so-quickview">
-							<a class="hidden" data-product='58' href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=58" target="_self"></a>
+							<a class="hidden" data-product='58' href="product_detail.php" target="_self"></a>
 															<div class="box-label_skew">
 																	<span class="label-product label-sale">-29%</span>
 																								</div>
 								<div class="product-image-container second_img  ">
 									<a class="lt-image" 
-									   href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=58" target="_self"
+									   href="product_detail.php" target="_self"
 									   title="Kenle masenitcute">
-																					<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/9-180x180.jpg" class="img-1 img-responsive" alt="Kenle masenitcute">
-											<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/15-180x180.jpg" class="img-2 img-responsive" alt="Kenle masenitcute">
+																					<img src="image/cache/catalog/demo/product/Fashion/9-180x180.jpg" class="img-1 img-responsive" alt="Kenle masenitcute">
+											<img src="image/cache/catalog/demo/product/Fashion/15-180x180.jpg" class="img-2 img-responsive" alt="Kenle masenitcute">
 																			</a>
 								</div>
 													</div>
@@ -1892,7 +1892,7 @@ jQuery(document).ready(function ($) {  ;
 						<div class="right-block">
 													<div class="caption">
 																	<h4>
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=58" 
+										<a href="product_detail.php" 
 										   title="Kenle masenitcute" target="_self">
 										   Kenle masenitcute										</a>
 									</h4>
@@ -2227,7 +2227,7 @@ jQuery(document).ready(function ($) {
 			<div class="ltabs-tabs-container" data-delay="500"
 				 data-duration="800"
 				 data-effect="none"
-				 data-ajaxurl="http://localhost/so_revo/" data-type_source="1"
+				 data-ajaxurl="" data-type_source="1"
 				 data-type_show="slider" >
 				 
 				<!--Begin Tabs-->
@@ -2264,7 +2264,7 @@ jQuery(document).ready(function ($) {
 						<div>
 							<a href="#" title="" target="_self" >
 								<img class="categories-loadimage" title="" alt=""
-									 src="http://localhost/so_revo/image/cache/catalog/demo/banners/home1/7-196x540.jpg"/>
+									 src="image/cache/catalog/demo/banners/home1/7-196x540.jpg"/>
 							</a>
 						</div>
 					</div>
@@ -2283,16 +2283,16 @@ jQuery(document).ready(function ($) {
 				<div class="item-inner product-thumb product-layout">
 					<div class="product-item-container"> 
 						<div class="left-block so-quickview">
-							<a class="hidden" data-product='165' href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=165" target="_self"></a>
+							<a class="hidden" data-product='165' href="product_detail.php" target="_self"></a>
 															<div class="box-label_skew">
 																									<span class="label-product label-new">New</span>
 																</div>
 								<div class="product-image-container second_img  ">
 									<a class="lt-image" 
-									   href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=165" target="_self"
+									   href="product_detail.php" target="_self"
 									   title="Syndra oriana noal">
-																					<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic2/8-180x180.jpg" class="img-1 img-responsive" alt="Syndra oriana noal">
-											<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic2/9-180x180.jpg" class="img-2 img-responsive" alt="Syndra oriana noal">
+																					<img src="image/cache/catalog/demo/product/Electronic2/8-180x180.jpg" class="img-1 img-responsive" alt="Syndra oriana noal">
+											<img src="image/cache/catalog/demo/product/Electronic2/9-180x180.jpg" class="img-2 img-responsive" alt="Syndra oriana noal">
 																			</a>
 								</div>
 													</div>
@@ -2300,7 +2300,7 @@ jQuery(document).ready(function ($) {
 						<div class="right-block">
 													<div class="caption">
 																	<h4>
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=165" 
+										<a href="product_detail.php" 
 										   title="Syndra oriana noal" target="_self">
 										   Syndra oriana noal										</a>
 									</h4>
@@ -2327,16 +2327,16 @@ jQuery(document).ready(function ($) {
 				<div class="item-inner product-thumb product-layout">
 					<div class="product-item-container"> 
 						<div class="left-block so-quickview">
-							<a class="hidden" data-product='167' href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=167" target="_self"></a>
+							<a class="hidden" data-product='167' href="product_detail.php" target="_self"></a>
 															<div class="box-label_skew">
 																									<span class="label-product label-new">New</span>
 																</div>
 								<div class="product-image-container second_img  ">
 									<a class="lt-image" 
-									   href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=167" target="_self"
+									   href="product_detail.php" target="_self"
 									   title="Sokana bresaola">
-																					<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic2/13-180x180.jpg" class="img-1 img-responsive" alt="Sokana bresaola">
-											<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic2/10-180x180.jpg" class="img-2 img-responsive" alt="Sokana bresaola">
+																					<img src="image/cache/catalog/demo/product/Electronic2/13-180x180.jpg" class="img-1 img-responsive" alt="Sokana bresaola">
+											<img src="image/cache/catalog/demo/product/Electronic2/10-180x180.jpg" class="img-2 img-responsive" alt="Sokana bresaola">
 																			</a>
 								</div>
 													</div>
@@ -2344,7 +2344,7 @@ jQuery(document).ready(function ($) {
 						<div class="right-block">
 													<div class="caption">
 																	<h4>
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=167" 
+										<a href="product_detail.php" 
 										   title="Sokana bresaola" target="_self">
 										   Sokana bresaola										</a>
 									</h4>
@@ -2374,16 +2374,16 @@ jQuery(document).ready(function ($) {
 				<div class="item-inner product-thumb product-layout">
 					<div class="product-item-container"> 
 						<div class="left-block so-quickview">
-							<a class="hidden" data-product='168' href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=168" target="_self"></a>
+							<a class="hidden" data-product='168' href="product_detail.php" target="_self"></a>
 															<div class="box-label_skew">
 																									<span class="label-product label-new">New</span>
 																</div>
 								<div class="product-image-container second_img  ">
 									<a class="lt-image" 
-									   href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=168" target="_self"
+									   href="product_detail.php" target="_self"
 									   title="Nautilus bresaola">
-																					<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic2/48-180x180.jpg" class="img-1 img-responsive" alt="Nautilus bresaola">
-											<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic2/47-180x180.jpg" class="img-2 img-responsive" alt="Nautilus bresaola">
+																					<img src="image/cache/catalog/demo/product/Electronic2/48-180x180.jpg" class="img-1 img-responsive" alt="Nautilus bresaola">
+											<img src="image/cache/catalog/demo/product/Electronic2/47-180x180.jpg" class="img-2 img-responsive" alt="Nautilus bresaola">
 																			</a>
 								</div>
 													</div>
@@ -2391,7 +2391,7 @@ jQuery(document).ready(function ($) {
 						<div class="right-block">
 													<div class="caption">
 																	<h4>
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=168" 
+										<a href="product_detail.php" 
 										   title="Nautilus bresaola" target="_self">
 										   Nautilus bresaola										</a>
 									</h4>
@@ -2418,16 +2418,16 @@ jQuery(document).ready(function ($) {
 				<div class="item-inner product-thumb product-layout">
 					<div class="product-item-container"> 
 						<div class="left-block so-quickview">
-							<a class="hidden" data-product='164' href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=164" target="_self"></a>
+							<a class="hidden" data-product='164' href="product_detail.php" target="_self"></a>
 															<div class="box-label_skew">
 																									<span class="label-product label-new">New</span>
 																</div>
 								<div class="product-image-container second_img  ">
 									<a class="lt-image" 
-									   href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=164" target="_self"
+									   href="product_detail.php" target="_self"
 									   title="Leona sumertis">
-																					<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic2/43-180x180.jpg" class="img-1 img-responsive" alt="Leona sumertis">
-											<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic2/45-180x180.jpg" class="img-2 img-responsive" alt="Leona sumertis">
+																					<img src="image/cache/catalog/demo/product/Electronic2/43-180x180.jpg" class="img-1 img-responsive" alt="Leona sumertis">
+											<img src="image/cache/catalog/demo/product/Electronic2/45-180x180.jpg" class="img-2 img-responsive" alt="Leona sumertis">
 																			</a>
 								</div>
 													</div>
@@ -2435,7 +2435,7 @@ jQuery(document).ready(function ($) {
 						<div class="right-block">
 													<div class="caption">
 																	<h4>
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=164" 
+										<a href="product_detail.php" 
 										   title="Leona sumertis" target="_self">
 										   Leona sumertis										</a>
 									</h4>
@@ -2465,17 +2465,17 @@ jQuery(document).ready(function ($) {
 				<div class="item-inner product-thumb product-layout">
 					<div class="product-item-container"> 
 						<div class="left-block so-quickview">
-							<a class="hidden" data-product='28' href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=28" target="_self"></a>
+							<a class="hidden" data-product='28' href="product_detail.php" target="_self"></a>
 															<div class="box-label_skew">
 																	<span class="label-product label-sale">-30%</span>
 																									<span class="label-product label-new">New</span>
 																</div>
 								<div class="product-image-container second_img  ">
 									<a class="lt-image" 
-									   href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=28" target="_self"
+									   href="product_detail.php" target="_self"
 									   title="Deserunt mollitia">
-																					<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic/9-180x180.jpg" class="img-1 img-responsive" alt="Deserunt mollitia">
-											<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic2/50-180x180.jpg" class="img-2 img-responsive" alt="Deserunt mollitia">
+																					<img src="image/cache/catalog/demo/product/Electronic/9-180x180.jpg" class="img-1 img-responsive" alt="Deserunt mollitia">
+											<img src="image/cache/catalog/demo/product/Electronic2/50-180x180.jpg" class="img-2 img-responsive" alt="Deserunt mollitia">
 																			</a>
 								</div>
 													</div>
@@ -2483,7 +2483,7 @@ jQuery(document).ready(function ($) {
 						<div class="right-block">
 													<div class="caption">
 																	<h4>
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=28" 
+										<a href="product_detail.php" 
 										   title="Deserunt mollitia" target="_self">
 										   Deserunt mollitia										</a>
 									</h4>
@@ -2510,16 +2510,16 @@ jQuery(document).ready(function ($) {
 				<div class="item-inner product-thumb product-layout">
 					<div class="product-item-container"> 
 						<div class="left-block so-quickview">
-							<a class="hidden" data-product='79' href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=79" target="_self"></a>
+							<a class="hidden" data-product='79' href="product_detail.php" target="_self"></a>
 															<div class="box-label_skew">
 																									<span class="label-product label-new">New</span>
 																</div>
 								<div class="product-image-container second_img  ">
 									<a class="lt-image" 
-									   href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=79" target="_self"
+									   href="product_detail.php" target="_self"
 									   title="Deserunt bresaola">
-																					<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic2/15-180x180.jpg" class="img-1 img-responsive" alt="Deserunt bresaola">
-											<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic2/17-180x180.jpg" class="img-2 img-responsive" alt="Deserunt bresaola">
+																					<img src="image/cache/catalog/demo/product/Electronic2/15-180x180.jpg" class="img-1 img-responsive" alt="Deserunt bresaola">
+											<img src="image/cache/catalog/demo/product/Electronic2/17-180x180.jpg" class="img-2 img-responsive" alt="Deserunt bresaola">
 																			</a>
 								</div>
 													</div>
@@ -2527,7 +2527,7 @@ jQuery(document).ready(function ($) {
 						<div class="right-block">
 													<div class="caption">
 																	<h4>
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=79" 
+										<a href="product_detail.php" 
 										   title="Deserunt bresaola" target="_self">
 										   Deserunt bresaola										</a>
 									</h4>
@@ -2557,16 +2557,16 @@ jQuery(document).ready(function ($) {
 				<div class="item-inner product-thumb product-layout">
 					<div class="product-item-container"> 
 						<div class="left-block so-quickview">
-							<a class="hidden" data-product='47' href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=47" target="_self"></a>
+							<a class="hidden" data-product='47' href="product_detail.php" target="_self"></a>
 															<div class="box-label_skew">
 																	<span class="label-product label-sale">-66%</span>
 																								</div>
 								<div class="product-image-container second_img  ">
 									<a class="lt-image" 
-									   href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=47" target="_self"
+									   href="product_detail.php" target="_self"
 									   title="Denouncing pleasure">
-																					<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic2/20-180x180.jpg" class="img-1 img-responsive" alt="Denouncing pleasure">
-											<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic2/21-180x180.jpg" class="img-2 img-responsive" alt="Denouncing pleasure">
+																					<img src="image/cache/catalog/demo/product/Electronic2/20-180x180.jpg" class="img-1 img-responsive" alt="Denouncing pleasure">
+											<img src="image/cache/catalog/demo/product/Electronic2/21-180x180.jpg" class="img-2 img-responsive" alt="Denouncing pleasure">
 																			</a>
 								</div>
 													</div>
@@ -2574,7 +2574,7 @@ jQuery(document).ready(function ($) {
 						<div class="right-block">
 													<div class="caption">
 																	<h4>
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=47" 
+										<a href="product_detail.php" 
 										   title="Denouncing pleasure" target="_self">
 										   Denouncing pleasure										</a>
 									</h4>
@@ -2601,16 +2601,16 @@ jQuery(document).ready(function ($) {
 				<div class="item-inner product-thumb product-layout">
 					<div class="product-item-container"> 
 						<div class="left-block so-quickview">
-							<a class="hidden" data-product='30' href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=30" target="_self"></a>
+							<a class="hidden" data-product='30' href="product_detail.php" target="_self"></a>
 															<div class="box-label_skew">
 																									<span class="label-product label-new">New</span>
 																</div>
 								<div class="product-image-container second_img  ">
 									<a class="lt-image" 
-									   href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=30" target="_self"
+									   href="product_detail.php" target="_self"
 									   title="Dail mirentukan">
-																					<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic2/30-180x180.jpg" class="img-1 img-responsive" alt="Dail mirentukan">
-											<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic2/27-180x180.jpg" class="img-2 img-responsive" alt="Dail mirentukan">
+																					<img src="image/cache/catalog/demo/product/Electronic2/30-180x180.jpg" class="img-1 img-responsive" alt="Dail mirentukan">
+											<img src="image/cache/catalog/demo/product/Electronic2/27-180x180.jpg" class="img-2 img-responsive" alt="Dail mirentukan">
 																			</a>
 								</div>
 													</div>
@@ -2618,7 +2618,7 @@ jQuery(document).ready(function ($) {
 						<div class="right-block">
 													<div class="caption">
 																	<h4>
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=30" 
+										<a href="product_detail.php" 
 										   title="Dail mirentukan" target="_self">
 										   Dail mirentukan										</a>
 									</h4>
@@ -2648,16 +2648,16 @@ jQuery(document).ready(function ($) {
 				<div class="item-inner product-thumb product-layout">
 					<div class="product-item-container"> 
 						<div class="left-block so-quickview">
-							<a class="hidden" data-product='55' href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=55" target="_self"></a>
+							<a class="hidden" data-product='55' href="product_detail.php" target="_self"></a>
 															<div class="box-label_skew">
 																									<span class="label-product label-new">New</span>
 																</div>
 								<div class="product-image-container second_img  ">
 									<a class="lt-image" 
-									   href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=55" target="_self"
+									   href="product_detail.php" target="_self"
 									   title="Cuid densinteu">
-																					<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic2/1-180x180.jpg" class="img-1 img-responsive" alt="Cuid densinteu">
-											<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic2/2-180x180.jpg" class="img-2 img-responsive" alt="Cuid densinteu">
+																					<img src="image/cache/catalog/demo/product/Electronic2/1-180x180.jpg" class="img-1 img-responsive" alt="Cuid densinteu">
+											<img src="image/cache/catalog/demo/product/Electronic2/2-180x180.jpg" class="img-2 img-responsive" alt="Cuid densinteu">
 																			</a>
 								</div>
 													</div>
@@ -2665,7 +2665,7 @@ jQuery(document).ready(function ($) {
 						<div class="right-block">
 													<div class="caption">
 																	<h4>
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=55" 
+										<a href="product_detail.php" 
 										   title="Cuid densinteu" target="_self">
 										   Cuid densinteu										</a>
 									</h4>
@@ -2692,16 +2692,16 @@ jQuery(document).ready(function ($) {
 				<div class="item-inner product-thumb product-layout">
 					<div class="product-item-container"> 
 						<div class="left-block so-quickview">
-							<a class="hidden" data-product='89' href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=89" target="_self"></a>
+							<a class="hidden" data-product='89' href="product_detail.php" target="_self"></a>
 															<div class="box-label_skew">
 																									<span class="label-product label-new">New</span>
 																</div>
 								<div class="product-image-container second_img  ">
 									<a class="lt-image" 
-									   href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=89" target="_self"
+									   href="product_detail.php" target="_self"
 									   title="Cornedbeef turkeyse">
-																					<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic2/37-180x180.jpg" class="img-1 img-responsive" alt="Cornedbeef turkeyse">
-											<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic2/38-180x180.jpg" class="img-2 img-responsive" alt="Cornedbeef turkeyse">
+																					<img src="image/cache/catalog/demo/product/Electronic2/37-180x180.jpg" class="img-1 img-responsive" alt="Cornedbeef turkeyse">
+											<img src="image/cache/catalog/demo/product/Electronic2/38-180x180.jpg" class="img-2 img-responsive" alt="Cornedbeef turkeyse">
 																			</a>
 								</div>
 													</div>
@@ -2709,7 +2709,7 @@ jQuery(document).ready(function ($) {
 						<div class="right-block">
 													<div class="caption">
 																	<h4>
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=89" 
+										<a href="product_detail.php" 
 										   title="Cornedbeef turkeyse" target="_self">
 										   Cornedbeef turkeyse										</a>
 									</h4>
@@ -2739,17 +2739,17 @@ jQuery(document).ready(function ($) {
 				<div class="item-inner product-thumb product-layout">
 					<div class="product-item-container"> 
 						<div class="left-block so-quickview">
-							<a class="hidden" data-product='64' href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=64" target="_self"></a>
+							<a class="hidden" data-product='64' href="product_detail.php" target="_self"></a>
 															<div class="box-label_skew">
 																	<span class="label-product label-sale">-10%</span>
 																									<span class="label-product label-new">New</span>
 																</div>
 								<div class="product-image-container second_img  ">
 									<a class="lt-image" 
-									   href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=64" target="_self"
+									   href="product_detail.php" target="_self"
 									   title="Chicken kielbasa">
-																					<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic2/48-180x180.jpg" class="img-1 img-responsive" alt="Chicken kielbasa">
-											<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic2/49-180x180.jpg" class="img-2 img-responsive" alt="Chicken kielbasa">
+																					<img src="image/cache/catalog/demo/product/Electronic2/48-180x180.jpg" class="img-1 img-responsive" alt="Chicken kielbasa">
+											<img src="image/cache/catalog/demo/product/Electronic2/49-180x180.jpg" class="img-2 img-responsive" alt="Chicken kielbasa">
 																			</a>
 								</div>
 													</div>
@@ -2757,7 +2757,7 @@ jQuery(document).ready(function ($) {
 						<div class="right-block">
 													<div class="caption">
 																	<h4>
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=64" 
+										<a href="product_detail.php" 
 										   title="Chicken kielbasa" target="_self">
 										   Chicken kielbasa										</a>
 									</h4>
@@ -2784,17 +2784,17 @@ jQuery(document).ready(function ($) {
 				<div class="item-inner product-thumb product-layout">
 					<div class="product-item-container"> 
 						<div class="left-block so-quickview">
-							<a class="hidden" data-product='66' href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=66" target="_self"></a>
+							<a class="hidden" data-product='66' href="product_detail.php" target="_self"></a>
 															<div class="box-label_skew">
 																	<span class="label-product label-sale">-24%</span>
 																									<span class="label-product label-new">New</span>
 																</div>
 								<div class="product-image-container second_img  ">
 									<a class="lt-image" 
-									   href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=66" target="_self"
+									   href="product_detail.php" target="_self"
 									   title="Capicola sausagops">
-																					<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic/2-180x180.jpg" class="img-1 img-responsive" alt="Capicola sausagops">
-											<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic/3-180x180.jpg" class="img-2 img-responsive" alt="Capicola sausagops">
+																					<img src="image/cache/catalog/demo/product/Electronic/2-180x180.jpg" class="img-1 img-responsive" alt="Capicola sausagops">
+											<img src="image/cache/catalog/demo/product/Electronic/3-180x180.jpg" class="img-2 img-responsive" alt="Capicola sausagops">
 																			</a>
 								</div>
 													</div>
@@ -2802,7 +2802,7 @@ jQuery(document).ready(function ($) {
 						<div class="right-block">
 													<div class="caption">
 																	<h4>
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=66" 
+										<a href="product_detail.php" 
 										   title="Capicola sausagops" target="_self">
 										   Capicola sausagops										</a>
 									</h4>
@@ -3131,7 +3131,7 @@ jQuery(document).ready(function ($) {
 			<div class="ltabs-tabs-container" data-delay="500"
 				 data-duration="800"
 				 data-effect="none"
-				 data-ajaxurl="http://localhost/so_revo/" data-type_source="1"
+				 data-ajaxurl="" data-type_source="1"
 				 data-type_show="slider" >
 				 
 				<!--Begin Tabs-->
@@ -3168,7 +3168,7 @@ jQuery(document).ready(function ($) {
 						<div>
 							<a href="#" title="" target="_self" >
 								<img class="categories-loadimage" title="" alt=""
-									 src="http://localhost/so_revo/image/cache/catalog/demo/banners/home1/8-196x540.jpg"/>
+									 src="image/cache/catalog/demo/banners/home1/8-196x540.jpg"/>
 							</a>
 						</div>
 					</div>
@@ -3181,16 +3181,16 @@ jQuery(document).ready(function ($) {
 				<div class="item-inner product-thumb product-layout">
 					<div class="product-item-container"> 
 						<div class="left-block so-quickview">
-							<a class="hidden" data-product='172' href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=172" target="_self"></a>
+							<a class="hidden" data-product='172' href="product_detail.php" target="_self"></a>
 															<div class="box-label_skew">
 																	<span class="label-product label-sale">-27%</span>
 																								</div>
 								<div class="product-image-container second_img  ">
 									<a class="lt-image" 
-									   href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=172" target="_self"
+									   href="product_detail.php" target="_self"
 									   title="Catlyn snake pilit">
-																					<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Sport/22-180x180.jpg" class="img-1 img-responsive" alt="Catlyn snake pilit">
-											<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Sport/21-180x180.jpg" class="img-2 img-responsive" alt="Catlyn snake pilit">
+																					<img src="image/cache/catalog/demo/product/Sport/22-180x180.jpg" class="img-1 img-responsive" alt="Catlyn snake pilit">
+											<img src="image/cache/catalog/demo/product/Sport/21-180x180.jpg" class="img-2 img-responsive" alt="Catlyn snake pilit">
 																			</a>
 								</div>
 													</div>
@@ -3198,7 +3198,7 @@ jQuery(document).ready(function ($) {
 						<div class="right-block">
 													<div class="caption">
 																	<h4>
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=172" 
+										<a href="product_detail.php" 
 										   title="Catlyn snake pilit" target="_self">
 										   Catlyn snake pilit										</a>
 									</h4>
@@ -3225,15 +3225,15 @@ jQuery(document).ready(function ($) {
 				<div class="item-inner product-thumb product-layout">
 					<div class="product-item-container"> 
 						<div class="left-block so-quickview">
-							<a class="hidden" data-product='169' href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=169" target="_self"></a>
+							<a class="hidden" data-product='169' href="product_detail.php" target="_self"></a>
 															<div class="box-label_skew">
 																								</div>
 								<div class="product-image-container second_img  ">
 									<a class="lt-image" 
-									   href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=169" target="_self"
+									   href="product_detail.php" target="_self"
 									   title="Fizz alan shankle">
-																					<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Sport/25-180x180.jpg" class="img-1 img-responsive" alt="Fizz alan shankle">
-											<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Sport/27-180x180.jpg" class="img-2 img-responsive" alt="Fizz alan shankle">
+																					<img src="image/cache/catalog/demo/product/Sport/25-180x180.jpg" class="img-1 img-responsive" alt="Fizz alan shankle">
+											<img src="image/cache/catalog/demo/product/Sport/27-180x180.jpg" class="img-2 img-responsive" alt="Fizz alan shankle">
 																			</a>
 								</div>
 													</div>
@@ -3241,7 +3241,7 @@ jQuery(document).ready(function ($) {
 						<div class="right-block">
 													<div class="caption">
 																	<h4>
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=169" 
+										<a href="product_detail.php" 
 										   title="Fizz alan shankle" target="_self">
 										   Fizz alan shankle										</a>
 									</h4>
@@ -3271,16 +3271,16 @@ jQuery(document).ready(function ($) {
 				<div class="item-inner product-thumb product-layout">
 					<div class="product-item-container"> 
 						<div class="left-block so-quickview">
-							<a class="hidden" data-product='85' href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=85" target="_self"></a>
+							<a class="hidden" data-product='85' href="product_detail.php" target="_self"></a>
 															<div class="box-label_skew">
 																									<span class="label-product label-new">New</span>
 																</div>
 								<div class="product-image-container second_img  ">
 									<a class="lt-image" 
-									   href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=85" target="_self"
+									   href="product_detail.php" target="_self"
 									   title="Kevinconsequat exercit">
-																					<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Sport/1-180x180.jpg" class="img-1 img-responsive" alt="Kevinconsequat exercit">
-											<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Sport/5-180x180.jpg" class="img-2 img-responsive" alt="Kevinconsequat exercit">
+																					<img src="image/cache/catalog/demo/product/Sport/1-180x180.jpg" class="img-1 img-responsive" alt="Kevinconsequat exercit">
+											<img src="image/cache/catalog/demo/product/Sport/5-180x180.jpg" class="img-2 img-responsive" alt="Kevinconsequat exercit">
 																			</a>
 								</div>
 													</div>
@@ -3288,7 +3288,7 @@ jQuery(document).ready(function ($) {
 						<div class="right-block">
 													<div class="caption">
 																	<h4>
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=85" 
+										<a href="product_detail.php" 
 										   title="Kevinconsequat exercit" target="_self">
 										   Kevinconsequat exerc..										</a>
 									</h4>
@@ -3315,16 +3315,16 @@ jQuery(document).ready(function ($) {
 				<div class="item-inner product-thumb product-layout">
 					<div class="product-item-container"> 
 						<div class="left-block so-quickview">
-							<a class="hidden" data-product='60' href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=60" target="_self"></a>
+							<a class="hidden" data-product='60' href="product_detail.php" target="_self"></a>
 															<div class="box-label_skew">
 																	<span class="label-product label-sale">-20%</span>
 																								</div>
 								<div class="product-image-container second_img  ">
 									<a class="lt-image" 
-									   href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=60" target="_self"
+									   href="product_detail.php" target="_self"
 									   title="Lande sincutinste">
-																					<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Sport/2-180x180.jpg" class="img-1 img-responsive" alt="Lande sincutinste">
-											<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Sport/6-180x180.jpg" class="img-2 img-responsive" alt="Lande sincutinste">
+																					<img src="image/cache/catalog/demo/product/Sport/2-180x180.jpg" class="img-1 img-responsive" alt="Lande sincutinste">
+											<img src="image/cache/catalog/demo/product/Sport/6-180x180.jpg" class="img-2 img-responsive" alt="Lande sincutinste">
 																			</a>
 								</div>
 													</div>
@@ -3332,7 +3332,7 @@ jQuery(document).ready(function ($) {
 						<div class="right-block">
 													<div class="caption">
 																	<h4>
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=60" 
+										<a href="product_detail.php" 
 										   title="Lande sincutinste" target="_self">
 										   Lande sincutinste										</a>
 									</h4>
@@ -3362,15 +3362,15 @@ jQuery(document).ready(function ($) {
 				<div class="item-inner product-thumb product-layout">
 					<div class="product-item-container"> 
 						<div class="left-block so-quickview">
-							<a class="hidden" data-product='63' href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=63" target="_self"></a>
+							<a class="hidden" data-product='63' href="product_detail.php" target="_self"></a>
 															<div class="box-label_skew">
 																								</div>
 								<div class="product-image-container second_img  ">
 									<a class="lt-image" 
-									   href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=63" target="_self"
+									   href="product_detail.php" target="_self"
 									   title="Landjaeger shankle">
-																					<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Sport/19-180x180.jpg" class="img-1 img-responsive" alt="Landjaeger shankle">
-											<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Sport/20-180x180.jpg" class="img-2 img-responsive" alt="Landjaeger shankle">
+																					<img src="image/cache/catalog/demo/product/Sport/19-180x180.jpg" class="img-1 img-responsive" alt="Landjaeger shankle">
+											<img src="image/cache/catalog/demo/product/Sport/20-180x180.jpg" class="img-2 img-responsive" alt="Landjaeger shankle">
 																			</a>
 								</div>
 													</div>
@@ -3378,7 +3378,7 @@ jQuery(document).ready(function ($) {
 						<div class="right-block">
 													<div class="caption">
 																	<h4>
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=63" 
+										<a href="product_detail.php" 
 										   title="Landjaeger shankle" target="_self">
 										   Landjaeger shankle										</a>
 									</h4>
@@ -3405,15 +3405,15 @@ jQuery(document).ready(function ($) {
 				<div class="item-inner product-thumb product-layout">
 					<div class="product-item-container"> 
 						<div class="left-block so-quickview">
-							<a class="hidden" data-product='170' href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=170" target="_self"></a>
+							<a class="hidden" data-product='170' href="product_detail.php" target="_self"></a>
 															<div class="box-label_skew">
 																								</div>
 								<div class="product-image-container second_img  ">
 									<a class="lt-image" 
-									   href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=170" target="_self"
+									   href="product_detail.php" target="_self"
 									   title="Longzhu shankle">
-																					<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Sport/31-180x180.jpg" class="img-1 img-responsive" alt="Longzhu shankle">
-											<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Sport/27-180x180.jpg" class="img-2 img-responsive" alt="Longzhu shankle">
+																					<img src="image/cache/catalog/demo/product/Sport/31-180x180.jpg" class="img-1 img-responsive" alt="Longzhu shankle">
+											<img src="image/cache/catalog/demo/product/Sport/27-180x180.jpg" class="img-2 img-responsive" alt="Longzhu shankle">
 																			</a>
 								</div>
 													</div>
@@ -3421,7 +3421,7 @@ jQuery(document).ready(function ($) {
 						<div class="right-block">
 													<div class="caption">
 																	<h4>
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=170" 
+										<a href="product_detail.php" 
 										   title="Longzhu shankle" target="_self">
 										   Longzhu shankle										</a>
 									</h4>
@@ -3451,16 +3451,16 @@ jQuery(document).ready(function ($) {
 				<div class="item-inner product-thumb product-layout">
 					<div class="product-item-container"> 
 						<div class="left-block so-quickview">
-							<a class="hidden" data-product='95' href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=95" target="_self"></a>
+							<a class="hidden" data-product='95' href="product_detail.php" target="_self"></a>
 															<div class="box-label_skew">
 																									<span class="label-product label-new">New</span>
 																</div>
 								<div class="product-image-container second_img  ">
 									<a class="lt-image" 
-									   href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=95" target="_self"
+									   href="product_detail.php" target="_self"
 									   title="Magna boudinaute">
-																					<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Sport/5-180x180.jpg" class="img-1 img-responsive" alt="Magna boudinaute">
-											<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Sport/3-180x180.jpg" class="img-2 img-responsive" alt="Magna boudinaute">
+																					<img src="image/cache/catalog/demo/product/Sport/5-180x180.jpg" class="img-1 img-responsive" alt="Magna boudinaute">
+											<img src="image/cache/catalog/demo/product/Sport/3-180x180.jpg" class="img-2 img-responsive" alt="Magna boudinaute">
 																			</a>
 								</div>
 													</div>
@@ -3468,7 +3468,7 @@ jQuery(document).ready(function ($) {
 						<div class="right-block">
 													<div class="caption">
 																	<h4>
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=95" 
+										<a href="product_detail.php" 
 										   title="Magna boudinaute" target="_self">
 										   Magna boudinaute										</a>
 									</h4>
@@ -3495,15 +3495,15 @@ jQuery(document).ready(function ($) {
 				<div class="item-inner product-thumb product-layout">
 					<div class="product-item-container"> 
 						<div class="left-block so-quickview">
-							<a class="hidden" data-product='62' href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=62" target="_self"></a>
+							<a class="hidden" data-product='62' href="product_detail.php" target="_self"></a>
 															<div class="box-label_skew">
 																								</div>
 								<div class="product-image-container second_img  ">
 									<a class="lt-image" 
-									   href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=62" target="_self"
+									   href="product_detail.php" target="_self"
 									   title="Meatball brisketings">
-																					<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Sport/42-180x180.jpg" class="img-1 img-responsive" alt="Meatball brisketings">
-											<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Sport/41-180x180.jpg" class="img-2 img-responsive" alt="Meatball brisketings">
+																					<img src="image/cache/catalog/demo/product/Sport/42-180x180.jpg" class="img-1 img-responsive" alt="Meatball brisketings">
+											<img src="image/cache/catalog/demo/product/Sport/41-180x180.jpg" class="img-2 img-responsive" alt="Meatball brisketings">
 																			</a>
 								</div>
 													</div>
@@ -3511,7 +3511,7 @@ jQuery(document).ready(function ($) {
 						<div class="right-block">
 													<div class="caption">
 																	<h4>
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=62" 
+										<a href="product_detail.php" 
 										   title="Meatball brisketings" target="_self">
 										   Meatball brisketings										</a>
 									</h4>
@@ -3541,15 +3541,15 @@ jQuery(document).ready(function ($) {
 				<div class="item-inner product-thumb product-layout">
 					<div class="product-item-container"> 
 						<div class="left-block so-quickview">
-							<a class="hidden" data-product='69' href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=69" target="_self"></a>
+							<a class="hidden" data-product='69' href="product_detail.php" target="_self"></a>
 															<div class="box-label_skew">
 																								</div>
 								<div class="product-image-container second_img  ">
 									<a class="lt-image" 
-									   href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=69" target="_self"
+									   href="product_detail.php" target="_self"
 									   title="Minim commodo">
-																					<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Sport/35-180x180.jpg" class="img-1 img-responsive" alt="Minim commodo">
-											<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Sport/36-180x180.jpg" class="img-2 img-responsive" alt="Minim commodo">
+																					<img src="image/cache/catalog/demo/product/Sport/35-180x180.jpg" class="img-1 img-responsive" alt="Minim commodo">
+											<img src="image/cache/catalog/demo/product/Sport/36-180x180.jpg" class="img-2 img-responsive" alt="Minim commodo">
 																			</a>
 								</div>
 													</div>
@@ -3557,7 +3557,7 @@ jQuery(document).ready(function ($) {
 						<div class="right-block">
 													<div class="caption">
 																	<h4>
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=69" 
+										<a href="product_detail.php" 
 										   title="Minim commodo" target="_self">
 										   Minim commodo										</a>
 									</h4>
@@ -3584,15 +3584,15 @@ jQuery(document).ready(function ($) {
 				<div class="item-inner product-thumb product-layout">
 					<div class="product-item-container"> 
 						<div class="left-block so-quickview">
-							<a class="hidden" data-product='52' href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=52" target="_self"></a>
+							<a class="hidden" data-product='52' href="product_detail.php" target="_self"></a>
 															<div class="box-label_skew">
 																								</div>
 								<div class="product-image-container second_img  ">
 									<a class="lt-image" 
-									   href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=52" target="_self"
+									   href="product_detail.php" target="_self"
 									   title="Mobile processors">
-																					<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Sport/8-180x180.jpg" class="img-1 img-responsive" alt="Mobile processors">
-											<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Sport/2-180x180.jpg" class="img-2 img-responsive" alt="Mobile processors">
+																					<img src="image/cache/catalog/demo/product/Sport/8-180x180.jpg" class="img-1 img-responsive" alt="Mobile processors">
+											<img src="image/cache/catalog/demo/product/Sport/2-180x180.jpg" class="img-2 img-responsive" alt="Mobile processors">
 																			</a>
 								</div>
 													</div>
@@ -3600,7 +3600,7 @@ jQuery(document).ready(function ($) {
 						<div class="right-block">
 													<div class="caption">
 																	<h4>
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=52" 
+										<a href="product_detail.php" 
 										   title="Mobile processors" target="_self">
 										   Mobile processors										</a>
 									</h4>
@@ -3630,15 +3630,15 @@ jQuery(document).ready(function ($) {
 				<div class="item-inner product-thumb product-layout">
 					<div class="product-item-container"> 
 						<div class="left-block so-quickview">
-							<a class="hidden" data-product='171' href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=171" target="_self"></a>
+							<a class="hidden" data-product='171' href="product_detail.php" target="_self"></a>
 															<div class="box-label_skew">
 																								</div>
 								<div class="product-image-container second_img  ">
 									<a class="lt-image" 
-									   href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=171" target="_self"
+									   href="product_detail.php" target="_self"
 									   title="Nami alan shankle">
-																					<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Sport/39-180x180.jpg" class="img-1 img-responsive" alt="Nami alan shankle">
-											<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Sport/40-180x180.jpg" class="img-2 img-responsive" alt="Nami alan shankle">
+																					<img src="image/cache/catalog/demo/product/Sport/39-180x180.jpg" class="img-1 img-responsive" alt="Nami alan shankle">
+											<img src="image/cache/catalog/demo/product/Sport/40-180x180.jpg" class="img-2 img-responsive" alt="Nami alan shankle">
 																			</a>
 								</div>
 													</div>
@@ -3646,7 +3646,7 @@ jQuery(document).ready(function ($) {
 						<div class="right-block">
 													<div class="caption">
 																	<h4>
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=171" 
+										<a href="product_detail.php" 
 										   title="Nami alan shankle" target="_self">
 										   Nami alan shankle										</a>
 									</h4>
@@ -3673,16 +3673,16 @@ jQuery(document).ready(function ($) {
 				<div class="item-inner product-thumb product-layout">
 					<div class="product-item-container"> 
 						<div class="left-block so-quickview">
-							<a class="hidden" data-product='84' href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=84" target="_self"></a>
+							<a class="hidden" data-product='84' href="product_detail.php" target="_self"></a>
 															<div class="box-label_skew">
 																									<span class="label-product label-new">New</span>
 																</div>
 								<div class="product-image-container second_img  ">
 									<a class="lt-image" 
-									   href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=84" target="_self"
+									   href="product_detail.php" target="_self"
 									   title="Pastrami frankfurter">
-																					<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Sport/9-180x180.jpg" class="img-1 img-responsive" alt="Pastrami frankfurter">
-											<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Sport/9-180x180.jpg" class="img-2 img-responsive" alt="Pastrami frankfurter">
+																					<img src="image/cache/catalog/demo/product/Sport/9-180x180.jpg" class="img-1 img-responsive" alt="Pastrami frankfurter">
+											<img src="image/cache/catalog/demo/product/Sport/9-180x180.jpg" class="img-2 img-responsive" alt="Pastrami frankfurter">
 																			</a>
 								</div>
 													</div>
@@ -3690,7 +3690,7 @@ jQuery(document).ready(function ($) {
 						<div class="right-block">
 													<div class="caption">
 																	<h4>
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=84" 
+										<a href="product_detail.php" 
 										   title="Pastrami frankfurter" target="_self">
 										   Pastrami frankfurter										</a>
 									</h4>
@@ -4034,10 +4034,10 @@ jQuery(document).ready(function ($) {
 								<div class="item-image">
 									<div class="item-img-info">
 									
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=68" class="lt-image" target="_self"
+										<a href="product_detail.php" class="lt-image" target="_self"
 										   title="Drumsti tenderlo"  >
-																							<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/11-90x90.jpg" class="img-1" alt="Drumsti tenderlo">
-												<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/3-90x90.jpg" class="img-2" alt="Drumsti tenderlo">
+																							<img src="image/cache/catalog/demo/product/Fashion/11-90x90.jpg" class="img-1" alt="Drumsti tenderlo">
+												<img src="image/cache/catalog/demo/product/Fashion/3-90x90.jpg" class="img-2" alt="Drumsti tenderlo">
 																					</a>
 										
 																			</div>
@@ -4046,7 +4046,7 @@ jQuery(document).ready(function ($) {
 															<div class="right-block font-ct">
 									<div class="item-info">
 																					<div class="item-title">
-												<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=68" target="_self"
+												<a href="product_detail.php" target="_self"
 												   title="Drumsti tenderlo"  >
 													Drumsti tenderlo												</a>
 											</div>
@@ -4079,10 +4079,10 @@ jQuery(document).ready(function ($) {
 								<div class="item-image">
 									<div class="item-img-info">
 									
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=48" class="lt-image" target="_self"
+										<a href="product_detail.php" class="lt-image" target="_self"
 										   title="Faucibus rutrum"  >
-																							<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/12-90x90.jpg" class="img-1" alt="Faucibus rutrum">
-												<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/14-90x90.jpg" class="img-2" alt="Faucibus rutrum">
+																							<img src="image/cache/catalog/demo/product/Fashion/12-90x90.jpg" class="img-1" alt="Faucibus rutrum">
+												<img src="image/cache/catalog/demo/product/Fashion/14-90x90.jpg" class="img-2" alt="Faucibus rutrum">
 																					</a>
 										
 																			</div>
@@ -4091,7 +4091,7 @@ jQuery(document).ready(function ($) {
 															<div class="right-block font-ct">
 									<div class="item-info">
 																					<div class="item-title">
-												<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=48" target="_self"
+												<a href="product_detail.php" target="_self"
 												   title="Faucibus rutrum"  >
 													Faucibus rutrum												</a>
 											</div>
@@ -4124,10 +4124,10 @@ jQuery(document).ready(function ($) {
 								<div class="item-image">
 									<div class="item-img-info">
 									
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=34" class="lt-image" target="_self"
+										<a href="product_detail.php" class="lt-image" target="_self"
 										   title="Fetiam interdum"  >
-																							<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/14-90x90.jpg" class="img-1" alt="Fetiam interdum">
-												<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/14-90x90.jpg" class="img-2" alt="Fetiam interdum">
+																							<img src="image/cache/catalog/demo/product/Fashion/14-90x90.jpg" class="img-1" alt="Fetiam interdum">
+												<img src="image/cache/catalog/demo/product/Fashion/14-90x90.jpg" class="img-2" alt="Fetiam interdum">
 																					</a>
 										
 																			</div>
@@ -4136,7 +4136,7 @@ jQuery(document).ready(function ($) {
 															<div class="right-block font-ct">
 									<div class="item-info">
 																					<div class="item-title">
-												<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=34" target="_self"
+												<a href="product_detail.php" target="_self"
 												   title="Fetiam interdum"  >
 													Fetiam interdum												</a>
 											</div>
@@ -4171,10 +4171,10 @@ jQuery(document).ready(function ($) {
 								<div class="item-image">
 									<div class="item-img-info">
 									
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=32" class="lt-image" target="_self"
+										<a href="product_detail.php" class="lt-image" target="_self"
 										   title="Fuzan sumamipon"  >
-																							<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/15-90x90.jpg" class="img-1" alt="Fuzan sumamipon">
-												<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/6-90x90.jpg" class="img-2" alt="Fuzan sumamipon">
+																							<img src="image/cache/catalog/demo/product/Fashion/15-90x90.jpg" class="img-1" alt="Fuzan sumamipon">
+												<img src="image/cache/catalog/demo/product/Fashion/6-90x90.jpg" class="img-2" alt="Fuzan sumamipon">
 																					</a>
 										
 																			</div>
@@ -4183,7 +4183,7 @@ jQuery(document).ready(function ($) {
 															<div class="right-block font-ct">
 									<div class="item-info">
 																					<div class="item-title">
-												<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=32" target="_self"
+												<a href="product_detail.php" target="_self"
 												   title="Fuzan sumamipon"  >
 													Fuzan sumamipon												</a>
 											</div>
@@ -4216,10 +4216,10 @@ jQuery(document).ready(function ($) {
 								<div class="item-image">
 									<div class="item-img-info">
 									
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=43" class="lt-image" target="_self"
+										<a href="product_detail.php" class="lt-image" target="_self"
 										   title="Goken rumanitren"  >
-																							<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/2-90x90.jpg" class="img-1" alt="Goken rumanitren">
-												<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/8-90x90.jpg" class="img-2" alt="Goken rumanitren">
+																							<img src="image/cache/catalog/demo/product/Fashion/2-90x90.jpg" class="img-1" alt="Goken rumanitren">
+												<img src="image/cache/catalog/demo/product/Fashion/8-90x90.jpg" class="img-2" alt="Goken rumanitren">
 																					</a>
 										
 																			</div>
@@ -4228,7 +4228,7 @@ jQuery(document).ready(function ($) {
 															<div class="right-block font-ct">
 									<div class="item-info">
 																					<div class="item-title">
-												<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=43" target="_self"
+												<a href="product_detail.php" target="_self"
 												   title="Goken rumanitren"  >
 													Goken rumanitren												</a>
 											</div>
@@ -4261,10 +4261,10 @@ jQuery(document).ready(function ($) {
 								<div class="item-image">
 									<div class="item-img-info">
 									
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=74" class="lt-image" target="_self"
+										<a href="product_detail.php" class="lt-image" target="_self"
 										   title="Hamburger shoulder"  >
-																							<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/3-90x90.jpg" class="img-1" alt="Hamburger shoulder">
-												<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/15-90x90.jpg" class="img-2" alt="Hamburger shoulder">
+																							<img src="image/cache/catalog/demo/product/Fashion/3-90x90.jpg" class="img-1" alt="Hamburger shoulder">
+												<img src="image/cache/catalog/demo/product/Fashion/15-90x90.jpg" class="img-2" alt="Hamburger shoulder">
 																					</a>
 										
 																			</div>
@@ -4273,7 +4273,7 @@ jQuery(document).ready(function ($) {
 															<div class="right-block font-ct">
 									<div class="item-info">
 																					<div class="item-title">
-												<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=74" target="_self"
+												<a href="product_detail.php" target="_self"
 												   title="Hamburger shoulder"  >
 													Hamburger shoulder												</a>
 											</div>
@@ -4308,10 +4308,10 @@ jQuery(document).ready(function ($) {
 								<div class="item-image">
 									<div class="item-img-info">
 									
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=45" class="lt-image" target="_self"
+										<a href="product_detail.php" class="lt-image" target="_self"
 										   title="Hazen dimapolan"  >
-																							<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/4-90x90.jpg" class="img-1" alt="Hazen dimapolan">
-												<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/2-90x90.jpg" class="img-2" alt="Hazen dimapolan">
+																							<img src="image/cache/catalog/demo/product/Fashion/4-90x90.jpg" class="img-1" alt="Hazen dimapolan">
+												<img src="image/cache/catalog/demo/product/Fashion/2-90x90.jpg" class="img-2" alt="Hazen dimapolan">
 																					</a>
 										
 																			</div>
@@ -4320,7 +4320,7 @@ jQuery(document).ready(function ($) {
 															<div class="right-block font-ct">
 									<div class="item-info">
 																					<div class="item-title">
-												<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=45" target="_self"
+												<a href="product_detail.php" target="_self"
 												   title="Hazen dimapolan"  >
 													Hazen dimapolan												</a>
 											</div>
@@ -4353,10 +4353,10 @@ jQuery(document).ready(function ($) {
 								<div class="item-image">
 									<div class="item-img-info">
 									
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=44" class="lt-image" target="_self"
+										<a href="product_detail.php" class="lt-image" target="_self"
 										   title="Hazen Zimalan"  >
-																							<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/5-90x90.jpg" class="img-1" alt="Hazen Zimalan">
-												<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Fashion/4-90x90.jpg" class="img-2" alt="Hazen Zimalan">
+																							<img src="image/cache/catalog/demo/product/Fashion/5-90x90.jpg" class="img-1" alt="Hazen Zimalan">
+												<img src="image/cache/catalog/demo/product/Fashion/4-90x90.jpg" class="img-2" alt="Hazen Zimalan">
 																					</a>
 										
 																			</div>
@@ -4365,7 +4365,7 @@ jQuery(document).ready(function ($) {
 															<div class="right-block font-ct">
 									<div class="item-info">
 																					<div class="item-title">
-												<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=44" target="_self"
+												<a href="product_detail.php" target="_self"
 												   title="Hazen Zimalan"  >
 													Hazen Zimalan												</a>
 											</div>
@@ -4545,10 +4545,10 @@ jQuery(document).ready(function ($) {
 								<div class="item-image">
 									<div class="item-img-info">
 									
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=70" class="lt-image" target="_self"
+										<a href="product_detail.php" class="lt-image" target="_self"
 										   title=" Deserunt donerest"  >
-																							<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic/1-90x90.jpg" class="img-1" alt=" Deserunt donerest">
-												<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic/3-90x90.jpg" class="img-2" alt=" Deserunt donerest">
+																							<img src="image/cache/catalog/demo/product/Electronic/1-90x90.jpg" class="img-1" alt=" Deserunt donerest">
+												<img src="image/cache/catalog/demo/product/Electronic/3-90x90.jpg" class="img-2" alt=" Deserunt donerest">
 																					</a>
 										
 																			</div>
@@ -4557,7 +4557,7 @@ jQuery(document).ready(function ($) {
 															<div class="right-block font-ct">
 									<div class="item-info">
 																					<div class="item-title">
-												<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=70" target="_self"
+												<a href="product_detail.php" target="_self"
 												   title=" Deserunt donerest"  >
 													 Deserunt doner..												</a>
 											</div>
@@ -4590,10 +4590,10 @@ jQuery(document).ready(function ($) {
 								<div class="item-image">
 									<div class="item-img-info">
 									
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=72" class="lt-image" target="_self"
+										<a href="product_detail.php" class="lt-image" target="_self"
 										   title="Boudin consequat"  >
-																							<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic/12-90x90.jpg" class="img-1" alt="Boudin consequat">
-												<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic/7-90x90.jpg" class="img-2" alt="Boudin consequat">
+																							<img src="image/cache/catalog/demo/product/Electronic/12-90x90.jpg" class="img-1" alt="Boudin consequat">
+												<img src="image/cache/catalog/demo/product/Electronic/7-90x90.jpg" class="img-2" alt="Boudin consequat">
 																					</a>
 										
 																			</div>
@@ -4602,7 +4602,7 @@ jQuery(document).ready(function ($) {
 															<div class="right-block font-ct">
 									<div class="item-info">
 																					<div class="item-title">
-												<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=72" target="_self"
+												<a href="product_detail.php" target="_self"
 												   title="Boudin consequat"  >
 													Boudin consequa..												</a>
 											</div>
@@ -4635,10 +4635,10 @@ jQuery(document).ready(function ($) {
 								<div class="item-image">
 									<div class="item-img-info">
 									
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=66" class="lt-image" target="_self"
+										<a href="product_detail.php" class="lt-image" target="_self"
 										   title="Capicola sausagops"  >
-																							<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic/2-90x90.jpg" class="img-1" alt="Capicola sausagops">
-												<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic/3-90x90.jpg" class="img-2" alt="Capicola sausagops">
+																							<img src="image/cache/catalog/demo/product/Electronic/2-90x90.jpg" class="img-1" alt="Capicola sausagops">
+												<img src="image/cache/catalog/demo/product/Electronic/3-90x90.jpg" class="img-2" alt="Capicola sausagops">
 																					</a>
 										
 																			</div>
@@ -4647,7 +4647,7 @@ jQuery(document).ready(function ($) {
 															<div class="right-block font-ct">
 									<div class="item-info">
 																					<div class="item-title">
-												<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=66" target="_self"
+												<a href="product_detail.php" target="_self"
 												   title="Capicola sausagops"  >
 													Capicola sausag..												</a>
 											</div>
@@ -4682,10 +4682,10 @@ jQuery(document).ready(function ($) {
 								<div class="item-image">
 									<div class="item-img-info">
 									
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=64" class="lt-image" target="_self"
+										<a href="product_detail.php" class="lt-image" target="_self"
 										   title="Chicken kielbasa"  >
-																							<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic2/48-90x90.jpg" class="img-1" alt="Chicken kielbasa">
-												<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic2/49-90x90.jpg" class="img-2" alt="Chicken kielbasa">
+																							<img src="image/cache/catalog/demo/product/Electronic2/48-90x90.jpg" class="img-1" alt="Chicken kielbasa">
+												<img src="image/cache/catalog/demo/product/Electronic2/49-90x90.jpg" class="img-2" alt="Chicken kielbasa">
 																					</a>
 										
 																			</div>
@@ -4694,7 +4694,7 @@ jQuery(document).ready(function ($) {
 															<div class="right-block font-ct">
 									<div class="item-info">
 																					<div class="item-title">
-												<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=64" target="_self"
+												<a href="product_detail.php" target="_self"
 												   title="Chicken kielbasa"  >
 													Chicken kielbas..												</a>
 											</div>
@@ -4727,10 +4727,10 @@ jQuery(document).ready(function ($) {
 								<div class="item-image">
 									<div class="item-img-info">
 									
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=89" class="lt-image" target="_self"
+										<a href="product_detail.php" class="lt-image" target="_self"
 										   title="Cornedbeef turkeyse"  >
-																							<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic2/37-90x90.jpg" class="img-1" alt="Cornedbeef turkeyse">
-												<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic2/38-90x90.jpg" class="img-2" alt="Cornedbeef turkeyse">
+																							<img src="image/cache/catalog/demo/product/Electronic2/37-90x90.jpg" class="img-1" alt="Cornedbeef turkeyse">
+												<img src="image/cache/catalog/demo/product/Electronic2/38-90x90.jpg" class="img-2" alt="Cornedbeef turkeyse">
 																					</a>
 										
 																			</div>
@@ -4739,7 +4739,7 @@ jQuery(document).ready(function ($) {
 															<div class="right-block font-ct">
 									<div class="item-info">
 																					<div class="item-title">
-												<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=89" target="_self"
+												<a href="product_detail.php" target="_self"
 												   title="Cornedbeef turkeyse"  >
 													Cornedbeef turk..												</a>
 											</div>
@@ -4772,10 +4772,10 @@ jQuery(document).ready(function ($) {
 								<div class="item-image">
 									<div class="item-img-info">
 									
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=55" class="lt-image" target="_self"
+										<a href="product_detail.php" class="lt-image" target="_self"
 										   title="Cuid densinteu"  >
-																							<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic2/1-90x90.jpg" class="img-1" alt="Cuid densinteu">
-												<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic2/2-90x90.jpg" class="img-2" alt="Cuid densinteu">
+																							<img src="image/cache/catalog/demo/product/Electronic2/1-90x90.jpg" class="img-1" alt="Cuid densinteu">
+												<img src="image/cache/catalog/demo/product/Electronic2/2-90x90.jpg" class="img-2" alt="Cuid densinteu">
 																					</a>
 										
 																			</div>
@@ -4784,7 +4784,7 @@ jQuery(document).ready(function ($) {
 															<div class="right-block font-ct">
 									<div class="item-info">
 																					<div class="item-title">
-												<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=55" target="_self"
+												<a href="product_detail.php" target="_self"
 												   title="Cuid densinteu"  >
 													Cuid densinteu												</a>
 											</div>
@@ -4819,10 +4819,10 @@ jQuery(document).ready(function ($) {
 								<div class="item-image">
 									<div class="item-img-info">
 									
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=30" class="lt-image" target="_self"
+										<a href="product_detail.php" class="lt-image" target="_self"
 										   title="Dail mirentukan"  >
-																							<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic2/30-90x90.jpg" class="img-1" alt="Dail mirentukan">
-												<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic2/27-90x90.jpg" class="img-2" alt="Dail mirentukan">
+																							<img src="image/cache/catalog/demo/product/Electronic2/30-90x90.jpg" class="img-1" alt="Dail mirentukan">
+												<img src="image/cache/catalog/demo/product/Electronic2/27-90x90.jpg" class="img-2" alt="Dail mirentukan">
 																					</a>
 										
 																			</div>
@@ -4831,7 +4831,7 @@ jQuery(document).ready(function ($) {
 															<div class="right-block font-ct">
 									<div class="item-info">
 																					<div class="item-title">
-												<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=30" target="_self"
+												<a href="product_detail.php" target="_self"
 												   title="Dail mirentukan"  >
 													Dail mirentukan												</a>
 											</div>
@@ -4864,10 +4864,10 @@ jQuery(document).ready(function ($) {
 								<div class="item-image">
 									<div class="item-img-info">
 									
-										<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=47" class="lt-image" target="_self"
+										<a href="product_detail.php" class="lt-image" target="_self"
 										   title="Denouncing pleasure"  >
-																							<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic2/20-90x90.jpg" class="img-1" alt="Denouncing pleasure">
-												<img src="http://localhost/so_revo/image/cache/catalog/demo/product/Electronic2/21-90x90.jpg" class="img-2" alt="Denouncing pleasure">
+																							<img src="image/cache/catalog/demo/product/Electronic2/20-90x90.jpg" class="img-1" alt="Denouncing pleasure">
+												<img src="image/cache/catalog/demo/product/Electronic2/21-90x90.jpg" class="img-2" alt="Denouncing pleasure">
 																					</a>
 										
 																			</div>
@@ -4876,7 +4876,7 @@ jQuery(document).ready(function ($) {
 															<div class="right-block font-ct">
 									<div class="item-info">
 																					<div class="item-title">
-												<a href="http://localhost/so_revo/index.php?route=product/product&amp;product_id=47" target="_self"
+												<a href="product_detail.php" target="_self"
 												   title="Denouncing pleasure"  >
 													Denouncing plea..												</a>
 											</div>
@@ -5048,8 +5048,8 @@ jQuery(document).ready(function ($) {
 												<div class="media">
 									<div class="item">
 		<div class="content-img">
-		<a href="http://localhost/so_revo/index.php?route=simple_blog/article/view&amp;simple_blog_article_id=11" target="_self">
-			<img src="http://localhost/so_revo/image/cache/catalog/demo/blog/6-370x260.jpg" alt="Aestibulum ipsum a ornare car" class="media-object"/>
+		<a href="index.php?route=simple_blog/article/view&amp;simple_blog_article_id=11" target="_self">
+			<img src="image/cache/catalog/demo/blog/6-370x260.jpg" alt="Aestibulum ipsum a ornare car" class="media-object"/>
 		</a>
 		<div class="entry-date font-ct">
 							<div class="day-time">24</div>
@@ -5059,7 +5059,7 @@ jQuery(document).ready(function ($) {
 		<div class="content-detail">
 		<div class="media-content">
 						<h4 class="media-heading font-ct">
-				<a href="http://localhost/so_revo/index.php?route=simple_blog/article/view&amp;simple_blog_article_id=11" title="Aestibulum ipsum a ornare car" target="_self">Aestibulum ipsum a ornare car</a>
+				<a href="index.php?route=simple_blog/article/view&amp;simple_blog_article_id=11" title="Aestibulum ipsum a ornare car" target="_self">Aestibulum ipsum a ornare car</a>
 			</h4>
 												<div class="media-subcontent">
 									<span class="media-author"><i class="fa fa-book"></i>Admin</span>
@@ -5067,7 +5067,7 @@ jQuery(document).ready(function ($) {
 													<span class="media-view"><i class="fa fa-eye"></i>1 View</span>
 								</div>
 								<div class="readmore">
-					<a href="http://localhost/so_revo/index.php?route=simple_blog/article/view&amp;simple_blog_article_id=11" target="_self" class="readmores"><i class="fa fa-caret-right"></i>Read more</a>
+					<a href="index.php?route=simple_blog/article/view&amp;simple_blog_article_id=11" target="_self" class="readmores"><i class="fa fa-caret-right"></i>Read more</a>
 				</div>
 
 									</div>
@@ -5081,8 +5081,8 @@ jQuery(document).ready(function ($) {
 												<div class="media">
 									<div class="item">
 		<div class="content-img">
-		<a href="http://localhost/so_revo/index.php?route=simple_blog/article/view&amp;simple_blog_article_id=10" target="_self">
-			<img src="http://localhost/so_revo/image/cache/catalog/demo/blog/8-370x260.jpg" alt="Aestibulum ipsum a ornare lectus" class="media-object"/>
+		<a href="index.php?route=simple_blog/article/view&amp;simple_blog_article_id=10" target="_self">
+			<img src="image/cache/catalog/demo/blog/8-370x260.jpg" alt="Aestibulum ipsum a ornare lectus" class="media-object"/>
 		</a>
 		<div class="entry-date font-ct">
 							<div class="day-time">24</div>
@@ -5092,7 +5092,7 @@ jQuery(document).ready(function ($) {
 		<div class="content-detail">
 		<div class="media-content">
 						<h4 class="media-heading font-ct">
-				<a href="http://localhost/so_revo/index.php?route=simple_blog/article/view&amp;simple_blog_article_id=10" title="Aestibulum ipsum a ornare lectus" target="_self">Aestibulum ipsum a ornare lectus</a>
+				<a href="index.php?route=simple_blog/article/view&amp;simple_blog_article_id=10" title="Aestibulum ipsum a ornare lectus" target="_self">Aestibulum ipsum a ornare lectus</a>
 			</h4>
 												<div class="media-subcontent">
 									<span class="media-author"><i class="fa fa-book"></i>Admin</span>
@@ -5100,7 +5100,7 @@ jQuery(document).ready(function ($) {
 													<span class="media-view"><i class="fa fa-eye"></i>1 View</span>
 								</div>
 								<div class="readmore">
-					<a href="http://localhost/so_revo/index.php?route=simple_blog/article/view&amp;simple_blog_article_id=10" target="_self" class="readmores"><i class="fa fa-caret-right"></i>Read more</a>
+					<a href="index.php?route=simple_blog/article/view&amp;simple_blog_article_id=10" target="_self" class="readmores"><i class="fa fa-caret-right"></i>Read more</a>
 				</div>
 
 									</div>
@@ -5114,8 +5114,8 @@ jQuery(document).ready(function ($) {
 												<div class="media">
 									<div class="item">
 		<div class="content-img">
-		<a href="http://localhost/so_revo/index.php?route=simple_blog/article/view&amp;simple_blog_article_id=2" target="_self">
-			<img src="http://localhost/so_revo/image/cache/catalog/demo/blog/2-370x260.jpg" alt="Biten demonstraverunt lector " class="media-object"/>
+		<a href="index.php?route=simple_blog/article/view&amp;simple_blog_article_id=2" target="_self">
+			<img src="image/cache/catalog/demo/blog/2-370x260.jpg" alt="Biten demonstraverunt lector " class="media-object"/>
 		</a>
 		<div class="entry-date font-ct">
 							<div class="day-time">11</div>
@@ -5125,7 +5125,7 @@ jQuery(document).ready(function ($) {
 		<div class="content-detail">
 		<div class="media-content">
 						<h4 class="media-heading font-ct">
-				<a href="http://localhost/so_revo/index.php?route=simple_blog/article/view&amp;simple_blog_article_id=2" title="Biten demonstraverunt lector " target="_self">Biten demonstraverunt lector </a>
+				<a href="index.php?route=simple_blog/article/view&amp;simple_blog_article_id=2" title="Biten demonstraverunt lector " target="_self">Biten demonstraverunt lector </a>
 			</h4>
 												<div class="media-subcontent">
 									<span class="media-author"><i class="fa fa-book"></i>Admin</span>
@@ -5133,7 +5133,7 @@ jQuery(document).ready(function ($) {
 													<span class="media-view"><i class="fa fa-eye"></i>1 View</span>
 								</div>
 								<div class="readmore">
-					<a href="http://localhost/so_revo/index.php?route=simple_blog/article/view&amp;simple_blog_article_id=2" target="_self" class="readmores"><i class="fa fa-caret-right"></i>Read more</a>
+					<a href="index.php?route=simple_blog/article/view&amp;simple_blog_article_id=2" target="_self" class="readmores"><i class="fa fa-caret-right"></i>Read more</a>
 				</div>
 
 									</div>
@@ -5147,8 +5147,8 @@ jQuery(document).ready(function ($) {
 												<div class="media">
 									<div class="item">
 		<div class="content-img">
-		<a href="http://localhost/so_revo/index.php?route=simple_blog/article/view&amp;simple_blog_article_id=3" target="_self">
-			<img src="http://localhost/so_revo/image/cache/catalog/demo/blog/3-370x260.jpg" alt="Commodo laoreet semper" class="media-object"/>
+		<a href="index.php?route=simple_blog/article/view&amp;simple_blog_article_id=3" target="_self">
+			<img src="image/cache/catalog/demo/blog/3-370x260.jpg" alt="Commodo laoreet semper" class="media-object"/>
 		</a>
 		<div class="entry-date font-ct">
 							<div class="day-time">11</div>
@@ -5158,7 +5158,7 @@ jQuery(document).ready(function ($) {
 		<div class="content-detail">
 		<div class="media-content">
 						<h4 class="media-heading font-ct">
-				<a href="http://localhost/so_revo/index.php?route=simple_blog/article/view&amp;simple_blog_article_id=3" title="Commodo laoreet semper" target="_self">Commodo laoreet semper</a>
+				<a href="index.php?route=simple_blog/article/view&amp;simple_blog_article_id=3" title="Commodo laoreet semper" target="_self">Commodo laoreet semper</a>
 			</h4>
 												<div class="media-subcontent">
 									<span class="media-author"><i class="fa fa-book"></i>Admin</span>
@@ -5166,7 +5166,7 @@ jQuery(document).ready(function ($) {
 													<span class="media-view"><i class="fa fa-eye"></i>1 View</span>
 								</div>
 								<div class="readmore">
-					<a href="http://localhost/so_revo/index.php?route=simple_blog/article/view&amp;simple_blog_article_id=3" target="_self" class="readmores"><i class="fa fa-caret-right"></i>Read more</a>
+					<a href="index.php?route=simple_blog/article/view&amp;simple_blog_article_id=3" target="_self" class="readmores"><i class="fa fa-caret-right"></i>Read more</a>
 				</div>
 
 									</div>
@@ -5180,8 +5180,8 @@ jQuery(document).ready(function ($) {
 												<div class="media">
 									<div class="item">
 		<div class="content-img">
-		<a href="http://localhost/so_revo/index.php?route=simple_blog/article/view&amp;simple_blog_article_id=14" target="_self">
-			<img src="http://localhost/so_revo/image/cache/catalog/demo/blog/9-370x260.jpg" alt="Donec massa pellentesque placerat nisl laoreet placerat nisl	" class="media-object"/>
+		<a href="index.php?route=simple_blog/article/view&amp;simple_blog_article_id=14" target="_self">
+			<img src="image/cache/catalog/demo/blog/9-370x260.jpg" alt="Donec massa pellentesque placerat nisl laoreet placerat nisl	" class="media-object"/>
 		</a>
 		<div class="entry-date font-ct">
 							<div class="day-time">31</div>
@@ -5191,7 +5191,7 @@ jQuery(document).ready(function ($) {
 		<div class="content-detail">
 		<div class="media-content">
 						<h4 class="media-heading font-ct">
-				<a href="http://localhost/so_revo/index.php?route=simple_blog/article/view&amp;simple_blog_article_id=14" title="Donec massa pellentesque placerat nisl laoreet placerat nisl	" target="_self">Donec massa pellentesque placerat n..</a>
+				<a href="index.php?route=simple_blog/article/view&amp;simple_blog_article_id=14" title="Donec massa pellentesque placerat nisl laoreet placerat nisl	" target="_self">Donec massa pellentesque placerat n..</a>
 			</h4>
 												<div class="media-subcontent">
 									<span class="media-author"><i class="fa fa-book"></i>Admin</span>
@@ -5199,7 +5199,7 @@ jQuery(document).ready(function ($) {
 													<span class="media-view"><i class="fa fa-eye"></i>1 View</span>
 								</div>
 								<div class="readmore">
-					<a href="http://localhost/so_revo/index.php?route=simple_blog/article/view&amp;simple_blog_article_id=14" target="_self" class="readmores"><i class="fa fa-caret-right"></i>Read more</a>
+					<a href="index.php?route=simple_blog/article/view&amp;simple_blog_article_id=14" target="_self" class="readmores"><i class="fa fa-caret-right"></i>Read more</a>
 				</div>
 
 									</div>
@@ -5213,8 +5213,8 @@ jQuery(document).ready(function ($) {
 												<div class="media">
 									<div class="item">
 		<div class="content-img">
-		<a href="http://localhost/so_revo/index.php?route=simple_blog/article/view&amp;simple_blog_article_id=4" target="_self">
-			<img src="http://localhost/so_revo/image/cache/catalog/demo/blog/4-370x260.jpg" alt="Donec tellus Nulla lorem" class="media-object"/>
+		<a href="index.php?route=simple_blog/article/view&amp;simple_blog_article_id=4" target="_self">
+			<img src="image/cache/catalog/demo/blog/4-370x260.jpg" alt="Donec tellus Nulla lorem" class="media-object"/>
 		</a>
 		<div class="entry-date font-ct">
 							<div class="day-time">11</div>
@@ -5224,7 +5224,7 @@ jQuery(document).ready(function ($) {
 		<div class="content-detail">
 		<div class="media-content">
 						<h4 class="media-heading font-ct">
-				<a href="http://localhost/so_revo/index.php?route=simple_blog/article/view&amp;simple_blog_article_id=4" title="Donec tellus Nulla lorem" target="_self">Donec tellus Nulla lorem</a>
+				<a href="index.php?route=simple_blog/article/view&amp;simple_blog_article_id=4" title="Donec tellus Nulla lorem" target="_self">Donec tellus Nulla lorem</a>
 			</h4>
 												<div class="media-subcontent">
 									<span class="media-author"><i class="fa fa-book"></i>Admin</span>
@@ -5232,7 +5232,7 @@ jQuery(document).ready(function ($) {
 													<span class="media-view"><i class="fa fa-eye"></i>1 View</span>
 								</div>
 								<div class="readmore">
-					<a href="http://localhost/so_revo/index.php?route=simple_blog/article/view&amp;simple_blog_article_id=4" target="_self" class="readmores"><i class="fa fa-caret-right"></i>Read more</a>
+					<a href="index.php?route=simple_blog/article/view&amp;simple_blog_article_id=4" target="_self" class="readmores"><i class="fa fa-caret-right"></i>Read more</a>
 				</div>
 
 									</div>
@@ -5376,7 +5376,7 @@ jQuery(document).ready(function ($) {
 	
 </div>																				</div> 			
 					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 col_kdqy block block_10">
-																<div id="content_slider_pw3t" class="yt-content-slider owl2-theme yt-content-slider-style-default arrow-default top-brand" data-transitionin="" data-transitionout="" data-autoplay="no" data-autoheight="no" data-delay="4" data-speed="0.6" data-margin="10" data-items_column0="6" data-items_column1="4" data-items_column2="3"  data-items_column3="2" data-items_column4="2" data-arrows="yes" data-pagination="no" data-lazyload="no" data-loop="yes" data-hoverpause="yes"><div class="yt-content-slide yt-clearfix yt-content-wrap"> <a href="#" title="" target="brank"><img src="http://localhost/so_revo/image/catalog/demo/manufacturer/brand-1.png" alt="title_593826afea741124241496852143" /></a></div><div class="yt-content-slide yt-clearfix yt-content-wrap"> <a href="#" title="" target="brank"><img src="http://localhost/so_revo/image/catalog/demo/manufacturer/brand-2.png" alt="title_593826afea756189771496852143" /></a></div><div class="yt-content-slide yt-clearfix yt-content-wrap"> <a href="#" title="" target="brank"><img src="http://localhost/so_revo/image/catalog/demo/manufacturer/brand-3.png" alt="title_593826afea763200381496852143" /></a></div><div class="yt-content-slide yt-clearfix yt-content-wrap"> <a href="#" title="" target="brank"><img src="http://localhost/so_revo/image/catalog/demo/manufacturer/brand-4.png" alt="title_593826afea770225351496852143" /></a></div><div class="yt-content-slide yt-clearfix yt-content-wrap"> <a href="#" title="" target="brank"><img src="http://localhost/so_revo/image/catalog/demo/manufacturer/brand-5.png" alt="title_593826afea77d197641496852143" /></a></div><div class="yt-content-slide yt-clearfix yt-content-wrap"> <a href="#" title="" target="brank"><img src="http://localhost/so_revo/image/catalog/demo/manufacturer/brand-6.png" alt="title_593826afea789264611496852143" /></a></div><div class="yt-content-slide yt-clearfix yt-content-wrap"> <a href="#" title="" target="brank"><img src="http://localhost/so_revo/image/catalog/demo/manufacturer/brand-3.png" alt="title_593826afea79622581496852143" /></a></div></div>																				</div> 			
+																<div id="content_slider_pw3t" class="yt-content-slider owl2-theme yt-content-slider-style-default arrow-default top-brand" data-transitionin="" data-transitionout="" data-autoplay="no" data-autoheight="no" data-delay="4" data-speed="0.6" data-margin="10" data-items_column0="6" data-items_column1="4" data-items_column2="3"  data-items_column3="2" data-items_column4="2" data-arrows="yes" data-pagination="no" data-lazyload="no" data-loop="yes" data-hoverpause="yes"><div class="yt-content-slide yt-clearfix yt-content-wrap"> <a href="#" title="" target="brank"><img src="image/catalog/demo/manufacturer/brand-1.png" alt="title_593826afea741124241496852143" /></a></div><div class="yt-content-slide yt-clearfix yt-content-wrap"> <a href="#" title="" target="brank"><img src="image/catalog/demo/manufacturer/brand-2.png" alt="title_593826afea756189771496852143" /></a></div><div class="yt-content-slide yt-clearfix yt-content-wrap"> <a href="#" title="" target="brank"><img src="image/catalog/demo/manufacturer/brand-3.png" alt="title_593826afea763200381496852143" /></a></div><div class="yt-content-slide yt-clearfix yt-content-wrap"> <a href="#" title="" target="brank"><img src="image/catalog/demo/manufacturer/brand-4.png" alt="title_593826afea770225351496852143" /></a></div><div class="yt-content-slide yt-clearfix yt-content-wrap"> <a href="#" title="" target="brank"><img src="image/catalog/demo/manufacturer/brand-5.png" alt="title_593826afea77d197641496852143" /></a></div><div class="yt-content-slide yt-clearfix yt-content-wrap"> <a href="#" title="" target="brank"><img src="image/catalog/demo/manufacturer/brand-6.png" alt="title_593826afea789264611496852143" /></a></div><div class="yt-content-slide yt-clearfix yt-content-wrap"> <a href="#" title="" target="brank"><img src="image/catalog/demo/manufacturer/brand-3.png" alt="title_593826afea79622581496852143" /></a></div></div>																				</div> 			
 				
 	</div> 	</div> 	
 	 
@@ -5391,7 +5391,7 @@ jQuery(document).ready(function ($) {
 				if($($item_class[i]).find('.quickview_handler').length <= 0){
 					var $product_id = $($item_class[i]).find('a', $(this)).attr('data-product');
 					if($.isNumeric($product_id) ){
-												var _quickviewbutton = "<a class='quickview iframe-link visible-lg btn-button' href='http://localhost/so_revo/index.php?route=extension/soconfig/quickview&amp;product_id="+$product_id+"' title=\"Quick View\" data-toggle=\"tooltip\" data-title =\"Quick View\" data-fancybox-type=\"iframe\" ><i class=\"fa fa-search\"></i></a>";
+												var _quickviewbutton = "<a class='quickview iframe-link visible-lg btn-button' href='index.php?route=extension/soconfig/quickview&amp;product_id="+$product_id+"' title=\"Quick View\" data-toggle=\"tooltip\" data-title =\"Quick View\" data-fancybox-type=\"iframe\" ><i class=\"fa fa-search\"></i></a>";
 												if($($item_class[i]).find('a.quickview').length <= 0){
 						 $($item_class[i]).find('a.hidden').after(_quickviewbutton);
 						}

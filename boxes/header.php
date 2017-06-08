@@ -69,7 +69,7 @@
 			<div class="row">
 				<!-- LOGO -->
 				<div class="navbar-logo col-md-3 col-sm-3 col-xs-10">
-				   	<a href="#"><img src="assets/images/blue/logo.png" title="Your Store" alt="Your Store" /></a>			    
+				   	<a href="index.php"><img src="assets/images/blue/logo.png" title="Your Store" alt="Your Store" /></a>			    
         		</div>
 				<div class="header-center-right col-md-9 col-sm-9 col-xs-2">
 					<!-- BOX CONTENT MENU -->
@@ -235,14 +235,14 @@
 											</strong>
 											 
 											<b class='caret' ></b>
-										</a><div class="sub-menu" style="width:100%"><div class="content"><div class="row"><div class="col-sm-3"><div class="link "><img src="image/catalog/demo/menu/menu-img1.jpg" alt="" style="width: 100%;"></div></div><div class="col-sm-3"><div class="link "><img src="image/catalog/demo/menu/menu-img2.jpg" alt="" style="width: 100%;"></div></div><div class="col-sm-3"><div class="link "><img src="image/catalog/demo/menu/menu-img3.jpg" alt="" style="width: 100%;"></div></div><div class="col-sm-3"><div class="link "><img src="image/catalog/demo/menu/menu-img4.jpg" alt="" style="width: 100%;"></div></div></div><div class="border"></div><div class="row"><div class="col-sm-3"><div class="categories "><div class="row"><div class="col-sm-12 static-menu"><div class="menu"><ul><li><a href="category_left.php" class="main-menu">Sports 2</a><ul><li><a href="index.php?route=product/category&amp;path=17_63" >Body Chains</a></li><li><a href="index.php?route=product/category&amp;path=57_68" >Hanet magente</a></li><li><a href="index.php?route=product/category&amp;path=25_29" >Alarms</a></li><li><a href="index.php?route=product/category&amp;path=34_43" >Camping &amp; Hiking</a></li><li><a href="index.php?route=product/category&amp;path=57_70" >Latenge mange</a></li><li><a href="index.php?route=product/category&amp;path=57_69" >Knage unget</a></li></ul></li></ul></div></div></div></div></div><div class="col-sm-3"><div class="categories "><div class="row"><div class="col-sm-12 static-menu"><div class="menu"><ul><li><a href="index.php?route=product/category&amp;path=25"  class="main-menu">Fashion</a><ul><li><a href="index.php?route=product/category&amp;path=25_28" >Speakers</a></li><li><a href="index.php?route=product/category&amp;path=25_35" >Gadgets &amp; Auto Parts</a></li><li><a href="index.php?route=product/category&amp;path=25_36" >More Car Accessories</a></li><li><a href="index.php?route=product/category&amp;path=34_43" >Camping &amp; Hiking</a></li><li><a href="index.php?route=product/category&amp;path=25_29" >Alarms</a></li><li><a href="index.php?route=product/category&amp;path=25_32" >Web Cameras</a></li></ul></li></ul></div></div></div></div></div><div class="col-sm-3"><div class="categories sub3"><div class="row"><div class="col-sm-12 static-menu"><div class="menu"><ul><li><a href="index.php?route=product/category&amp;path=18" class="main-menu">Womens</a><ul><li><a href="index.php?route=product/category&amp;path=33_76" >Accessories</a></li><li><a href="index.php?route=product/category&amp;path=33_75" >Sports</a></li><li><a href="index.php?route=product/category&amp;path=17_64" onclick="window.location = 'index.php?route=product/category&amp;path=17_64';">Angene mafin</a></li><li><a href="index.php?route=product/category&amp;path=18_45" onclick="window.location = 'index.php?route=product/category&amp;path=18_45';">Pearl mens</a></li><li><a href="index.php?route=product/category&amp;path=25_30" onclick="window.location = 'index.php?route=product/category&amp;path=25_30';">Printers</a></li><li><a href="index.php?route=product/category&amp;path=25_36" onclick="window.location = 'index.php?route=product/category&amp;path=25_36';">More Car Accessories</a></li></ul></li></ul></div></div></div></div></div><div class="col-sm-3"><div class="categories "><div class="row"><div class="col-sm-12 static-menu"><div class="menu"><ul><li><a href="index.php?route=product/category&amp;path=33_74" onclick="window.location = 'index.php?route=product/category&amp;path=33_74';" class="main-menu">Computers</a><ul><li><a href="index.php?route=product/category&amp;path=34_43" onclick="window.location = 'index.php?route=product/category&amp;path=34_43';">Camping &amp; Hiking</a></li><li><a href="index.php?route=product/category&amp;path=25_32" onclick="window.location = 'index.php?route=product/category&amp;path=25_32';">Web Cameras</a></li><li><a href="index.php?route=product/category&amp;path=34_47" onclick="window.location = 'index.php?route=product/category&amp;path=34_47';">Cusen mariot</a></li><li><a href="index.php?route=product/category&amp;path=25_29" onclick="window.location = 'index.php?route=product/category&amp;path=25_29';">Alarms</a></li><li><a href="index.php?route=product/category&amp;path=25_36" onclick="window.location = 'index.php?route=product/category&amp;path=25_36';">More Car Accessories</a></li><li><a href="index.php?route=product/category&amp;path=57" onclick="window.location = 'index.php?route=product/category&amp;path=57';">Shop Collection</a></li></ul></li></ul></div></div></div></div></div></div></div></div></li>
+										</a><div class="sub-menu" style="width:100%"><div class="content"><div class="row"><div class="col-sm-3"><div class="link "><img src="image/catalog/demo/menu/menu-img1.jpg" alt="" style="width: 100%;"></div></div><div class="col-sm-3"><div class="link "><img src="image/catalog/demo/menu/menu-img2.jpg" alt="" style="width: 100%;"></div></div><div class="col-sm-3"><div class="link "><img src="image/catalog/demo/menu/menu-img3.jpg" alt="" style="width: 100%;"></div></div><div class="col-sm-3"><div class="link "><img src="image/catalog/demo/menu/menu-img4.jpg" alt="" style="width: 100%;"></div></div></div><div class="border"></div><div class="row"><div class="col-sm-3"><div class="categories "><div class="row"><div class="col-sm-12 static-menu"><div class="menu"><ul><li><a href="category_left.php" class="main-menu">Sports 2</a><ul><li><a href="category_left.php" >Body Chains</a></li><li><a href="category_left.php" >Hanet magente</a></li><li><a href="category_left.php" >Alarms</a></li><li><a href="category_left.php" >Camping &amp; Hiking</a></li><li><a href="category_left.php" >Latenge mange</a></li><li><a href="category_left.php" >Knage unget</a></li></ul></li></ul></div></div></div></div></div><div class="col-sm-3"><div class="categories "><div class="row"><div class="col-sm-12 static-menu"><div class="menu"><ul><li><a href="category_left.php"  class="main-menu">Fashion</a><ul><li><a href="category_left.php" >Speakers</a></li><li><a href="category_left.php" >Gadgets &amp; Auto Parts</a></li><li><a href="category_left.php" >More Car Accessories</a></li><li><a href="category_left.php" >Camping &amp; Hiking</a></li><li><a href="category_left.php" >Alarms</a></li><li><a href="category_left.php" >Web Cameras</a></li></ul></li></ul></div></div></div></div></div><div class="col-sm-3"><div class="categories sub3"><div class="row"><div class="col-sm-12 static-menu"><div class="menu"><ul><li><a href="category_left.php" class="main-menu">Womens</a><ul><li><a href="category_left.php" >Accessories</a></li><li><a href="category_left.php" >Sports</a></li><li><a href="category_left.php" >Angene mafin</a></li><li><a href="category_left.php" >Pearl mens</a></li><li><a href="category_left.php" >Printers</a></li><li><a href="category_left.php" >More Car Accessories</a></li></ul></li></ul></div></div></div></div></div><div class="col-sm-3"><div class="categories "><div class="row"><div class="col-sm-12 static-menu"><div class="menu"><ul><li><a href="category_left.php"  class="main-menu">Computers</a><ul><li><a href="category_left.php" >Camping &amp; Hiking</a></li><li><a href="category_left.php" >Web Cameras</a></li><li><a href="category_left.php" >Cusen mariot</a></li><li><a href="category_left.php" >Alarms</a></li><li><a href="category_left.php" >More Car Accessories</a></li><li><a href="category_left.php" >Shop Collection</a></li></ul></li></ul></div></div></div></div></div></div></div></div></li>
 <li class=' item-style2 content-full feafute with-sub-menu hover' ><p class='close-menu'></p><a href='' class='clearfix' >
 											<strong>
 												<img src="image/catalog/demo/menu/new-icon.png" alt="">Accessories
 											</strong>
 											 
 											<b class='caret' ></b>
-										</a><div class="sub-menu" style="width:100%"><div class="content"><div class="row"><div class="col-sm-8"><div class="categories "><div class="row"><div class="col-sm-4 static-menu"><div class="menu"><ul><li><a href="index.php?route=product/category&amp;path=25" onclick="window.location = 'index.php?route=product/category&amp;path=25';" class="main-menu">Fashion</a><ul><li><a href="index.php?route=product/category&amp;path=34_43" onclick="window.location = 'index.php?route=product/category&amp;path=34_43';">Camping &amp; Hiking</a></li><li><a href="index.php?route=product/category&amp;path=25_28" onclick="window.location = 'index.php?route=product/category&amp;path=25_28';">Speakers</a></li><li><a href="index.php?route=product/category&amp;path=25_36" onclick="window.location = 'index.php?route=product/category&amp;path=25_36';">More Car Accessories</a></li><li><a href="index.php?route=product/category&amp;path=25_35" onclick="window.location = 'index.php?route=product/category&amp;path=25_35';">Gadgets &amp; Auto Parts</a></li><li><a href="index.php?route=product/category&amp;path=25_29" onclick="window.location = 'index.php?route=product/category&amp;path=25_29';">Alarms</a></li></ul></li><li><a href="index.php?route=product/category&amp;path=17" onclick="window.location = 'index.php?route=product/category&amp;path=17';" class="main-menu">Electronics </a><ul><li><a href="index.php?route=product/category&amp;path=33_76" onclick="window.location = 'index.php?route=product/category&amp;path=33_76';">Accessories</a></li><li><a href="index.php?route=product/category&amp;path=34_47" onclick="window.location = 'index.php?route=product/category&amp;path=34_47';">Cusen mariot</a></li><li><a href="index.php?route=product/category&amp;path=17_64" onclick="window.location = 'index.php?route=product/category&amp;path=17_64';">Angene mafin</a></li><li><a href="index.php?route=product/category&amp;path=25_32" onclick="window.location = 'index.php?route=product/category&amp;path=25_32';">Web Cameras</a></li><li><a href="index.php?route=product/category&amp;path=34_44" onclick="window.location = 'index.php?route=product/category&amp;path=34_44';">Theid cupensg</a></li><li><a href="index.php?route=product/category&amp;path=17_60" onclick="window.location = 'index.php?route=product/category&amp;path=17_60';">Egante mangetes</a></li><li><a href="index.php?route=product/category&amp;path=17_66" onclick="window.location = 'index.php?route=product/category&amp;path=17_66';">Rengae manges</a></li></ul></li></ul></div></div><div class="col-sm-4 static-menu"><div class="menu"><ul><li><a href="index.php?route=product/category&amp;path=34" onclick="window.location = 'index.php?route=product/category&amp;path=34';" class="main-menu">Sports</a><ul><li><a href="index.php?route=product/category&amp;path=34_55" onclick="window.location = 'index.php?route=product/category&amp;path=34_55';">Engite nanet</a></li><li><a href="index.php?route=product/category&amp;path=34_47" onclick="window.location = 'index.php?route=product/category&amp;path=34_47';">Cusen mariot</a></li><li><a href="index.php?route=product/category&amp;path=25_32" onclick="window.location = 'index.php?route=product/category&amp;path=25_32';">Web Cameras</a></li><li><a href="index.php?route=product/category&amp;path=34_48" onclick="window.location = 'index.php?route=product/category&amp;path=34_48';">Denta magela</a></li><li><a href="index.php?route=product/category&amp;path=34_43" onclick="window.location = 'index.php?route=product/category&amp;path=34_43';">Camping &amp; Hiking</a></li></ul></li><li><a href="index.php?route=product/category&amp;path=57" onclick="window.location = 'index.php?route=product/category&amp;path=57';" class="main-menu">Shop Collection</a><ul><li><a href="index.php?route=product/category&amp;path=57_69" onclick="window.location = 'index.php?route=product/category&amp;path=57_69';">Knage unget</a></li><li><a href="index.php?route=product/category&amp;path=57_67" onclick="window.location = 'index.php?route=product/category&amp;path=57_67';">Punge nenune</a></li><li><a href="index.php?route=product/category&amp;path=57_70" onclick="window.location = 'index.php?route=product/category&amp;path=57_70';">Latenge mange</a></li><li><a href="index.php?route=product/category&amp;path=57_68" onclick="window.location = 'index.php?route=product/category&amp;path=57_68';">Hanet magente</a></li><li><a href="index.php?route=product/category&amp;path=25_35" onclick="window.location = 'index.php?route=product/category&amp;path=25_35';">Gadgets &amp; Auto Parts</a></li><li><a href="index.php?route=product/category&amp;path=25_28" onclick="window.location = 'index.php?route=product/category&amp;path=25_28';">Speakers</a></li><li><a href="index.php?route=product/category&amp;path=25_29" onclick="window.location = 'index.php?route=product/category&amp;path=25_29';">Alarms</a></li></ul></li></ul></div></div><div class="col-sm-4 static-menu"><div class="menu"><ul><li><a href="index.php?route=product/category&amp;path=25" onclick="window.location = 'index.php?route=product/category&amp;path=25';" class="main-menu">Fashion</a><ul><li><a href="index.php?route=product/category&amp;path=33_76" onclick="window.location = 'index.php?route=product/category&amp;path=33_76';">Accessories</a></li><li><a href="index.php?route=product/category&amp;path=34_44" onclick="window.location = 'index.php?route=product/category&amp;path=34_44';">Theid cupensg</a></li><li><a href="index.php?route=product/category&amp;path=25_29" onclick="window.location = 'index.php?route=product/category&amp;path=25_29';">Alarms</a></li><li><a href="index.php?route=product/category&amp;path=25_28" onclick="window.location = 'index.php?route=product/category&amp;path=25_28';">Speakers</a></li><li><a href="index.php?route=product/category&amp;path=25_36" onclick="window.location = 'index.php?route=product/category&amp;path=25_36';">More Car Accessories</a></li></ul></li><li><a href="index.php?route=product/category&amp;path=34_47" onclick="window.location = 'index.php?route=product/category&amp;path=34_47';" class="main-menu">Cusen mariot</a><ul><li><a href="index.php?route=product/category&amp;path=34_48" onclick="window.location = 'index.php?route=product/category&amp;path=34_48';">Denta magela</a></li><li><a href="index.php?route=product/category&amp;path=34_44" onclick="window.location = 'index.php?route=product/category&amp;path=34_44';">Theid cupensg</a></li><li><a href="index.php?route=product/category&amp;path=25_32" onclick="window.location = 'index.php?route=product/category&amp;path=25_32';">Web Cameras</a></li><li><a href="index.php?route=product/category&amp;path=25_35" onclick="window.location = 'index.php?route=product/category&amp;path=25_35';">Gadgets &amp; Auto Parts</a></li><li><a href="index.php?route=product/category&amp;path=25_36" onclick="window.location = 'index.php?route=product/category&amp;path=25_36';">More Car Accessories</a></li><li><a href="index.php?route=product/category&amp;path=25_28" onclick="window.location = 'index.php?route=product/category&amp;path=25_28';">Speakers</a></li><li><a href="index.php?route=product/category&amp;path=25_29" onclick="window.location = 'index.php?route=product/category&amp;path=25_29';">Alarms</a></li></ul></li></ul></div></div></div></div></div><div class="col-sm-4"><h4 class="title-feature">Featured Product</h4><div class="product best-sellers-menu"><div class="image"><a href="index.php?route=product/product&amp;product_id=74" onclick="window.location = 'index.php?route=product/product&amp;product_id=74';"><img src="image/cache/catalog/demo/product/Fashion/3-420x420.jpg" alt=""></a></div><h4 class="name"><a href="index.php?route=product/product&amp;product_id=74" onclick="window.location = 'index.php?route=product/product&amp;product_id=74';">Hamburger shoulder</a></h4><div class="price"><span class="price-new">$60.00</span><span class="price-old">$71.00</span></div></div></div></div></div></div></li>
+										</a><div class="sub-menu" style="width:100%"><div class="content"><div class="row"><div class="col-sm-8"><div class="categories "><div class="row"><div class="col-sm-4 static-menu"><div class="menu"><ul><li><a href="category_left.php"  class="main-menu">Fashion</a><ul><li><a href="category_left.php" >Camping &amp; Hiking</a></li><li><a href="category_left.php" >Speakers</a></li><li><a href="category_left.php" >More Car Accessories</a></li><li><a href="category_left.php" >Gadgets &amp; Auto Parts</a></li><li><a href="category_left.php" >Alarms</a></li></ul></li><li><a href="category_left.php"  class="main-menu">Electronics </a><ul><li><a href="category_left.php" >Accessories</a></li><li><a href="category_left.php" >Cusen mariot</a></li><li><a href="category_left.php" >Angene mafin</a></li><li><a href="category_left.php" >Web Cameras</a></li><li><a href="category_left.php" >Theid cupensg</a></li><li><a href="category_left.php" >Egante mangetes</a></li><li><a href="category_left.php" >Rengae manges</a></li></ul></li></ul></div></div><div class="col-sm-4 static-menu"><div class="menu"><ul><li><a href="category_left.php"  class="main-menu">Sports</a><ul><li><a href="category_left.php" >Engite nanet</a></li><li><a href="category_left.php" >Cusen mariot</a></li><li><a href="category_left.php" >Web Cameras</a></li><li><a href="category_left.php" >Denta magela</a></li><li><a href="category_left.php" >Camping &amp; Hiking</a></li></ul></li><li><a href="category_left.php"  class="main-menu">Shop Collection</a><ul><li><a href="category_left.php" >Knage unget</a></li><li><a href="category_left.php" >Punge nenune</a></li><li><a href="category_left.php" >Latenge mange</a></li><li><a href="category_left.php" >Hanet magente</a></li><li><a href="category_left.php" >Gadgets &amp; Auto Parts</a></li><li><a href="category_left.php" >Speakers</a></li><li><a href="category_left.php" >Alarms</a></li></ul></li></ul></div></div><div class="col-sm-4 static-menu"><div class="menu"><ul><li><a href="category_left.php"  class="main-menu">Fashion</a><ul><li><a href="category_left.php" >Accessories</a></li><li><a href="category_left.php" >Theid cupensg</a></li><li><a href="category_left.php" >Alarms</a></li><li><a href="category_left.php" >Speakers</a></li><li><a href="category_left.php" >More Car Accessories</a></li></ul></li><li><a href="category_left.php"  class="main-menu">Cusen mariot</a><ul><li><a href="category_left.php" >Denta magela</a></li><li><a href="category_left.php" >Theid cupensg</a></li><li><a href="category_left.php" >Web Cameras</a></li><li><a href="category_left.php" >Gadgets &amp; Auto Parts</a></li><li><a href="category_left.php" >More Car Accessories</a></li><li><a href="category_left.php" >Speakers</a></li><li><a href="category_left.php" >Alarms</a></li></ul></li></ul></div></div></div></div></div><div class="col-sm-4"><h4 class="title-feature">Featured Product</h4><div class="product best-sellers-menu"><div class="image"><a href="product_detail.php" ><img src="image/cache/catalog/demo/product/Fashion/3-420x420.jpg" alt=""></a></div><h4 class="name"><a href="product_detail.php" >Hamburger shoulder</a></h4><div class="price"><span class="price-new">$60.00</span><span class="price-old">$71.00</span></div></div></div></div></div></div></li>
 <li class='style-page with-sub-menu hover' ><p class='close-menu'></p><a href='' class='clearfix' >
 											<strong>
 												Pages
@@ -324,77 +324,77 @@
 					data-transition="slide" data-animationtime="300">
 
 						
-						<li class='item-vertical style1 with-sub-menu hover' ><p class='close-menu'></p><a href='index.php?route=product/category&amp;path=79' class='clearfix' >
+						<li class='item-vertical style1 with-sub-menu hover' ><p class='close-menu'></p><a href="category_left.php" class='clearfix' >
 										<span><strong>
 											<i class='icon icon1'></i><img src="image/catalog/demo/menu/icon/icon-6.png" alt="">Fashion
 										</strong></span>
 										 <span class='label'> </span>
 										<b class='fa fa-angle-right' ></b>
-										</a><div class="sub-menu" style="width:900px"><div class="content"><div class="row"><div class="col-sm-8"><div class="categories "><div class="row"><div class="col-sm-6 static-menu"><div class="menu"><ul><li><a href="index.php?route=product/category&amp;path=25" onclick="window.location = 'index.php?route=product/category&amp;path=25';" class="main-menu">Fashion</a><ul><li><a href="index.php?route=product/category&amp;path=25_29" onclick="window.location = 'index.php?route=product/category&amp;path=25_29';">Alarms</a></li><li><a href="index.php?route=product/category&amp;path=25_28" onclick="window.location = 'index.php?route=product/category&amp;path=25_28';">Speakers</a></li><li><a href="index.php?route=product/category&amp;path=25_35" onclick="window.location = 'index.php?route=product/category&amp;path=25_35';">Gadgets &amp; Auto Parts</a></li><li><a href="index.php?route=product/category&amp;path=25_36" onclick="window.location = 'index.php?route=product/category&amp;path=25_36';">More Car Accessories</a></li></ul></li><li><a href="index.php?route=product/category&amp;path=34" onclick="window.location = 'index.php?route=product/category&amp;path=34';" class="main-menu">Sports</a><ul><li><a href="index.php?route=product/category&amp;path=34_43" onclick="window.location = 'index.php?route=product/category&amp;path=34_43';">Camping &amp; Hiking</a></li><li><a href="index.php?route=product/category&amp;path=34_47" onclick="window.location = 'index.php?route=product/category&amp;path=34_47';">Cusen mariot</a></li><li><a href="index.php?route=product/category&amp;path=34_48" onclick="window.location = 'index.php?route=product/category&amp;path=34_48';">Denta magela</a></li><li><a href="index.php?route=product/category&amp;path=34_55" onclick="window.location = 'index.php?route=product/category&amp;path=34_55';">Engite nanet</a></li></ul></li></ul></div></div><div class="col-sm-6 static-menu"><div class="menu"><ul><li><a href="index.php?route=product/category&amp;path=17" onclick="window.location = 'index.php?route=product/category&amp;path=17';" class="main-menu">Electronics </a><ul><li><a href="index.php?route=product/category&amp;path=17_64" onclick="window.location = 'index.php?route=product/category&amp;path=17_64';">Angene mafin</a></li><li><a href="index.php?route=product/category&amp;path=17_60" onclick="window.location = 'index.php?route=product/category&amp;path=17_60';">Egante mangetes</a></li><li><a href="index.php?route=product/category&amp;path=17_62" onclick="window.location = 'index.php?route=product/category&amp;path=17_62';">DIY Beads</a></li><li><a href="index.php?route=product/category&amp;path=17_61" onclick="window.location = 'index.php?route=product/category&amp;path=17_61';">Necklaces</a></li></ul></li><li><a href="index.php?route=product/category&amp;path=57" onclick="window.location = 'index.php?route=product/category&amp;path=57';" class="main-menu">Shop Collection</a><ul><li><a href="index.php?route=product/category&amp;path=57_68" onclick="window.location = 'index.php?route=product/category&amp;path=57_68';">Hanet magente</a></li><li><a href="index.php?route=product/category&amp;path=57_69" onclick="window.location = 'index.php?route=product/category&amp;path=57_69';">Knage unget</a></li><li><a href="index.php?route=product/category&amp;path=57_70" onclick="window.location = 'index.php?route=product/category&amp;path=57_70';">Latenge mange</a></li><li><a href="index.php?route=product/category&amp;path=57_67" onclick="window.location = 'index.php?route=product/category&amp;path=57_67';">Punge nenune</a></li></ul></li></ul></div></div></div></div></div><div class="col-sm-4"><div class="html "><div class="row img-banner"><a href="#"><img src="image/catalog/demo/menu/img-static-megamenu-h.png" alt="banner"></a></div></div></div></div></div></div></li>
+										</a><div class="sub-menu" style="width:900px"><div class="content"><div class="row"><div class="col-sm-8"><div class="categories "><div class="row"><div class="col-sm-6 static-menu"><div class="menu"><ul><li><a href="category_left.php"  class="main-menu">Fashion</a><ul><li><a href="category_left.php" >Alarms</a></li><li><a href="category_left.php" >Speakers</a></li><li><a href="category_left.php" >Gadgets &amp; Auto Parts</a></li><li><a href="category_left.php" >More Car Accessories</a></li></ul></li><li><a href="category_left.php"  class="main-menu">Sports</a><ul><li><a href="category_left.php" >Camping &amp; Hiking</a></li><li><a href="category_left.php" >Cusen mariot</a></li><li><a href="category_left.php" >Denta magela</a></li><li><a href="category_left.php" >Engite nanet</a></li></ul></li></ul></div></div><div class="col-sm-6 static-menu"><div class="menu"><ul><li><a href="category_left.php"  class="main-menu">Electronics </a><ul><li><a href="category_left.php" >Angene mafin</a></li><li><a href="category_left.php" >Egante mangetes</a></li><li><a href="category_left.php" >DIY Beads</a></li><li><a href="category_left.php" >Necklaces</a></li></ul></li><li><a href="category_left.php"  class="main-menu">Shop Collection</a><ul><li><a href="category_left.php" >Hanet magente</a></li><li><a href="category_left.php" >Knage unget</a></li><li><a href="category_left.php" >Latenge mange</a></li><li><a href="category_left.php" >Punge nenune</a></li></ul></li></ul></div></div></div></div></div><div class="col-sm-4"><div class="html "><div class="row img-banner"><a href="#"><img src="image/catalog/demo/menu/img-static-megamenu-h.png" alt="banner"></a></div></div></div></div></div></div></li>
 <li class='item-vertical' ><p class='close-menu'></p><a href='' class='clearfix' >
 										<span><strong>
 											<i class='icon  icon2'></i><img src="image/catalog/demo/menu/icon/icon-1.png" alt="">Computer
 										</strong></span>
 										 <span class='label'> </span>
 										</a></li>
-<li class='item-vertical  item-style3 with-sub-menu hover' ><p class='close-menu'></p><a href='index.php?route=product/category&amp;path=33' class='clearfix' >
+<li class='item-vertical  item-style3 with-sub-menu hover' ><p class='close-menu'></p><a href="category_left.php" class='clearfix' >
 										<span><strong>
 											<i class='icon  icon3'></i><img src="image/catalog/demo/menu/icon/icon-2.png" alt="">Furniture
 										</strong></span>
 										 <span class='label'> </span>
 										<b class='fa fa-angle-right' ></b>
-										</a><div class="sub-menu" style="width:650px"><div class="content"><div class="row"><div class="col-sm-4"><div class="categories "><div class="row"><div class="col-sm-12 static-menu"><div class="menu"><ul><li><a href="index.php?route=product/category&amp;path=25" onclick="window.location = 'index.php?route=product/category&amp;path=25';" class="main-menu">Fashion</a><ul><li><a href="index.php?route=product/category&amp;path=17_64" onclick="window.location = 'index.php?route=product/category&amp;path=17_64';">Angene mafin</a></li><li><a href="index.php?route=product/category&amp;path=17_66" onclick="window.location = 'index.php?route=product/category&amp;path=17_66';">Rengae manges</a></li><li><a href="index.php?route=product/category&amp;path=17_61" onclick="window.location = 'index.php?route=product/category&amp;path=17_61';">Necklaces</a></li><li><a href="index.php?route=product/category&amp;path=34_48" onclick="window.location = 'index.php?route=product/category&amp;path=34_48';">Denta magela</a></li><li><a href="index.php?route=product/category&amp;path=57_67" onclick="window.location = 'index.php?route=product/category&amp;path=57_67';">Punge nenune</a></li><li><a href="index.php?route=product/category&amp;path=57_70" onclick="window.location = 'index.php?route=product/category&amp;path=57_70';">Latenge mange</a></li><li><a href="index.php?route=product/category&amp;path=34_43" onclick="window.location = 'index.php?route=product/category&amp;path=34_43';">Camping &amp; Hiking</a></li></ul></li></ul></div></div></div></div></div><div class="col-sm-4"><div class="categories "><div class="row"><div class="col-sm-12 static-menu"><div class="menu"><ul><li><a href="index.php?route=product/category&amp;path=33_72" onclick="window.location = 'index.php?route=product/category&amp;path=33_72';" class="main-menu">Electronics</a><ul><li><a href="index.php?route=product/category&amp;path=34_43" onclick="window.location = 'index.php?route=product/category&amp;path=34_43';">Camping &amp; Hiking</a></li><li><a href="index.php?route=product/category&amp;path=17_64" onclick="window.location = 'index.php?route=product/category&amp;path=17_64';">Angene mafin</a></li><li><a href="index.php?route=product/category&amp;path=34_48" onclick="window.location = 'index.php?route=product/category&amp;path=34_48';">Denta magela</a></li><li><a href="index.php?route=product/category&amp;path=33_72" onclick="window.location = 'index.php?route=product/category&amp;path=33_72';">Electronics</a></li><li><a href="index.php?route=product/category&amp;path=34_55" onclick="window.location = 'index.php?route=product/category&amp;path=34_55';">Engite nanet</a></li><li><a href="index.php?route=product/category&amp;path=34_44" onclick="window.location = 'index.php?route=product/category&amp;path=34_44';">Theid cupensg</a></li><li><a href="index.php?route=product/category&amp;path=34_59" onclick="window.location = 'index.php?route=product/category&amp;path=34_59';">Verture agoent</a></li></ul></li></ul></div></div></div></div></div><div class="col-sm-4"><div class="categories "><div class="row"><div class="col-sm-12 static-menu"><div class="menu"><ul><li><a href="index.php?route=product/category&amp;path=33_79" onclick="window.location = 'index.php?route=product/category&amp;path=33_79';" class="main-menu">Fashion</a><ul><li><a href="index.php?route=product/category&amp;path=34_44" onclick="window.location = 'index.php?route=product/category&amp;path=34_44';">Theid cupensg</a></li><li><a href="index.php?route=product/category&amp;path=17_64" onclick="window.location = 'index.php?route=product/category&amp;path=17_64';">Angene mafin</a></li><li><a href="index.php?route=product/category&amp;path=34_48" onclick="window.location = 'index.php?route=product/category&amp;path=34_48';">Denta magela</a></li><li><a href="index.php?route=product/category&amp;path=25_35" onclick="window.location = 'index.php?route=product/category&amp;path=25_35';">Gadgets &amp; Auto Parts</a></li><li><a href="index.php?route=product/category&amp;path=34_55" onclick="window.location = 'index.php?route=product/category&amp;path=34_55';">Engite nanet</a></li><li><a href="index.php?route=product/category&amp;path=34_43" onclick="window.location = 'index.php?route=product/category&amp;path=34_43';">Camping &amp; Hiking</a></li><li><a href="index.php?route=product/category&amp;path=34_59" onclick="window.location = 'index.php?route=product/category&amp;path=34_59';">Verture agoent</a></li></ul></li></ul></div></div></div></div></div></div><div class="border"></div><div class="row"><div class="col-sm-12"><div class="link banner-full"><img src="image/catalog/demo/menu/menu_bg2.jpg" alt="" style="width: 100%;"></div></div></div></div></div></li>
-<li class='item-vertical with-sub-menu hover' ><p class='close-menu'></p><a href='index.php?route=product/category&amp;path=33' class='clearfix' >
+										</a><div class="sub-menu" style="width:650px"><div class="content"><div class="row"><div class="col-sm-4"><div class="categories "><div class="row"><div class="col-sm-12 static-menu"><div class="menu"><ul><li><a href="category_left.php"  class="main-menu">Fashion</a><ul><li><a href="category_left.php" >Angene mafin</a></li><li><a href="category_left.php" >Rengae manges</a></li><li><a href="category_left.php" >Necklaces</a></li><li><a href="category_left.php" >Denta magela</a></li><li><a href="category_left.php" >Punge nenune</a></li><li><a href="category_left.php" >Latenge mange</a></li><li><a href="category_left.php" >Camping &amp; Hiking</a></li></ul></li></ul></div></div></div></div></div><div class="col-sm-4"><div class="categories "><div class="row"><div class="col-sm-12 static-menu"><div class="menu"><ul><li><a href="category_left.php"  class="main-menu">Electronics</a><ul><li><a href="category_left.php" >Camping &amp; Hiking</a></li><li><a href="category_left.php" >Angene mafin</a></li><li><a href="category_left.php" >Denta magela</a></li><li><a href="category_left.php" >Electronics</a></li><li><a href="category_left.php" >Engite nanet</a></li><li><a href="category_left.php" >Theid cupensg</a></li><li><a href="category_left.php" >Verture agoent</a></li></ul></li></ul></div></div></div></div></div><div class="col-sm-4"><div class="categories "><div class="row"><div class="col-sm-12 static-menu"><div class="menu"><ul><li><a href="category_left.php"  class="main-menu">Fashion</a><ul><li><a href="category_left.php" >Theid cupensg</a></li><li><a href="category_left.php" >Angene mafin</a></li><li><a href="category_left.php" >Denta magela</a></li><li><a href="category_left.php" >Gadgets &amp; Auto Parts</a></li><li><a href="category_left.php" >Engite nanet</a></li><li><a href="category_left.php" >Camping &amp; Hiking</a></li><li><a href="category_left.php" >Verture agoent</a></li></ul></li></ul></div></div></div></div></div></div><div class="border"></div><div class="row"><div class="col-sm-12"><div class="link banner-full"><img src="image/catalog/demo/menu/menu_bg2.jpg" alt="" style="width: 100%;"></div></div></div></div></div></li>
+<li class='item-vertical with-sub-menu hover' ><p class='close-menu'></p><a href="category_left.php" class='clearfix' >
 										<span><strong>
 											<i class='icon  icon4'></i><img src="image/catalog/demo/menu/icon/icon-3.png" alt="">Smartphone
 										</strong></span>
 										 <span class='label'> </span>
 										<b class='fa fa-angle-right' ></b>
-										</a><div class="sub-menu" style="width:900px"><div class="content"><div class="row"><div class="col-sm-12"><div class="categories "><div class="row"><div class="col-sm-4 static-menu"><div class="menu"><ul><li><a href="index.php?route=product/category&amp;path=33" onclick="window.location = 'index.php?route=product/category&amp;path=33';" class="main-menu">Sports 2</a><ul><li><a href="index.php?route=product/category&amp;path=25_31" onclick="window.location = 'index.php?route=product/category&amp;path=25_31';">Scanners</a></li><li><a href="index.php?route=product/category&amp;path=17_63" onclick="window.location = 'index.php?route=product/category&amp;path=17_63';">Body Chains</a></li><li><a href="index.php?route=product/category&amp;path=33_76" onclick="window.location = 'index.php?route=product/category&amp;path=33_76';">Accessories</a></li><li><a href="index.php?route=product/category&amp;path=25_32" onclick="window.location = 'index.php?route=product/category&amp;path=25_32';">Web Cameras</a></li><li><a href="index.php?route=product/category&amp;path=34_55" onclick="window.location = 'index.php?route=product/category&amp;path=34_55';">Engite nanet</a></li><li><a href="index.php?route=product/category&amp;path=17_62" onclick="window.location = 'index.php?route=product/category&amp;path=17_62';">DIY Beads</a></li><li><a href="index.php?route=product/category&amp;path=17_60" onclick="window.location = 'index.php?route=product/category&amp;path=17_60';">Egante mangetes</a></li></ul></li></ul></div></div><div class="col-sm-4 static-menu"><div class="menu"><ul><li><a href="index.php?route=product/category&amp;path=25" onclick="window.location = 'index.php?route=product/category&amp;path=25';" class="main-menu">Fashion</a><ul><li><a href="index.php?route=product/category&amp;path=34_44" onclick="window.location = 'index.php?route=product/category&amp;path=34_44';">Theid cupensg</a></li><li><a href="index.php?route=product/category&amp;path=57_71" onclick="window.location = 'index.php?route=product/category&amp;path=57_71';">Qunge genga</a></li><li><a href="index.php?route=product/category&amp;path=57_65" onclick="window.location = 'index.php?route=product/category&amp;path=57_65';">Tange manue</a></li><li><a href="index.php?route=product/category&amp;path=25_32" onclick="window.location = 'index.php?route=product/category&amp;path=25_32';">Web Cameras</a></li><li><a href="index.php?route=product/category&amp;path=57_67" onclick="window.location = 'index.php?route=product/category&amp;path=57_67';">Punge nenune</a></li><li><a href="index.php?route=product/category&amp;path=25_36" onclick="window.location = 'index.php?route=product/category&amp;path=25_36';">More Car Accessories</a></li><li><a href="index.php?route=product/category&amp;path=25_35" onclick="window.location = 'index.php?route=product/category&amp;path=25_35';">Gadgets &amp; Auto Parts</a></li></ul></li></ul></div></div><div class="col-sm-4 static-menu"><div class="menu"><ul><li><a href="index.php?route=product/category&amp;path=17" onclick="window.location = 'index.php?route=product/category&amp;path=17';" class="main-menu">Electronics </a><ul><li><a href="index.php?route=product/category&amp;path=34_48" onclick="window.location = 'index.php?route=product/category&amp;path=34_48';">Denta magela</a></li><li><a href="index.php?route=product/category&amp;path=17_63" onclick="window.location = 'index.php?route=product/category&amp;path=17_63';">Body Chains</a></li><li><a href="index.php?route=product/category&amp;path=34_47" onclick="window.location = 'index.php?route=product/category&amp;path=34_47';">Cusen mariot</a></li><li><a href="index.php?route=product/category&amp;path=57_68" onclick="window.location = 'index.php?route=product/category&amp;path=57_68';">Hanet magente</a></li><li><a href="index.php?route=product/category&amp;path=17_61" onclick="window.location = 'index.php?route=product/category&amp;path=17_61';">Necklaces</a></li><li><a href="index.php?route=product/category&amp;path=25_35" onclick="window.location = 'index.php?route=product/category&amp;path=25_35';">Gadgets &amp; Auto Parts</a></li><li><a href="index.php?route=product/category&amp;path=17_66" onclick="window.location = 'index.php?route=product/category&amp;path=17_66';">Rengae manges</a></li></ul></li></ul></div></div></div></div></div></div></div></div></li>
+										</a><div class="sub-menu" style="width:900px"><div class="content"><div class="row"><div class="col-sm-12"><div class="categories "><div class="row"><div class="col-sm-4 static-menu"><div class="menu"><ul><li><a href="category_left.php"  class="main-menu">Sports 2</a><ul><li><a href="category_left.php" >Scanners</a></li><li><a href="category_left.php" >Body Chains</a></li><li><a href="category_left.php" >Accessories</a></li><li><a href="category_left.php" >Web Cameras</a></li><li><a href="category_left.php" >Engite nanet</a></li><li><a href="category_left.php" >DIY Beads</a></li><li><a href="category_left.php" >Egante mangetes</a></li></ul></li></ul></div></div><div class="col-sm-4 static-menu"><div class="menu"><ul><li><a href="category_left.php"  class="main-menu">Fashion</a><ul><li><a href="category_left.php" >Theid cupensg</a></li><li><a href="category_left.php" >Qunge genga</a></li><li><a href="category_left.php" >Tange manue</a></li><li><a href="category_left.php" >Web Cameras</a></li><li><a href="category_left.php" >Punge nenune</a></li><li><a href="category_left.php" >More Car Accessories</a></li><li><a href="category_left.php" >Gadgets &amp; Auto Parts</a></li></ul></li></ul></div></div><div class="col-sm-4 static-menu"><div class="menu"><ul><li><a href="category_left.php"  class="main-menu">Electronics </a><ul><li><a href="category_left.php" >Denta magela</a></li><li><a href="category_left.php" >Body Chains</a></li><li><a href="category_left.php" >Cusen mariot</a></li><li><a href="category_left.php" >Hanet magente</a></li><li><a href="category_left.php" >Necklaces</a></li><li><a href="category_left.php" >Gadgets &amp; Auto Parts</a></li><li><a href="category_left.php" >Rengae manges</a></li></ul></li></ul></div></div></div></div></div></div></div></div></li>
 <li class='item-vertical css-menu with-sub-menu hover' ><p class='close-menu'></p><a href='' class='clearfix' >
 										<span><strong>
 											<i class='icon  icon5'></i><img src="image/catalog/demo/menu/icon/icon-4.png" alt="">Health &amp; Beauty
 										</strong></span>
 										 <span class='label'> </span>
 										<b class='fa fa-angle-right' ></b>
-										</a><div class="sub-menu" style="width:250px"><div class="content"><div class="row"><div class="col-sm-12"><div class="categories "><div class="row"><div class="col-sm-12 hover-menu"><div class="menu"><ul><li><a href="index.php?route=product/category&amp;path=17_63" onclick="window.location = 'index.php?route=product/category&amp;path=17_63';" class="main-menu">Body Chains<b class="fa fa-angle-right"></b></a><ul><li><a href="index.php?route=product/category&amp;path=57_68" onclick="window.location = 'index.php?route=product/category&amp;path=57_68';">Hanet magente</a></li><li><a href="index.php?route=product/category&amp;path=57_69" onclick="window.location = 'index.php?route=product/category&amp;path=57_69';">Knage unget</a></li><li><a href="index.php?route=product/category&amp;path=57_70" onclick="window.location = 'index.php?route=product/category&amp;path=57_70';">Latenge mange</a></li><li><a href="index.php?route=product/category&amp;path=25_29" onclick="window.location = 'index.php?route=product/category&amp;path=25_29';">Alarms</a></li></ul></li><li><a href="index.php?route=product/category&amp;path=25_31" onclick="window.location = 'index.php?route=product/category&amp;path=25_31';" class="main-menu">Scanners</a></li><li><a href="index.php?route=product/category&amp;path=33_80" onclick="window.location = 'index.php?route=product/category&amp;path=33_80';" class="main-menu">Boys News<b class="fa fa-angle-right"></b></a><ul><li><a href="index.php?route=product/category&amp;path=17_66" onclick="window.location = 'index.php?route=product/category&amp;path=17_66';">Rengae manges</a></li><li><a href="index.php?route=product/category&amp;path=33_73" onclick="window.location = 'index.php?route=product/category&amp;path=33_73';">Mobiles</a></li><li><a href="index.php?route=product/category&amp;path=18_46" onclick="window.location = 'index.php?route=product/category&amp;path=18_46';">necklaces</a></li><li><a href="index.php?route=product/category&amp;path=57_67" onclick="window.location = 'index.php?route=product/category&amp;path=57_67';">Punge nenune</a></li></ul></li><li><a href="index.php?route=product/category&amp;path=57_65" onclick="window.location = 'index.php?route=product/category&amp;path=57_65';" class="main-menu">Tange manue</a></li><li><a href="index.php?route=product/category&amp;path=34" onclick="window.location = 'index.php?route=product/category&amp;path=34';" class="main-menu">Sports</a></li><li><a href="index.php?route=product/category&amp;path=25_28" onclick="window.location = 'index.php?route=product/category&amp;path=25_28';" class="main-menu">Speakers<b class="fa fa-angle-right"></b></a><ul><li><a href="index.php?route=product/category&amp;path=57_71" onclick="window.location = 'index.php?route=product/category&amp;path=57_71';">Qunge genga</a></li><li><a href="index.php?route=product/category&amp;path=33_76" onclick="window.location = 'index.php?route=product/category&amp;path=33_76';">Accessories</a></li><li><a href="index.php?route=product/category&amp;path=18" onclick="window.location = 'index.php?route=product/category&amp;path=18';">Womens</a></li></ul></li></ul></div></div></div></div></div></div></div></div></li>
-<li class='item-vertical' ><p class='close-menu'></p><a href='index.php?route=product/category&amp;path=80' class='clearfix' >
+										</a><div class="sub-menu" style="width:250px"><div class="content"><div class="row"><div class="col-sm-12"><div class="categories "><div class="row"><div class="col-sm-12 hover-menu"><div class="menu"><ul><li><a href="category_left.php"  class="main-menu">Body Chains<b class="fa fa-angle-right"></b></a><ul><li><a href="category_left.php" >Hanet magente</a></li><li><a href="category_left.php" >Knage unget</a></li><li><a href="category_left.php" >Latenge mange</a></li><li><a href="category_left.php" >Alarms</a></li></ul></li><li><a href="category_left.php"  class="main-menu">Scanners</a></li><li><a href="category_left.php"  class="main-menu">Boys News<b class="fa fa-angle-right"></b></a><ul><li><a href="category_left.php" >Rengae manges</a></li><li><a href="category_left.php" >Mobiles</a></li><li><a href="category_left.php" >necklaces</a></li><li><a href="category_left.php" >Punge nenune</a></li></ul></li><li><a href="category_left.php"  class="main-menu">Tange manue</a></li><li><a href="category_left.php"  class="main-menu">Sports</a></li><li><a href="category_left.php"  class="main-menu">Speakers<b class="fa fa-angle-right"></b></a><ul><li><a href="category_left.php" >Qunge genga</a></li><li><a href="category_left.php" >Accessories</a></li><li><a href="category_left.php" >Womens</a></li></ul></li></ul></div></div></div></div></div></div></div></div></li>
+<li class='item-vertical' ><p class='close-menu'></p><a href="category_left.php" class='clearfix' >
 										<span><strong>
 											<i class='icon  icon6'></i><img src="image/catalog/demo/menu/icon/icon-5.png" alt="">Sport Clothing
 										</strong></span>
 										 <span class='label'> </span>
 										</a></li>
-<li class='item-vertical' ><p class='close-menu'></p><a href='index.php?route=product/category&amp;path=' class='clearfix' >
+<li class='item-vertical' ><p class='close-menu'></p><a href="category_left.php" class='clearfix' >
 										<span><strong>
 											<i class='icon  icon7'></i><img src="image/catalog/demo/menu/icon/icon-7.png" alt="">Watch &amp; Jewelry
 										</strong></span>
 										 <span class='label'> </span>
 										</a></li>
-<li class='item-vertical' ><p class='close-menu'></p><a href='index.php?route=product/category&amp;path=57' class='clearfix' >
+<li class='item-vertical' ><p class='close-menu'></p><a href="category_left.php" class='clearfix' >
 										<span><strong>
 											<i class='icon  icon8'></i><img src="image/catalog/demo/menu/icon/icon-8.png" alt="">Kitchen
 										</strong></span>
 										 <span class='label'> </span>
 										</a></li>
-<li class='item-vertical' ><p class='close-menu'></p><a href='index.php?route=product/category&amp;path=46' class='clearfix' >
+<li class='item-vertical' ><p class='close-menu'></p><a href="category_left.php" class='clearfix' >
 										<span><strong>
 											<i class='icon  icon9'></i><img src="image/catalog/demo/menu/icon/icon-9.png" alt="">Accessories
 										</strong></span>
 										 <span class='label'> </span>
 										</a></li>
-<li class='item-vertical' ><p class='close-menu'></p><a href='index.php?route=product/category&amp;path=46' class='clearfix' >
+<li class='item-vertical' ><p class='close-menu'></p><a href="category_left.php" class='clearfix' >
 										<span><strong>
 											<img src="image/catalog/demo/menu/icon/icon-6.png" alt="">Women Fashion
 										</strong></span>
 										 
 										</a></li>
-<li class='item-vertical' ><p class='close-menu'></p><a href='index.php?route=product/category&amp;path=46' class='clearfix' >
+<li class='item-vertical' ><p class='close-menu'></p><a href="category_left.php" class='clearfix' >
 										<span><strong>
 											<img src="image/catalog/demo/menu/icon/icon-7.png" alt="">Jewelry &amp; Watches
 										</strong></span>
 										 
 										</a></li>
-<li class='item-vertical' ><p class='close-menu'></p><a href='index.php?route=product/category&amp;path=46' class='clearfix' >
+<li class='item-vertical' ><p class='close-menu'></p><a href="category_left.php" class='clearfix' >
 										<span><strong>
 											<img src="image/catalog/demo/menu/icon/icon-9.png" alt="">Battereries &amp; Chargers
 										</strong></span>
@@ -457,101 +457,101 @@
 			<select class="no-border" name="category_id">
 				<option value="0">All Categories</option>
 						        		        <option value="85">Cup cake</option>
-		        															<option value="89">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cakes &amp; Cookiers</option>
+		        															<option value="89">------Cakes &amp; Cookiers</option>
 											
-															<option value="88">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Delicacies</option>
+															<option value="88">------Delicacies</option>
 											
-															<option value="86">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salads</option>
+															<option value="86">------Salads</option>
 											
-															<option value="87">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sushi Cormer</option>
+															<option value="87">------Sushi Cormer</option>
 											
 							        		        		        <option value="84">Laptop &amp; Notebook</option>
 		        							        		        		        <option value="20">Jewelry</option>
-		        															<option value="83">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Necklaces</option>
+		        															<option value="83">------Necklaces</option>
 											
-															<option value="26">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pearl Jewelry</option>
+															<option value="26">------Pearl Jewelry</option>
 											
-															<option value="27">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Slider 925</option>
+															<option value="27">------Slider 925</option>
 											
 							        		        		        <option value="18">Womens</option>
-		        															<option value="46">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;necklaces</option>
+		        															<option value="46">------necklaces</option>
 											
-															<option value="45">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pearl mens</option>
+															<option value="45">------Pearl mens</option>
 											
 							        		        		        <option value="25">Fashion</option>
-		        															<option value="35">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gadgets &amp; Auto Parts</option>
+		        															<option value="35">------Gadgets &amp; Auto Parts</option>
 											
-															<option value="36">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;More Car Accessories</option>
+															<option value="36">------More Car Accessories</option>
 											
-															<option value="29">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alarms</option>
+															<option value="29">------Alarms</option>
 											
-															<option value="30">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Printers</option>
+															<option value="30">------Printers</option>
 											
-															<option value="31">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Scanners</option>
+															<option value="31">------Scanners</option>
 											
-															<option value="28">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speakers</option>
+															<option value="28">------Speakers</option>
 											
-															<option value="32">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web Cameras</option>
+															<option value="32">------Web Cameras</option>
 											
 							        		        		        <option value="57">Shop Collection</option>
-		        															<option value="68">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hanet magente</option>
+		        															<option value="68">------Hanet magente</option>
 											
-															<option value="69">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Knage unget</option>
+															<option value="69">------Knage unget</option>
 											
-															<option value="70">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Latenge mange</option>
+															<option value="70">------Latenge mange</option>
 											
-															<option value="67">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Punge nenune</option>
+															<option value="67">------Punge nenune</option>
 											
-															<option value="71">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Qunge genga</option>
+															<option value="71">------Qunge genga</option>
 											
-															<option value="65">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tange manue</option>
+															<option value="65">------Tange manue</option>
 											
 							        		        		        <option value="17">Electronics </option>
-		        															<option value="64">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Angene mafin</option>
+		        															<option value="64">------Angene mafin</option>
 											
-															<option value="63">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Body Chains</option>
+															<option value="63">------Body Chains</option>
 											
-															<option value="62">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DIY Beads</option>
+															<option value="62">------DIY Beads</option>
 											
-															<option value="60">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Egante mangetes</option>
+															<option value="60">------Egante mangetes</option>
 											
-															<option value="61">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Necklaces</option>
+															<option value="61">------Necklaces</option>
 											
-															<option value="66">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rengae manges</option>
+															<option value="66">------Rengae manges</option>
 											
 							        		        		        <option value="33">Sports 2</option>
-		        															<option value="76">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Accessories</option>
+		        															<option value="76">------Accessories</option>
 											
-															<option value="80">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Boys News</option>
+															<option value="80">------Boys News</option>
 											
-															<option value="74">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Computers</option>
+															<option value="74">------Computers</option>
 											
-															<option value="72">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Electronics</option>
+															<option value="72">------Electronics</option>
 											
-															<option value="79">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fashion</option>
+															<option value="79">------Fashion</option>
 											
-															<option value="81">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Girls New</option>
+															<option value="81">------Girls New</option>
 											
-															<option value="77">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Men</option>
+															<option value="77">------Men</option>
 											
-															<option value="73">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mobiles</option>
+															<option value="73">------Mobiles</option>
 											
-															<option value="75">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sports</option>
+															<option value="75">------Sports</option>
 											
-															<option value="78">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Women</option>
+															<option value="78">------Women</option>
 											
 							        		        		        <option value="34">Sports</option>
-		        															<option value="43">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Camping &amp; Hiking</option>
+		        															<option value="43">------Camping &amp; Hiking</option>
 											
-															<option value="47">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cusen mariot</option>
+															<option value="47">------Cusen mariot</option>
 											
-															<option value="48">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Denta magela</option>
+															<option value="48">------Denta magela</option>
 											
-															<option value="55">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Engite nanet</option>
+															<option value="55">------Engite nanet</option>
 											
-															<option value="44">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Theid cupensg</option>
+															<option value="44">------Theid cupensg</option>
 											
-															<option value="59">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Verture agoent</option>
+															<option value="59">------Verture agoent</option>
 											
 							        			</select>
 		</div>
@@ -566,202 +566,7 @@
 	<input type="hidden" name="route" value="product/search"/>
 	</form>
 </div>
-<script type="text/javascript">
-// Autocomplete */
-(function($) {
-	$.fn.Soautocomplete = function(option) {
-		return this.each(function() {
-			this.timer = null;
-			this.items = new Array();
 
-			$.extend(this, option);
-
-			$(this).attr('autocomplete', 'off');
-
-			// Focus
-			$(this).on('focus', function() {
-				this.request();
-			});
-
-			// Blur
-			$(this).on('blur', function() {
-				setTimeout(function(object) {
-					object.hide();
-				}, 200, this);
-			});
-
-			// Keydown
-			$(this).on('keydown', function(event) {
-				switch(event.keyCode) {
-					case 27: // escape
-						this.hide();
-						break;
-					default:
-						this.request();
-						break;
-				}
-			});
-
-			// Click
-			this.click = function(event) {
-				event.preventDefault();
-
-				value = $(event.target).parent().attr('data-value');
-
-				if (value && this.items[value]) {
-					this.select(this.items[value]);
-				}
-			}
-
-			// Show
-			this.show = function() {
-				var pos = $(this).position();
-
-				$(this).siblings('ul.dropdown-menu').css({
-					top: pos.top + $(this).outerHeight(),
-					
-				});
-
-				$(this).siblings('ul.dropdown-menu').show();
-			}
-
-			// Hide
-			this.hide = function() {
-				$(this).siblings('ul.dropdown-menu').hide();
-			}
-
-			// Request
-			this.request = function() {
-				clearTimeout(this.timer);
-
-				this.timer = setTimeout(function(object) {
-					object.source($(object).val(), $.proxy(object.response, object));
-				}, 200, this);
-			}
-
-			// Response
-			this.response = function(json) {
-				html = '';
-
-				if (json.length) {
-					for (i = 0; i < json.length; i++) {
-						this.items[json[i]['value']] = json[i];
-					}
-
-					for (i = 0; i < json.length; i++) {
-						if (!json[i]['category']) {
-						html += '<li class="media" data-value="' + json[i]['value'] + '" title="' + json[i]['label'] + '">';
-						if(json[i]['image'] && json[i]['show_image'] && json[i]['show_image'] == 1 ) {
-							html += '	<a class="media-left" href="' + json[i]['link'] + '"><img class="pull-left" src="' + json[i]['image'] + '"></a>';
-						}
-
-						html += '<div class="media-body">';
-						html += '<a href="' + json[i]['link'] + '" title="' + json[i]['label'] + '"><span>' +json[i]['cate_name'] + json[i]['label'] + '</span></a>';
-						if(json[i]['price'] && json[i]['show_price'] && json[i]['show_price'] == 1){
-							html += '	<div class="price clearfix font-ct">';
-							if (!json[i]['special']) {
-								html += '<span class="price-new">'+json[i]['price']+'</span>';;
-							} else {
-								html += '<span class="price-new">' + json[i]['special'] + '</span> <span class="price-old" style="text-decoration:line-through;">' + json[i]['price'] + '</span>';
-							}
-							if (json[i]['tax']) {
-								html += '<span class="price-tax hidden">Tax : ' + json[i]['tax'] + '</span>';
-							}
-							html += '	</div>';
-						}
-						html += '</div></li>';
-						html += '<li class="clearfix"></li>';
-						}
-					}
-
-					// Get all the ones with a categories
-					var category = new Array();
-
-					for (i = 0; i < json.length; i++) {
-						if (json[i]['category']) {
-							if (!category[json[i]['category']]) {
-								category[json[i]['category']] = new Array();
-								category[json[i]['category']]['name'] = json[i]['category'];
-								category[json[i]['category']]['item'] = new Array();
-							}
-
-							category[json[i]['category']]['item'].push(json[i]);
-						}
-					}
-
-					for (i in category) {
-						html += '<li class="dropdown-header">' + category[i]['name'] + '</li>';
-
-						for (j = 0; j < category[i]['item'].length; j++) {
-							html += '<li data-value="' + category[i]['item'][j]['value'] + '"><a href="#">&nbsp;&nbsp;&nbsp;' + category[i]['item'][j]['label'] + '</a></li>';
-						}
-					}
-				}
-
-				if (html) {
-					this.show();
-				} else {
-					this.hide();
-				}
-
-				$(this).siblings('ul.dropdown-menu').html(html);
-			}
-
-			$(this).after('<ul class="dropdown-menu"></ul>');
-
-		});
-	}
-})(window.jQuery);
-
-$(document).ready(function() {
-	var selector = '#search0';
-	var total = 0;
-	var showimage = 1;
-	var showprice = 1;
-	var character = 3;
-	var height = 60;
-	var width = 60;
-
-	$(selector).find('input[name=\'search\']').Soautocomplete({
-		delay: 500,
-		source: function(request, response) {
-			var category_id = $(".select_category select[name=\"category_id\"]").first().val();
-			if(typeof(category_id) == 'undefined')
-				category_id = 0;
-			var limit = 5;
-			if(request.length >= character){
-				$.ajax({
-					url: 'index.php?route=extension/module/so_searchpro/autocomplete&filter_category_id='+category_id+'&limit='+limit+'&width='+width+'&height='+height+'&filter_name='+encodeURIComponent(request),
-					dataType: 'json',
-					success: function(json) {
-						response($.map(json, function(item) {
-							total = 0;
-							if(item.total){
-								total = item.total;
-							}
-
-							return {
-								price:   item.price,
-								special: item.special,
-								tax:     item.tax,
-								label:   item.name,
-								cate_name:   (item.category_name) ? item.category_name + ' > ' : '',
-								image:   item.image,
-								link:    item.link,
-								minimum:    item.minimum,
-								show_price:  showprice,
-								show_image:  showimage,
-								value:   item.product_id,
-							}
-						}));
-					}
-				});
-			}
-		},
-	});
-});
-
-</script>
 							</div>
 						</div>
 						<div class="header-right col-lg-3 col-md-2 col-sm-3 col-xs-8 pull-right">

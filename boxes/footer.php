@@ -79,11 +79,11 @@
 						<h3 class="footertitle">My Account</h3>
 						<div  class="modcontent" >
 							<ul class="menu">
-								<li><a href="http://localhost/so_revo/index.php?route=account/account">My Account</a></li>
-						        <li><a href="http://localhost/so_revo/index.php?route=account/order">Order History</a></li>
-						        <li><a href="http://localhost/so_revo/index.php?route=account/wishlist">Wish List</a></li>
-								<li><a href="http://localhost/so_revo/index.php?route=information/contact">Contact Us</a></li>
-						        <li><a href="http://localhost/so_revo/index.php?route=information/sitemap">Site Map</a></li>
+								<li><a href="index.php?route=account/account">My Account</a></li>
+						        <li><a href="index.php?route=account/order">Order History</a></li>
+						        <li><a href="index.php?route=account/wishlist">Wish List</a></li>
+								<li><a href="index.php?route=information/contact">Contact Us</a></li>
+						        <li><a href="index.php?route=information/sitemap">Site Map</a></li>
 							</ul>
 						</div>
 					</div>
@@ -93,10 +93,10 @@
 						<h3 class="footertitle">Information</h3>
 						<div  class="modcontent" >
 							<ul class="menu">
-																<li><a href="http://localhost/so_revo/index.php?route=information/information&amp;information_id=4">About Us</a></li>
-																<li><a href="http://localhost/so_revo/index.php?route=information/information&amp;information_id=6">FAQ</a></li>
-																<li><a href="http://localhost/so_revo/index.php?route=information/information&amp;information_id=3">Warranty And Services</a></li>
-																<li><a href="http://localhost/so_revo/index.php?route=information/information&amp;information_id=11">Support 24/7 page</a></li>
+																<li><a href="index.php?route=information/information&amp;information_id=4">About Us</a></li>
+																<li><a href="index.php?route=information/information&amp;information_id=6">FAQ</a></li>
+																<li><a href="index.php?route=information/information&amp;information_id=3">Warranty And Services</a></li>
+																<li><a href="index.php?route=information/information&amp;information_id=11">Support 24/7 page</a></li>
 															</ul>
 						</div>
 					</div>
@@ -106,11 +106,11 @@
 						<h3 class="footertitle">Extras</h3>
 						<div  class="modcontent" >
 							<ul class="menu">
-								<li><a href="http://localhost/so_revo/index.php?route=product/manufacturer">Brands</a></li>
-								<li><a href="http://localhost/so_revo/index.php?route=account/voucher">Gift Certificates</a></li>
-								<li><a href="http://localhost/so_revo/index.php?route=affiliate/account">Affiliates</a></li>
-								<li><a href="http://localhost/so_revo/index.php?route=product/special">Specials</a></li>
-								<li><a href="http://localhost/so_revo/index.php?route=account/return/add">Returns</a></li>
+								<li><a href="index.php?route=product/manufacturer">Brands</a></li>
+								<li><a href="index.php?route=account/voucher">Gift Certificates</a></li>
+								<li><a href="index.php?route=affiliate/account">Affiliates</a></li>
+								<li><a href="index.php?route=product/special">Specials</a></li>
+								<li><a href="index.php?route=account/return/add">Returns</a></li>
 							</ul>
 						</div>
 					</div>
@@ -174,60 +174,7 @@
 			</form>
 		</div> <!--/.modcontent-->
 		    </div>
-<script type="text/javascript">
-    function subscribe_newsletter()
-    {
-        var emailpattern = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
-        var email = $('#txtemail').val();
-        var d = new Date();
-        var createdate = d.getFullYear() + '-' + (d.getMonth()+1) + '-' + d.getDate() + ' ' + d.getHours() + ':' + d.getMinutes() + ':' + d.getSeconds();
-        var status   = 0;
-        var dataString = 'email='+email+'&createdate='+createdate+'&status='+status;
-        if(email != "")
-        {
-            if(!emailpattern.test(email))
-            {
-                $('.show-error').remove();
-                $('.send-mail').after('<span class="show-error" style="color: red;margin-left: 10px"> Invalid Email </span>')
-                return false;
-            }
-            else
-            {
-                $.ajax({
-                    url: 'index.php?route=extension/module/so_newletter_custom_popup/newsletter',
-                    type: 'post',
-                    data: dataString,
-                    dataType: 'json',
-                    success: function(json) {
-                        $('.show-error').remove();
-                        if(json.message == "Subscription Successfull") {
-                            $('.send-mail').after('<span class="show-error" style="color: #003bb3;margin-left: 10px"> ' + json.message + '</span>');
-                            setTimeout(function () {
-                                var this_close = $('.popup-close');
-                                this_close.parent().css('display', 'none');
-                                this_close.parents().find('.so_newletter_custom_popup_bg').removeClass('popup_bg');
-                            }, 3000);
 
-                        }else{
-                            $('.send-mail').after('<span class="show-error" style="color: red;margin-left: 10px"> ' + json.message + '</span>');
-                        }
-                        var x = document.getElementsByClassName('signup');
-                        for (i = 0; i < x.length; i++) {
-                        x[i].reset();
-                        }
-                    }
-                });
-                return false;
-            }
-        }
-        else
-        {
-            alert("Email Is Require");
-            $(email).focus();
-            return false;
-        }
-    }
-</script>
 </div>
 
 	
