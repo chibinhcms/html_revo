@@ -2330,6 +2330,105 @@
 					</div>
 				</div><!-- .block_9-->
 				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 col_kdqy block block_10">
+					<div id="content_slider_pw3t" class="yt-content-slider owl2-theme yt-content-slider-style-default arrow-default top-brand owl2-carousel owl2-responsive-1200 owl2-loaded yt-testimonials-slider" data-transitionin="" data-transitionout="" data-autoplay="no" data-autoheight="no" data-delay="4" data-speed="0.6" data-margin="10" data-items_column0="6" data-items_column1="4" data-items_column2="3" data-items_column3="2" data-items_column4="2" data-arrows="yes" data-pagination="no" data-lazyload="no" data-loop="yes" data-hoverpause="yes">
+
+						<div class="yt-content-slide yt-clearfix yt-content-wrap">
+							<a href="#" title="" target="brank"><img src="image/catalog/demo/manufacturer/brand-2.png" alt="title_593bdb84d5e7c312401497095044">
+							</a>
+						</div>
+
+						<div class="yt-content-slide yt-clearfix yt-content-wrap">
+							<a href="#" title="" target="brank"><img src="image/catalog/demo/manufacturer/brand-3.png" alt="title_593bdb84d5e8455371497095044">
+							</a>
+						</div>
+
+						<div class="yt-content-slide yt-clearfix yt-content-wrap">
+							<a href="#" title="" target="brank"><img src="image/catalog/demo/manufacturer/brand-4.png" alt="title_593bdb84d5e8c296381497095044">
+							</a>
+						</div>
+
+						<div class="yt-content-slide yt-clearfix yt-content-wrap">
+							<a href="#" title="" target="brank"><img src="image/catalog/demo/manufacturer/brand-5.png" alt="title_593bdb84d5e93203591497095044">
+							</a>
+						</div>
+
+						<div class="yt-content-slide yt-clearfix yt-content-wrap">
+							<a href="#" title="" target="brank"><img src="image/catalog/demo/manufacturer/brand-6.png" alt="title_593bdb84d5e9a119561497095044">
+							</a>
+						</div>
+
+						<div class="yt-content-slide yt-clearfix yt-content-wrap">
+							<a href="#" title="" target="brank"><img src="image/catalog/demo/manufacturer/brand-3.png" alt="title_593bdb84d5ea1273571497095044">
+							</a>
+						</div>
+
+						<div class="yt-content-slide yt-clearfix yt-content-wrap">
+							<a href="#" title="" target="brank"><img src="image/catalog/demo/manufacturer/brand-1.png" alt="title_593bdb84d5e6d91311497095044">
+							</a>
+						</div>
+
+						<div class="yt-content-slide yt-clearfix yt-content-wrap">
+							<a href="#" title="" target="brank"><img src="image/catalog/demo/manufacturer/brand-2.png" alt="title_593bdb84d5e7c312401497095044">
+							</a>
+						</div>
+
+						<div class="yt-content-slide yt-clearfix yt-content-wrap">
+							<a href="#" title="" target="brank"><img src="image/catalog/demo/manufacturer/brand-3.png" alt="title_593bdb84d5e8455371497095044">
+							</a>
+						</div>
+
+						<div class="yt-content-slide yt-clearfix yt-content-wrap">
+							<a href="#" title="" target="brank"><img src="image/catalog/demo/manufacturer/brand-4.png" alt="title_593bdb84d5e8c296381497095044">
+							</a>
+						</div>
+
+						<div class="yt-content-slide yt-clearfix yt-content-wrap">
+							<a href="#" title="" target="brank"><img src="image/catalog/demo/manufacturer/brand-5.png" alt="title_593bdb84d5e93203591497095044">
+							</a>
+						</div>
+
+						<div class="yt-content-slide yt-clearfix yt-content-wrap">
+							<a href="#" title="" target="brank"><img src="image/catalog/demo/manufacturer/brand-6.png" alt="title_593bdb84d5e9a119561497095044">
+							</a>
+						</div>
+
+						<div class="yt-content-slide yt-clearfix yt-content-wrap">
+							<a href="#" title="" target="brank"><img src="image/catalog/demo/manufacturer/brand-3.png" alt="title_593bdb84d5ea1273571497095044">
+							</a>
+						</div>
+
+						<div class="yt-content-slide yt-clearfix yt-content-wrap">
+							<a href="#" title="" target="brank"><img src="image/catalog/demo/manufacturer/brand-1.png" alt="title_593bdb84d5e6d91311497095044">
+							</a>
+						</div>
+
+						<div class="yt-content-slide yt-clearfix yt-content-wrap">
+							<a href="#" title="" target="brank"><img src="image/catalog/demo/manufacturer/brand-2.png" alt="title_593bdb84d5e7c312401497095044">
+							</a>
+						</div>
+
+						<div class="yt-content-slide yt-clearfix yt-content-wrap">
+							<a href="#" title="" target="brank"><img src="image/catalog/demo/manufacturer/brand-3.png" alt="title_593bdb84d5e8455371497095044">
+							</a>
+						</div>
+
+						<div class="yt-content-slide yt-clearfix yt-content-wrap">
+							<a href="#" title="" target="brank"><img src="image/catalog/demo/manufacturer/brand-4.png" alt="title_593bdb84d5e8c296381497095044">
+							</a>
+						</div>
+
+						<div class="yt-content-slide yt-clearfix yt-content-wrap">
+							<a href="#" title="" target="brank"><img src="image/catalog/demo/manufacturer/brand-5.png" alt="title_593bdb84d5e93203591497095044">
+							</a>
+						</div>
+
+						<div class="yt-content-slide yt-clearfix yt-content-wrap">
+							<a href="#" title="" target="brank"><img src="image/catalog/demo/manufacturer/brand-6.png" alt="title_593bdb84d5e9a119561497095044">
+							</a>
+						</div>
+
+
+					</div>
 				</div><!-- .block_10 -->
 			</div>
 		</div>

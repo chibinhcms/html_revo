@@ -20,7 +20,7 @@
 <link rel="stylesheet" href="assets/css/extra_slider_css3.css">
 <link rel="stylesheet" href="assets/css/so-listing-tabs.css">
 <link rel="stylesheet" href="assets/css/latest_blog_style.css">
-<!-- <link rel="stylesheet" href="assets/css/content_slider.css"> -->
+<link rel="stylesheet" href="assets/css/content_slider.css">
 <link rel="stylesheet" href="assets/css/style_render_244.css">
 <link rel="stylesheet" href="assets/css/page_builder_style.css">
 <link rel="stylesheet" href="assets/css/newletter_custom_popup_style.css">
