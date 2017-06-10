@@ -11,17 +11,7 @@
                        <!--countdown box-->
                        <div class="countdown_box">
                           <div class="countdown_inner">
-                             <div class="title ">This limited offer ends in: </div>
-                             <script type="text/javascript">
-							$(function()
-							{
-							   var austDay = new Date(2019, 9 - 1, 24);
-							   $('.defaultCountdown-47').countdown(austDay, function(event)
-							   {
-							      var $this = $(this).html(event.strftime('' + '<div class="time-item time-day"><div class="num-time">%D</div><div class="name-time">Days </div></div>' + '<div class="time-item time-hour"><div class="num-time">%H</div><div class="name-time">Hours </div></div>' + '<div class="time-item time-min"><div class="num-time">%M</div><div class="name-time">Mins </div></div>' + '<div class="time-item time-sec"><div class="num-time">%S</div><div class="name-time">Secs </div></div>'));
-							   });
-							});
-							</script>
+                             <div class="title ">This limited offer ends in: </div>                             
                              <div class="defaultCountdown-47">
                                 <div class="time-item time-day">
                                    <div class="num-time">836</div>
@@ -88,17 +78,7 @@
                        <!--countdown box-->
                        <div class="countdown_box">
                           <div class="countdown_inner">
-                             <div class="title ">This limited offer ends in: </div>
-                             <script type="text/javascript">
-								$(function()
-								{
-								   var austDay = new Date(2019, 10 - 1, 21);
-								   $('.defaultCountdown-28').countdown(austDay, function(event)
-								   {
-								      var $this = $(this).html(event.strftime('' + '<div class="time-item time-day"><div class="num-time">%D</div><div class="name-time">Days </div></div>' + '<div class="time-item time-hour"><div class="num-time">%H</div><div class="name-time">Hours </div></div>' + '<div class="time-item time-min"><div class="num-time">%M</div><div class="name-time">Mins </div></div>' + '<div class="time-item time-sec"><div class="num-time">%S</div><div class="name-time">Secs </div></div>'));
-								   });
-								});
-                     		</script>
+                             <div class="title ">This limited offer ends in: </div>                             
                              <div class="defaultCountdown-28">
                                 <div class="time-item time-day">
                                    <div class="num-time">863</div>
@@ -167,16 +147,6 @@
                        <div class="countdown_box">
                           <div class="countdown_inner">
                              <div class="title ">This limited offer ends in: </div>
-                             <script type="text/javascript">
-								$(function()
-								{
-								var austDay = new Date(2019, 8 - 1, 11);
-								$('.defaultCountdown-41').countdown(austDay, function(event)
-								{
-								  var $this = $(this).html(event.strftime('' + '<div class="time-item time-day"><div class="num-time">%D</div><div class="name-time">Days </div></div>' + '<div class="time-item time-hour"><div class="num-time">%H</div><div class="name-time">Hours </div></div>' + '<div class="time-item time-min"><div class="num-time">%M</div><div class="name-time">Mins </div></div>' + '<div class="time-item time-sec"><div class="num-time">%S</div><div class="name-time">Secs </div></div>'));
-								});
-								});
-                             </script>
                              <div class="defaultCountdown-41">
                                 <div class="time-item time-day">
                                    <div class="num-time">792</div>
@@ -245,16 +215,7 @@
                        <div class="countdown_box">
                           <div class="countdown_inner">
                              <div class="title ">This limited offer ends in: </div>
-                             <script type="text/javascript">
-								$(function()
-								{
-								   var austDay = new Date(2019, 10 - 1, 22);
-								   $('.defaultCountdown-45').countdown(austDay, function(event)
-								   {
-								      var $this = $(this).html(event.strftime('' + '<div class="time-item time-day"><div class="num-time">%D</div><div class="name-time">Days </div></div>' + '<div class="time-item time-hour"><div class="num-time">%H</div><div class="name-time">Hours </div></div>' + '<div class="time-item time-min"><div class="num-time">%M</div><div class="name-time">Mins </div></div>' + '<div class="time-item time-sec"><div class="num-time">%S</div><div class="name-time">Secs </div></div>'));
-								   });
-								});
-							</script>
+
                              <div class="defaultCountdown-45">
                                 <div class="time-item time-day">
                                    <div class="num-time">864</div>
@@ -323,16 +284,6 @@
                        <div class="countdown_box">
                           <div class="countdown_inner">
                              <div class="title ">This limited offer ends in: </div>
-                             <script type="text/javascript">
-								$(function()
-								{
-								   var austDay = new Date(2019, 9 - 1, 23);
-								   $('.defaultCountdown-44').countdown(austDay, function(event)
-								   {
-								      var $this = $(this).html(event.strftime('' + '<div class="time-item time-day"><div class="num-time">%D</div><div class="name-time">Days </div></div>' + '<div class="time-item time-hour"><div class="num-time">%H</div><div class="name-time">Hours </div></div>' + '<div class="time-item time-min"><div class="num-time">%M</div><div class="name-time">Mins </div></div>' + '<div class="time-item time-sec"><div class="num-time">%S</div><div class="name-time">Secs </div></div>'));
-								   });
-								});
-                             </script>
                              <div class="defaultCountdown-44">
                                 <div class="time-item time-day">
                                    <div class="num-time">835</div>
@@ -401,16 +352,6 @@
                        <div class="countdown_box">
                           <div class="countdown_inner">
                              <div class="title ">This limited offer ends in: </div>
-                             <script type="text/javascript">
-								$(function()
-								{
-								   var austDay = new Date(2018, 2 - 1, 09);
-								   $('.defaultCountdown-76').countdown(austDay, function(event)
-								   {
-								      var $this = $(this).html(event.strftime('' + '<div class="time-item time-day"><div class="num-time">%D</div><div class="name-time">Days </div></div>' + '<div class="time-item time-hour"><div class="num-time">%H</div><div class="name-time">Hours </div></div>' + '<div class="time-item time-min"><div class="num-time">%M</div><div class="name-time">Mins </div></div>' + '<div class="time-item time-sec"><div class="num-time">%S</div><div class="name-time">Secs </div></div>'));
-								   });
-								});
-							</script>
                              <div class="defaultCountdown-76">
                                 <div class="time-item time-day">
                                    <div class="num-time">244</div>
@@ -479,16 +420,6 @@
                        <div class="countdown_box">
                           <div class="countdown_inner">
                              <div class="title ">This limited offer ends in: </div>
-                             <script type="text/javascript">
-								$(function()
-								{
-								   var austDay = new Date(2018, 11 - 1, 24);
-								   $('.defaultCountdown-66').countdown(austDay, function(event)
-								   {
-								      var $this = $(this).html(event.strftime('' + '<div class="time-item time-day"><div class="num-time">%D</div><div class="name-time">Days </div></div>' + '<div class="time-item time-hour"><div class="num-time">%H</div><div class="name-time">Hours </div></div>' + '<div class="time-item time-min"><div class="num-time">%M</div><div class="name-time">Mins </div></div>' + '<div class="time-item time-sec"><div class="num-time">%S</div><div class="name-time">Secs </div></div>'));
-								   });
-								});
-                             </script>
                              <div class="defaultCountdown-66">
                                 <div class="time-item time-day">
                                    <div class="num-time">532</div>
@@ -557,16 +488,6 @@
                        <div class="countdown_box">
                           <div class="countdown_inner">
                              <div class="title ">This limited offer ends in: </div>
-                             <script type="text/javascript">
-								$(function()
-								{
-								   var austDay = new Date(2019, 2 - 1, 09);
-								   $('.defaultCountdown-94').countdown(austDay, function(event)
-								   {
-								      var $this = $(this).html(event.strftime('' + '<div class="time-item time-day"><div class="num-time">%D</div><div class="name-time">Days </div></div>' + '<div class="time-item time-hour"><div class="num-time">%H</div><div class="name-time">Hours </div></div>' + '<div class="time-item time-min"><div class="num-time">%M</div><div class="name-time">Mins </div></div>' + '<div class="time-item time-sec"><div class="num-time">%S</div><div class="name-time">Secs </div></div>'));
-								   });
-								});
-                             </script>
                              <div class="defaultCountdown-94">
                                 <div class="time-item time-day">
                                    <div class="num-time">609</div>
@@ -631,16 +552,6 @@
                        <div class="countdown_box">
                           <div class="countdown_inner">
                              <div class="title ">This limited offer ends in: </div>
-                             <script type="text/javascript">
-								$(function()
-								{
-								   var austDay = new Date(2019, 12 - 1, 15);
-								   $('.defaultCountdown-58').countdown(austDay, function(event)
-								   {
-								      var $this = $(this).html(event.strftime('' + '<div class="time-item time-day"><div class="num-time">%D</div><div class="name-time">Days </div></div>' + '<div class="time-item time-hour"><div class="num-time">%H</div><div class="name-time">Hours </div></div>' + '<div class="time-item time-min"><div class="num-time">%M</div><div class="name-time">Mins </div></div>' + '<div class="time-item time-sec"><div class="num-time">%S</div><div class="name-time">Secs </div></div>'));
-								   });
-								});
-                             </script>
                              <div class="defaultCountdown-58">
                                 <div class="time-item time-day">
                                    <div class="num-time">918</div>
@@ -703,24 +614,3 @@
       </div>
    </div>
 </div>
-
-<script type="text/javascript"><!--
-	$(document).ready(function() {
-		var $nav = $(".deals_module_wrapper");
-		$nav.each(function () {
-			$(this).owlCarousel2({
-				nav:true,
-				dots: false,
-				slideBy: 1,
-				margin:0,
-				navText: ['<i class="fa fa-angle-left"></i>','<i class="fa fa-angle-right"> </i>'],
-				responsive:{
-					0:{items:1},
-					600:{items:1},
-					1000:{items:1}
-				}
-			});
-		})
-		
-	});
-//--></script>

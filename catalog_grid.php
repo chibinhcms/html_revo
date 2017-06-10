@@ -61,14 +61,6 @@
         <div class="countdown_box">
           <div class="countdown_inner">
             <div class="title ">This limited offer ends in:</div>
-            <script type="text/javascript">
-				$(function() {
-				  var austDay = new Date(2019, 9 - 1, 24);
-				  $('.defaultCountdown-47').countdown(austDay, function(event) {
-				    var $this = $(this).html(event.strftime('' + ' < div class = "time-item time-day" > < div class = "num-time" > % D < /div> < div class = "name-time" > Days < /div> < /div>' + ' < div class = "time-item time-hour" > < div class = "num-time" > % H < /div> < div class = "name-time" > Hours < /div> < /div>' + ' < div class = "time-item time-min" > < div class = "num-time" > % M < /div> < div class = "name-time" > Mins < /div> < /div>' + ' < div class = "time-item time-sec" > < div class = "num-time" > % S < /div> < div class = "name-time" > Secs < /div> < /div>'));
-				  });
-				});
-            </script>
             <div class="defaultCountdown-47">
               <div class="time-item time-day">
                 <div class="num-time">835</div>
@@ -109,6 +101,9 @@
             </div>
           </div>
           <div class="price"> <span class="price-new">$34.00</span> <span class="price-old">$100.00</span> </div>
+          <div class="description  hidden ">
+			<p>rem ipsum dolor sit amet, consetetursadipscing elitr, sed diam nonumy eirmodtempor invidunt ut labore et doloremagna aliquyam erat, sed diam voluptua.At vero eos et accusam et justo duo dolores	et ea ..</p>
+		  </div>
         </div>
         <div class="button-group">
           <button class="addToCart" type="button" data-toggle="tooltip" > <span>Add to Cart</span> </button>
@@ -132,14 +127,6 @@
         <div class="countdown_box">
           <div class="countdown_inner">
             <div class="title ">This limited offer ends in:</div>
-            <script type="text/javascript">
-				$(function() {
-				  var austDay = new Date(2019, 10 - 1, 21);
-				  $('.defaultCountdown-28').countdown(austDay, function(event) {
-				    var $this = $(this).html(event.strftime('' + ' < div class = "time-item time-day" > < div class = "num-time" > % D < /div> < div class = "name-time" > Days < /div> < /div>' + ' < div class = "time-item time-hour" > < div class = "num-time" > % H < /div> < div class = "name-time" > Hours < /div> < /div>' + ' < div class = "time-item time-min" > < div class = "num-time" > % M < /div> < div class = "name-time" > Mins < /div> < /div>' + ' < div class = "time-item time-sec" > < div class = "num-time" > % S < /div> < div class = "name-time" > Secs < /div> < /div>'));
-				  });
-				});
-            </script>
             <div class="defaultCountdown-28">
               <div class="time-item time-day">
                 <div class="num-time">862</div>
@@ -180,6 +167,9 @@
             </div>
           </div>
           <div class="price"> <span class="price-new">$70.00</span> <span class="price-old">$100.00</span> </div>
+          <div class="description  hidden ">
+			<p>rem ipsum dolor sit amet, consetetursadipscing elitr, sed diam nonumy eirmodtempor invidunt ut labore et doloremagna aliquyam erat, sed diam voluptua.At vero eos et accusam et justo duo dolores	et ea ..</p>
+		  </div>
         </div>
         <div class="button-group">
           <button class="addToCart" type="button" data-toggle="tooltip" title="" onclick="cart.add('28', '1');" data-original-title="Add to Cart"> <span>Add to Cart</span> </button>
@@ -203,14 +193,6 @@
         <div class="countdown_box">
           <div class="countdown_inner">
             <div class="title ">This limited offer ends in:</div>
-            <script type="text/javascript">
-				$(function() {
-				  var austDay = new Date(2019, 8 - 1, 11);
-				  $('.defaultCountdown-41').countdown(austDay, function(event) {
-				    var $this = $(this).html(event.strftime('' + ' < div class = "time-item time-day" > < div class = "num-time" > % D < /div> < div class = "name-time" > Days < /div> < /div>' + ' < div class = "time-item time-hour" > < div class = "num-time" > % H < /div> < div class = "name-time" > Hours < /div> < /div>' + ' < div class = "time-item time-min" > < div class = "num-time" > % M < /div> < div class = "name-time" > Mins < /div> < /div>' + ' < div class = "time-item time-sec" > < div class = "num-time" > % S < /div> < div class = "name-time" > Secs < /div> < /div>'));
-				  });
-				});
-            </script>
             <div class="defaultCountdown-41">
               <div class="time-item time-day">
                 <div class="num-time">791</div>
@@ -240,7 +222,7 @@
         </div>
       <div class="right-block">
         <div class="caption">
-          <h4><a href="#">Dignissi ducimus</a>/h4>
+          <h4><a href="#">Dignissi ducimus</a></h4>
           <div class="ratings">
             <div class="rating-box"> 
             	<span class="fa fa-stack"><i class="fa fa-star-o fa-stack-1x"></i></span>
@@ -250,7 +232,10 @@
             	<span class="fa fa-stack"><i class="fa fa-star-o fa-stack-1x"></i></span> 
             </div>
           </div>
-          <div class="price"> <span class="price-new">$67.00</span> <span class="price-old">$100.00</span> </div>         
+          <div class="price"> <span class="price-new">$67.00</span> <span class="price-old">$100.00</span> </div> 
+          <div class="description  hidden ">
+			<p>rem ipsum dolor sit amet, consetetursadipscing elitr, sed diam nonumy eirmodtempor invidunt ut labore et doloremagna aliquyam erat, sed diam voluptua.At vero eos et accusam et justo duo dolores	et ea ..</p>
+		  </div>        
         </div>
         <div class="button-group">
           <button class="addToCart" type="button" data-toggle="tooltip"> <span>Add to Cart</span> </button>
@@ -272,14 +257,6 @@
         <div class="countdown_box">
           <div class="countdown_inner">
             <div class="title ">This limited offer ends in:</div>
-            <script type="text/javascript">
-				$(function() {
-				  var austDay = new Date(2019, 10 - 1, 22);
-				  $('.defaultCountdown-45').countdown(austDay, function(event) {
-				    var $this = $(this).html(event.strftime('' + ' < div class = "time-item time-day" > < div class = "num-time" > % D < /div> < div class = "name-time" > Days < /div> < /div>' + ' < div class = "time-item time-hour" > < div class = "num-time" > % H < /div> < div class = "name-time" > Hours < /div> < /div>' + ' < div class = "time-item time-min" > < div class = "num-time" > % M < /div> < div class = "name-time" > Mins < /div> < /div>' + ' < div class = "time-item time-sec" > < div class = "num-time" > % S < /div> < div class = "name-time" > Secs < /div> < /div>'));
-				  });
-				});
-            </script>
             <div class="defaultCountdown-45">
               <div class="time-item time-day">
                 <div class="num-time">863</div>
@@ -319,7 +296,10 @@
             	<span class="fa fa-stack"><i class="fa fa-star-o fa-stack-1x"></i></span> 
             </div>
           </div>
-          <div class="price"> <span class="price-new">$67.00</span> <span class="price-old">$100.00</span> </div>          
+          <div class="price"> <span class="price-new">$67.00</span> <span class="price-old">$100.00</span> </div>  
+          <div class="description  hidden ">
+			<p>rem ipsum dolor sit amet, consetetursadipscing elitr, sed diam nonumy eirmodtempor invidunt ut labore et doloremagna aliquyam erat, sed diam voluptua.At vero eos et accusam et justo duo dolores	et ea ..</p>
+		  </div>        
         </div>
         <div class="button-group">
           <button class="addToCart" type="button" data-toggle="tooltip" data-original-title="Add to Cart"> <span>Add to Cart</span> </button>
@@ -344,14 +324,6 @@
         <div class="countdown_box">
           <div class="countdown_inner">
             <div class="title ">This limited offer ends in:</div>
-            <script type="text/javascript">
-				$(function() {
-				  var austDay = new Date(2019, 9 - 1, 23);
-				  $('.defaultCountdown-44').countdown(austDay, function(event) {
-				    var $this = $(this).html(event.strftime('' + ' < div class = "time-item time-day" > < div class = "num-time" > % D < /div> < div class = "name-time" > Days < /div> < /div>' + ' < div class = "time-item time-hour" > < div class = "num-time" > % H < /div> < div class = "name-time" > Hours < /div> < /div>' + ' < div class = "time-item time-min" > < div class = "num-time" > % M < /div> < div class = "name-time" > Mins < /div> < /div>' + ' < div class = "time-item time-sec" > < div class = "num-time" > % S < /div> < div class = "name-time" > Secs < /div> < /div>'));
-				  });
-				});
-            </script>
             <div class="defaultCountdown-44">
               <div class="time-item time-day">
                 <div class="num-time">834</div>
@@ -391,7 +363,10 @@
             	<span class="fa fa-stack"><i class="fa fa-star-o fa-stack-1x"></i></span>
             </div>
           </div>
-          <div class="price"> <span class="price-new">$65.00</span> <span class="price-old">$1,000.00</span> </div>          
+          <div class="price"> <span class="price-new">$65.00</span> <span class="price-old">$1,000.00</span> </div>  
+          <div class="description  hidden ">
+			<p>rem ipsum dolor sit amet, consetetursadipscing elitr, sed diam nonumy eirmodtempor invidunt ut labore et doloremagna aliquyam erat, sed diam voluptua.At vero eos et accusam et justo duo dolores	et ea ..</p>
+		  </div>        
         </div>
         <div class="button-group">
           <button class="addToCart" type="button" data-toggle="tooltip" title="" onclick="cart.add('44', '1');" data-original-title="Add to Cart"> <span>Add to Cart</span> </button>
@@ -430,6 +405,9 @@
             </div>
           </div>
           <div class="price"> <span class="price-new">$96.00</span> </div>
+          <div class="description  hidden ">
+			<p>rem ipsum dolor sit amet, consetetursadipscing elitr, sed diam nonumy eirmodtempor invidunt ut labore et doloremagna aliquyam erat, sed diam voluptua.At vero eos et accusam et justo duo dolores	et ea ..</p>
+		  </div>
         </div>
         <div class="button-group">
           <button class="addToCart" type="button" data-toggle="tooltip" data-original-title="Add to Cart"> <span>Add to Cart</span> </button>
@@ -453,14 +431,6 @@
         <div class="countdown_box">
           <div class="countdown_inner">
             <div class="title ">This limited offer ends in:</div>
-            <script type="text/javascript">
-				$(function() {
-				  var austDay = new Date(2018, 2 - 1, 09);
-				  $('.defaultCountdown-76').countdown(austDay, function(event) {
-				    var $this = $(this).html(event.strftime('' + ' < div class = "time-item time-day" > < div class = "num-time" > % D < /div> < div class = "name-time" > Days < /div> < /div>' + ' < div class = "time-item time-hour" > < div class = "num-time" > % H < /div> < div class = "name-time" > Hours < /div> < /div>' + ' < div class = "time-item time-min" > < div class = "num-time" > % M < /div> < div class = "name-time" > Mins < /div> < /div>' + ' < div class = "time-item time-sec" > < div class = "num-time" > % S < /div> < div class = "name-time" > Secs < /div> < /div>'));
-				  });
-				});
-            </script>
             <div class="defaultCountdown-76">
               <div class="time-item time-day">
                 <div class="num-time">243</div>
@@ -501,6 +471,9 @@
             </div>
           </div>
           <div class="price"> <span class="price-new">$42.00</span> <span class="price-old">$55.00</span> </div>
+          <div class="description  hidden ">
+			<p>rem ipsum dolor sit amet, consetetursadipscing elitr, sed diam nonumy eirmodtempor invidunt ut labore et doloremagna aliquyam erat, sed diam voluptua.At vero eos et accusam et justo duo dolores	et ea ..</p>
+		  </div>
           </div>
         <div class="button-group">
           <button class="addToCart" type="button" data-toggle="tooltip" data-original-title="Add to Cart"> <span>Add to Cart</span> </button>
@@ -516,20 +489,12 @@
         <div class="product-image-container lazy second_img  lazy-loaded">
           <a href="#" title="Capicola sausagops"> 
           <img src="image/catalog/demo/product/Electronic/2.jpg" title="Capicola sausagops" class="img-1 img-responsive"> 
-          <img src="image/catalog/demo/product/Electronic/3-270x270.jpg" alt="Capicola sausagops" title="Capicola sausagops" class="img-2 img-responsive"> </a>
+          <img src="image/catalog/demo/product/Electronic/3.jpg" alt="Capicola sausagops" title="Capicola sausagops" class="img-2 img-responsive"> </a>
         </div>
         <!--COUNTDOWN BOX-->
         <div class="countdown_box">
           <div class="countdown_inner">
             <div class="title ">This limited offer ends in:</div>
-            <script type="text/javascript">
-				$(function() {
-				  var austDay = new Date(2018, 11 - 1, 24);
-				  $('.defaultCountdown-66').countdown(austDay, function(event) {
-				    var $this = $(this).html(event.strftime('' + ' < div class = "time-item time-day" > < div class = "num-time" > % D < /div> < div class = "name-time" > Days < /div> < /div>' + ' < div class = "time-item time-hour" > < div class = "num-time" > % H < /div> < div class = "name-time" > Hours < /div> < /div>' + ' < div class = "time-item time-min" > < div class = "num-time" > % M < /div> < div class = "name-time" > Mins < /div> < /div>' + ' < div class = "time-item time-sec" > < div class = "num-time" > % S < /div> < div class = "name-time" > Secs < /div> < /div>'));
-				  });
-				});
-            </script>
             <div class="defaultCountdown-66">
               <div class="time-item time-day">
                 <div class="num-time">531</div>
@@ -582,9 +547,6 @@
       </div>
     </div>
   </div>
-  <div class="clearfix visible-lg-block"></div>
-  <div class="clearfix visible-md-block"></div>
-  <div class="clearfix visible-xs-block"></div>
   <div class="product-layout col-lg-3 col-md-3 col-sm-4 col-xs-6 ">
     <div class="product-item-container">
       <div class="left-block">
@@ -613,6 +575,9 @@
             </div>
           </div>
           <div class="price"> <span class="price-new">$89.00</span> </div>
+          <div class="description  hidden ">
+			<p>rem ipsum dolor sit amet, consetetursadipscing elitr, sed diam nonumy eirmodtempor invidunt ut labore et doloremagna aliquyam erat, sed diam voluptua.At vero eos et accusam et justo duo dolores	et ea ..</p>
+		  </div>
         </div>
         <div class="button-group">
           <button class="addToCart" type="button" data-toggle="tooltip" data-original-title="Add to Cart"> <span>Add to Cart</span> </button>
@@ -635,14 +600,6 @@
         <div class="countdown_box">
           <div class="countdown_inner">
             <div class="title ">This limited offer ends in:</div>
-            <script type="text/javascript">
-				$(function() {
-				  var austDay = new Date(2019, 2 - 1, 09);
-				  $('.defaultCountdown-94').countdown(austDay, function(event) {
-				    var $this = $(this).html(event.strftime('' + ' < div class = "time-item time-day" > < div class = "num-time" > % D < /div> < div class = "name-time" > Days < /div> < /div>' + ' < div class = "time-item time-hour" > < div class = "num-time" > % H < /div> < div class = "name-time" > Hours < /div> < /div>' + ' < div class = "time-item time-min" > < div class = "num-time" > % M < /div> < div class = "name-time" > Mins < /div> < /div>' + ' < div class = "time-item time-sec" > < div class = "num-time" > % S < /div> < div class = "name-time" > Secs < /div> < /div>'));
-				  });
-				});
-            </script>
             <div class="defaultCountdown-94">
               <div class="time-item time-day">
                 <div class="num-time">608</div>
@@ -683,6 +640,9 @@
             </div>
           </div>
           <div class="price"> <span class="price-new">$41.00</span> <span class="price-old">$56.00</span> </div>
+          <div class="description  hidden ">
+			<p>rem ipsum dolor sit amet, consetetursadipscing elitr, sed diam nonumy eirmodtempor invidunt ut labore et doloremagna aliquyam erat, sed diam voluptua.At vero eos et accusam et justo duo dolores	et ea ..</p>
+		  </div>
         </div>
         <div class="button-group">
           <button class="addToCart" type="button" data-toggle="tooltip" title="" onclick="cart.add('94', '1');" data-original-title="Add to Cart"> <span>Add to Cart</span> </button>
@@ -705,14 +665,6 @@
         <div class="countdown_box">
           <div class="countdown_inner">
             <div class="title ">This limited offer ends in:</div>
-            <script type="text/javascript">
-				$(function() {
-				  var austDay = new Date(2019, 12 - 1, 15);
-				  $('.defaultCountdown-58').countdown(austDay, function(event) {
-				    var $this = $(this).html(event.strftime('' + ' < div class = "time-item time-day" > < div class = "num-time" > % D < /div> < div class = "name-time" > Days < /div> < /div>' + ' < div class = "time-item time-hour" > < div class = "num-time" > % H < /div> < div class = "name-time" > Hours < /div> < /div>' + ' < div class = "time-item time-min" > < div class = "num-time" > % M < /div> < div class = "name-time" > Mins < /div> < /div>' + ' < div class = "time-item time-sec" > < div class = "num-time" > % S < /div> < div class = "name-time" > Secs < /div> < /div>'));
-				  });
-				});
-            </script>
             <div class="defaultCountdown-58">
               <div class="time-item time-day">
                 <div class="num-time">917</div>
@@ -753,6 +705,9 @@
             </div>
           </div>
           <div class="price"> <span class="price-new">$50.00</span> <span class="price-old">$70.00</span> </div>
+          <div class="description  hidden ">
+			<p>rem ipsum dolor sit amet, consetetursadipscing elitr, sed diam nonumy eirmodtempor invidunt ut labore et doloremagna aliquyam erat, sed diam voluptua.At vero eos et accusam et justo duo dolores	et ea ..</p>
+		  </div>
          </div>
         <div class="button-group">
           <button class="addToCart" type="button" data-toggle="tooltip" title="" onclick="cart.add('58', '1');" data-original-title="Add to Cart"> <span>Add to Cart</span> </button>
@@ -784,6 +739,9 @@
             <div class="rating-box"> </div>
           </div>
           <div class="price"> <span class="price-new">$88.00</span> </div>
+          <div class="description  hidden ">
+			<p>rem ipsum dolor sit amet, consetetursadipscing elitr, sed diam nonumy eirmodtempor invidunt ut labore et doloremagna aliquyam erat, sed diam voluptua.At vero eos et accusam et justo duo dolores	et ea ..</p>
+		  </div>
         <div class="button-group">
           <button class="addToCart" type="button" data-toggle="tooltip" title="" onclick="cart.add('85', '1');" data-original-title="Add to Cart"> <span>Add to Cart</span> </button>
           <button class="wishlist btn-button" type="button" data-toggle="tooltip" title="" onclick="wishlist.add('85');" data-original-title="Add to Wish List"> <i class="fa fa-heart-o"></i> </button>
