@@ -762,10 +762,7 @@
       </div>
     </div>
   </div>
-  <div class="clearfix visible-lg-block"></div>
-  <div class="clearfix visible-md-block"></div>
-  <div class="clearfix visible-sm-block"></div>
-  <div class="clearfix visible-xs-block"></div>
+  </div>
 </div>
 
 <!-- Filter bottom !-->

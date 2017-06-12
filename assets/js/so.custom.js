@@ -485,6 +485,36 @@ $(document).ready(function(){
 	}
 	})('#so_deals_197081497089146');
 
-	
+	var $nav = $("#thumb-slider");
+								
+	$nav.each(function () {
+		$(this).owlCarousel2({
+			nav:true,
+			dots: false,
+			slideBy: 1,
+			margin:10,
+			navText: ['<i class="fa fa-caret-left"></i>','<i class="fa fa-caret-right"></i>'],
+													responsive:{
+				0:{
+					items:2
+				},
+				600:{
+					items:3
+				},
+				1000:{
+					items:5
+				}
+			}
+		});
+	})
+
+	$('#input-option261').on('click', 'span', function () {
+	   $('#input-option261 span').removeClass("active");
+	   $(this).addClass("active");
+	});
+	$('#input-option246').on('click', 'span', function() {
+		$('#input-option246 span').removeClass("active");
+		$(this).addClass("active");
+	});
 	
 });
